@@ -30,12 +30,18 @@ public class SolveEquations {
                 D = a11 * a22 - a21 * a12;
                 D1 = b1 * a22 - b2 * a12;
                 D2 = a11 * b2 - a21 * b1;
-                System.out.println("The solution of this system equation: " + (D1/D) + " and " + (D2/D));
+                if (D==0) {
+                    if (D2 == 0) {
+                        System.out.println("This system equation has infinite solutions");
+                    } else{
+                        System.out.println("This system equation has no solution");
+                    }
+                } else {
+                    System.out.println("The solution of this system equation: " + (D1 / D) + " and " + (D2 / D));
+                }
             } else {
                 System.out.println("Invalid! Please enter again!");
             }
         } while (choice != 0);
-
-
     }
 }
