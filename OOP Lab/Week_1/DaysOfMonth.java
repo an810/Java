@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class DaysOfMonth {
     public static void main(String[] args) {
         String[] months1 = {"", "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"};
@@ -12,10 +11,10 @@ public class DaysOfMonth {
         while (checkMonth) {
             System.out.print("Please enter month: ");
             String iMonth = sc.nextLine();
-            boolean check = true;
+            boolean check = false;
             for (int i=1; i<=12; i++) {
                 if (iMonth.equals(months1[i]) || iMonth.equals(months2[i]) || iMonth.equals(months3[i]) || iMonth.equals(months4[i])) {
-                    checkMonth = false;
+                    checkMonth = false; check = true;
                     month = i;
                     break;
                 }

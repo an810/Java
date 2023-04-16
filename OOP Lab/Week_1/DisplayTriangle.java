@@ -14,7 +14,7 @@ public class DisplayTriangle {
                 System.out.print("*");
             }
             val+=2;space--;
-            System.out.println("");
+            System.out.print("\n");
         }
     }
 }
