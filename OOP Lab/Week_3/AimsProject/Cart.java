@@ -46,9 +46,19 @@ public class Cart {
             System.out.println("There is not enough space in cart");
         } else {
             for (int i = 0; i < dvdListLength; i++) {
-                
+                itemsOrdered[qtyOrdered] = dvdList[i];
+                qtyOrdered++;
             }
         }
+    }
 
+    public void addDigitalVideoDisc(DigitalVideoDisc dvd1, DigitalVideoDisc dvd2) {
+        if (qtyOrdered == MAX_NUMBERS_ORDERED || qtyOrdered + 2 > MAX_NUMBERS_ORDERED) {
+            System.out.println("The cart is almost full");
+            return;
+        }
+        itemsOrdered[qtyOrdered] = dvd1; qtyOrdered++;
+        itemsOrdered[qtyOrdered] = dvd2; qtyOrdered++;
+        System.out.println("The discs have been added");
     }
 }
