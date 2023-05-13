@@ -1,3 +1,24 @@
-1. Is java a Pass by Value or a Pass by Reference Programming language
-2. After the call of swap(jungleDVD, cinderellaDVD) why does the title of these two objects still remain?
-3. After the call of changeTitle(jungleDVD, cinderellaDVD.getTitle()) why is the title of the JungleDVD changed?
+1. Try to add a method addDigitalVideoDisc which allows to pass an arbitrary number of arguments for dvd. Compare to an array parameter. What do you prefer in this case?
+- Compared to using an array parameter, using varargs syntax has some advantages and disadvantages. 
+ + Advantages:
+	Convinience - easier to call method with a list of arguments 
+	Flexibility - allows the method to take any number of arguments, whereas with an array parameter, the length is fixed
+ + Disadvantages:
+	Performance - creating an array from the arguments can be less efficient than passing an array directly
+	Memory usage - The varargs syntax creates an array to hold the arguments, which can consume more memory than passing an array directly
+-> In general, varargs syntax is a good choice when the number of arguments can vary and the performance/memory overhead is aceptable. Otherwise, if performance or memory is concerned, passing an array parameter can be a better choice. In conclusion, the choice between the two depends on the specific requirements of the application
+2. Is java a Pass by Value or a Pass by Reference Programming language
+- Java is a pass-by-value programming language. When method is called in Java, the values of the arguments are passed to the method as copies, not as references to the original objects
+
+3. After the call of swap(jungleDVD, cinderellaDVD) why does the title of these two objects still remain?
+- In Java, when a method is called, the values of the arguments are passed as copies, not as references to the original objects. This means that when the swap method is called with jungleDVD and cinderellaDVD, copies of the values of these two references are passed to the method, not the original references themselves. Therefore, the method swaps the contents of the objects referred to by these copies, but the original objects and their references remain unchanged. After the method call, the original references jungleDVD and cinderellaDVD still point to the same memory locations, and the titles of the objects have simply been exchanged.
+
+4. After the call of changeTitle(jungleDVD, cinderellaDVD.getTitle()) why is the title of the JungleDVD changed?
+- The changeTitle method changes the title of jungleDVD by passing the new title as an argument to the setTitle method of DigitalVideoDisc. This method can access the actual title attribute of the DigitalVideoDisc object, not a copy of it. When the last line of the method is executed, it creates a new String object that contains the same value as the title attribute of jungleDVD. This String object is a copy of the title attribute, but it is not the same object. Therefore, when the method returns, this new String object is discarded and has no effect on the title attribute of jungleDVD. However, the change to the title attribute has already been made by the setTitle method, which has changed the value of the title attribute of the DigitalVideoDisc object referred to by jungleDVD. Therefore, the title of jungleDVD is changed to the new title passed as an argument to changeTitle.
+
+
+
+
+
+
+
