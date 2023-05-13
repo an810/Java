@@ -9,7 +9,8 @@ public class StoreTest {
         store.addDVD(dvd2);
         DigitalVideoDisc dvd3 = new DigitalVideoDisc("Aladin", "Animation", 19.95f);
         store.addDVD(dvd3);
-
-
+        store.print();
+        store.removeDVD(dvd1);
+        store.print();
     }
 }
