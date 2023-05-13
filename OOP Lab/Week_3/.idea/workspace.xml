@@ -1,26 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a3d0ec1-7190-40c5-a15a-adb3f6fd12cc" name="Changes" comment="" />
+    <list default="true" id="8a3d0ec1-7190-40c5-a15a-adb3f6fd12cc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AimsProject/AimsProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/hust/soict/ict/aims/Aims.java" beforeDir="false" afterPath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/aims/Aims.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/hust/soict/ict/aims/cart/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/aims/cart/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/hust/soict/ict/aims/disc/DVDWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/hust/soict/ict/aims/disc/DigitalVideoDisc.java" beforeDir="false" afterPath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/aims/disc/DigitalVideoDisc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/hust/soict/ict/aims/store/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/aims/store/Store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/hust/soict/ict/test/cart/CartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/test/cart/CartTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/hust/soict/ict/test/disc/TestingPassingParameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/test/disc/TestingPassingParameter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/hust/soict/ict/test/store/StoreTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/test/store/StoreTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="2Pk955jJg1OCW6HZW4zsCPjeLEp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Code/GitHub/Java/OOP Lab/Week_3/AimsProject",
+    "jdk.selected.JAVA_MODULE": "openjdk-19",
+    "last_opened_file_path": "D:/Code/GitHub/Java/OOP Lab/Week_3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -33,6 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1683990026238</updated>
       <workItem from="1683990027229" duration="17000" />
+      <workItem from="1683990491277" duration="1517000" />
     </task>
     <servers />
   </component>
