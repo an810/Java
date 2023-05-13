@@ -1,4 +1,4 @@
-package Week_3.AimsProject;
+package Week_3.AimsProject.hust.soict.ict.aims.disc;
 
 public class DigitalVideoDisc {
 

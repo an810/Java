@@ -1,4 +1,7 @@
-package Week_3.AimsProject;
+package Week_3.AimsProject.hust.soict.ict.test.store;
+
+import Week_3.AimsProject.hust.soict.ict.aims.disc.DigitalVideoDisc;
+import Week_3.AimsProject.hust.soict.ict.aims.store.Store;
 
 public class StoreTest {
     public static void main(String[] args) {

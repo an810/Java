@@ -1,4 +1,7 @@
-package Week_3.AimsProject;
+package Week_3.AimsProject.hust.soict.ict.test.disc;
+
+import Week_3.AimsProject.hust.soict.ict.aims.disc.DVDWrapper;
+import Week_3.AimsProject.hust.soict.ict.aims.disc.DigitalVideoDisc;
 
 public class TestingPassingParameter {
     public static void main(String[] args) {

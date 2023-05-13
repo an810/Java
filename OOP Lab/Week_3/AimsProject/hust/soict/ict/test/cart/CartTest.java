@@ -1,4 +1,7 @@
-package Week_3.AimsProject;
+package Week_3.AimsProject.hust.soict.ict.test.cart;
+
+import Week_3.AimsProject.hust.soict.ict.aims.cart.Cart;
+import Week_3.AimsProject.hust.soict.ict.aims.disc.DigitalVideoDisc;
 
 public class CartTest {
     public static void main(String[] args) {
