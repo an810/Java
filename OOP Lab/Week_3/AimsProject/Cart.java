@@ -61,4 +61,6 @@ public class Cart {
         itemsOrdered[qtyOrdered] = dvd2; qtyOrdered++;
         System.out.println("The discs have been added");
     }
+
+
 }
