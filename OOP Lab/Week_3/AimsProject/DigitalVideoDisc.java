@@ -1,6 +1,7 @@
 package Week_3.AimsProject;
 
 public class DigitalVideoDisc {
+
     private String title;
     private String category;
     private String director;
@@ -12,6 +13,9 @@ public class DigitalVideoDisc {
 
     public String getTitle() {
         return title;
+    }
+    public void setTitle(String title) {
+        this.title = title;
     }
 
     public String getCategory() {
