@@ -1,1 +1,64 @@
-[]
+[{ "DiTich":"Động Tiên Sơn / Động Bình Lư", "ViTri":"Bình Lư, Tam Đường", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1996" }
+, { "DiTich":"Chiến trường Điện Biên Phủ", "ViTri":"Điện Biên Phủ", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"2009" }
+, { "DiTich":"Đền Cấm", "ViTri":"Phố Mới, Tp. Lào Cai", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2001" }
+, { "DiTich":"Căng và đồn Nghĩa Lộ", "ViTri":"Nghĩa Lộ", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1996" }
+, { "DiTich":"Nhà tù Sơn La", "ViTri":"Tp. Sơn La", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"1962 31/12/2014" }
+, { "DiTich":"Khu tưởng Chủ tịch Hồ Chí Minh tại Nhà máy in tiền - Đồn điền Chi Nê", "ViTri":"Chi Nê, Lạc Thủy", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2007" }
+, { "DiTich":"Căng Bắc Mê", "ViTri":"Yên Cường, Bắc Mê", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1992" }
+, { "DiTich":"Địa điểm Chiến thắng Biên giới năm 1950", "ViTri":"Thạch An", "LoaiDiTich":"Lịch sử cách mạng đặc biệt", "NamCongNhan":"2017" }
+, { "DiTich":"Di tích lịch sử Chi Lăng", "ViTri":"Chi Lăng", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"1962" }
+, { "DiTich":"Đền Cửa Ông", "ViTri":"Cẩm Phả", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1989" }
+, { "DiTich":"Lán ở và làm việc của Chủ tịch Hồ Chí Minh", "ViTri":"Trung Trực, Yên Sơn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2015" }
+, { "DiTich":"Địa điểm cơ quan Ban Nông vận Trung ương và Hội Nông dân cứu quốc Trung ương (1949-1952)", "ViTri":"Điềm Mặc, Định Hóa", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2020" }
+, { "DiTich":"Hang Nà Mò", "ViTri":"Hiệp Lực, Ngân Sơn", "LoaiDiTich":"Khảo cổ", "NamCongNhan":"7/1/2020" }
+, { "DiTich":"Địa điểm Chiến thắng Xương Giang", "ViTri":"thành phố Bắc Giang", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"xx" }
+, { "DiTich":"Đền Hùng", "ViTri":"Hy Cương, Việt Trì", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"2012" }
+, { "DiTich":"Đền Kiếp Bạc (Khu di tích Côn Sơn - Kiếp Bạc)", "ViTri":"Chí Linh", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"1962" }
+, { "DiTich":"Văn miếu Bắc Ninh", "ViTri":"Đại Phúc", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Khu Danh thắng Tây Thiên (bao gồm Đền Mẫu Sinh, Đền cô đền cậu Tây Thiên, Đền Thượng, Đền Thõng (đền Tây Thiên), và Thiền viện Trúc Lâm Tây Thiên)", "ViTri":"Đại Đình, Tam Đảo", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"1991" }
+, { "DiTich":"Nhà hát lớn Hải Phòng", "ViTri":"Hoàng Văn Thụ, Hồng Bàng", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"2015" }
+, { "DiTich":"Chùa Đoan Túc", "ViTri":"Tiền Phong, Tp. Thái Bình", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1989" }
+, { "DiTich":"Đền Trần (Nam Định) - Chùa Phổ Minh", "ViTri":"Lộc Vượng, Nam Định", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"1962" }
+, { "DiTich":"1", "ViTri":"Đền Vua Đinh Tiên Hoàng", "LoaiDiTich":"Trường Yên - Hoa Lư", "NamCongNhan":"Đền Vua Đinh là một di tích quan trọng thuộc vùng bảo vệ đặc biệt của quần thể di sản cố đô Hoa Lư. Vị trí của đền thuộc trung tâm thành Đông của kinh đô Hoa Lư xưa." }
+, { "DiTich":"Khu di tích Phố Hiến", "ViTri":"Tp. Hưng Yên", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"2014" }
+, { "DiTich":"Đình Thịnh Châu Hạ", "ViTri":"Châu Sơn, Phủ Lý", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"12/02/1999" }
+, { "DiTich":"Khu lưu niệm Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch", "ViTri":"Ba Đình", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"1975" }
+, { "DiTich":"Hang Con Moong, trong Vườn quốc gia Cúc Phương", "ViTri":"Thạch Thành", "LoaiDiTich":"Lịch sử khảo cổ đặc biệt", "NamCongNhan":"2007" }
+, { "DiTich":"Đài tưởng niêm 72 liệt sĩ Xô Viết – Nghệ Tĩnh", "ViTri":"Yên Thành", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1990" }
+, { "DiTich":"Khu lưu niệm Bác Hồ về thăm Hà Tĩnh", "ViTri":"Hà Tĩnh", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1994" }
+, { "DiTich":"Chùa Hoằng Phúc", "ViTri":"Mỹ Thủy, Lệ Thủy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2015" }
+, { "DiTich":"Bến đò Tùng Luật", "ViTri":"Vĩnh Giang, Vĩnh Linh", "LoaiDiTich":"Lịch sử cách mạng", "NamCongNhan":"1996" }
+, { "DiTich":"Chùa Giác Lương", "ViTri":"Phong Hiền, Phong Điền", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1992" }
+, { "DiTich":"Thành Điện Hải", "ViTri":"Thạch Thang, Hải Châu", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"1988" }
+, { "DiTich":"Địa điểm khởi phát phong trào chống sưu thuế năm 1908 ở miền Trung", "ViTri":"Đại Nghĩa, Đại Lộc", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2018" }
+, { "DiTich":"Di tích khảo cổ Văn hóa Sa Huỳnh", "ViTri":"Đức Phổ", "LoaiDiTich":"Lịch sử khảo cổ đặc biệt", "NamCongNhan":"2010" }
+, { "DiTich":"Đền thờ Tây Sơn Tam Kiệt", "ViTri":"TT.Phú Phong, Tây Sơn", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"2014" }
+, { "DiTich":"Mộ và đền thờ Đào Trí", "ViTri":"Xuân Đài, Sông Cầu", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2015" }
+, { "DiTich":"Tháp Po Nagar", "ViTri":"Vĩnh Phước, Tp. Nha Trang", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1979" }
+, { "DiTich":"Tháp Po Klong Garai", "ViTri":"Phan Rang – Tháp Chàm", "LoaiDiTich":"Lịch sử kiến trúc đặc biệt", "NamCongNhan":"1979" }
+, { "DiTich":"Tháp Po Sah Inư (Tháp Chăm Phố Hài)", "ViTri":"Phú Hài, Phan Thiết", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1991" }
+, { "DiTich":"Ngục Kon Tum", "ViTri":"Kon Tum", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1988" }
+, { "DiTich":"Biển Hồ / Hồ T'Nưng", "ViTri":"Pleiku", "LoaiDiTich":"Danh thắng", "NamCongNhan":"" }
+, { "DiTich":"Biệt điện Bảo Đại", "ViTri":"Buôn Ma Thuột", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1999" }
+, { "DiTich":"Ga Đà Lạt", "ViTri":"Đà Lạt", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2001" }
+, { "DiTich":"Ngục Đăk Mil", "ViTri":"Đăk Mil", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2005" }
+, { "DiTich":"Mộ Cự thạch Hàng Gòn", "ViTri":"Xuân Thanh, Long Khánh", "LoaiDiTich":"Lịch sử Khảo cổ đặc biệt", "NamCongNhan":"2015" }
+, { "DiTich":"Căn cứ Tà Thiết (Căn cứ BCH Quân giải phóng miền Nam Việt Nam; Căn cứ BCH Chiến dịch Hồ Chí Minh)", "ViTri":"Lộc Thịnh, Lộc Ninh", "LoaiDiTich":"Lịch sử văn hóa cách mạng", "NamCongNhan":"1988" }
+, { "DiTich":"Địa đạo Tây Nam Bến Cát", "ViTri":"An Điền, An Tây, Phú An", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"18/3/1996" }
+, { "DiTich":"Căn cứ Trung ương cục miền Nam", "ViTri":"Tân Lập, Tân Biên", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"10/5/2012" }
+, { "DiTich":"Nhà tù Côn Đảo", "ViTri":"Côn Đảo", "LoaiDiTich":"Lịch sử cách mạng đặc biệt", "NamCongNhan":"10/5/2012" }
+, { "DiTich":"Tòa Đại sứ quán Mỹ Nay là Tổng lãnh sự quán Hoa Kỳ", "ViTri":"Quận 1", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1976" }
+, { "DiTich":"Chùa Bửu Lâm", "ViTri":"P.3, Tp. Mỹ Tho", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1999" }
+, { "DiTich":"Nhà trăm cột", "ViTri":"Long Hựu Đông, Cần Đước", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1997" }
+, { "DiTich":"Gò Tháp", "ViTri":"Tân Kiều & Mỹ Hòa, Tháp Mười", "LoaiDiTich":"Lịch sử khảo cổ đặc biệt", "NamCongNhan":"27/9/2012" }
+, { "DiTich":"Di tích Óc Eo-Ba Thê", "ViTri":"Óc Eo, Thoại Sơn", "LoaiDiTich":"Lịch sử khảo cổ đặc biệt", "NamCongNhan":"2012" }
+, { "DiTich":"Nhà Bảo tàng Bến Tre", "ViTri":"Phường 3, Tp. Bến Tre", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Văn Thánh Miếu Vĩnh Long", "ViTri":"P.4, Tp. Vĩnh Long", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"25/3/1991" }
+, { "DiTich":"Địa điểm Chiến thắng Chi khu Ngã Năm", "ViTri":"P. 1, TX. Ngã Năm", "LoaiDiTich":"Lịch sử - Cách mạng", "NamCongNhan":"23/8/2004" }
+, { "DiTich":"Đình Bình Thủy", "ViTri":"Bình Thủy, Bình Thủy", "LoaiDiTich":"Lịch sử kiến trúc", "NamCongNhan":"" }
+, { "DiTich":"Khu di tích Chiến thắng Tầm Vu", "ViTri":"Thạnh Xuân, Châu Thành A", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"25/1/1991" }
+, { "DiTich":"Địa điểm Bờ Lũy – Chùa Lò Gạch", "ViTri":"Lương Hòa, Châu Thành", "LoaiDiTich":"Khảo cổ", "NamCongNhan":"2018" }
+, { "DiTich":"Chùa Cù Là", "ViTri":"Tt. Minh Lương, Châu Thành", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đồng Nọc Nạng", "ViTri":"Phong Thạnh A, TX. Giá Rai", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1991" }
+, { "DiTich":"Chùa Phật Tổ (Quan Âm Cổ Tự)", "ViTri":"Thành phố Cà Mau", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"2016" }
+]

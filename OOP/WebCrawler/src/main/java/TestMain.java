@@ -46,8 +46,9 @@ public class TestMain
         {
             throw new RuntimeException(e);
         }
-
-        Elements cacDiTich = doc.select("table.wikitable.sortable.jquery-tablesorter tr");
+//        System.out.println(doc);
+        Elements cacDiTich = doc.select("table.wikitable tbody");
+        System.out.println(cacDiTich);
         for (Element element : cacDiTich)
         {
             Elements sups = cacDiTich.select("sup");
@@ -62,15 +63,15 @@ public class TestMain
             String namCongNhan;
 
             Elements diTichAttributes = element.select("td");
-            if (diTichAttributes.size() != 6)
-            {
-                continue;
-            }
+//            if (diTichAttributes.size() != 30)
+//            {
+//                continue;
+//            }
 
-            diTich = diTichAttributes.get(1).text();
-            viTri = diTichAttributes.get(2).text();
-            loaiDiTich = diTichAttributes.get(3).text();
-            namCongNhan = diTichAttributes.get(4).text();
+            diTich = diTichAttributes.get(0).text();
+            viTri = diTichAttributes.get(1).text();
+            loaiDiTich = diTichAttributes.get(2).text();
+            namCongNhan = diTichAttributes.get(3).text();
             diTichList.add(new DiTich(diTich, viTri, loaiDiTich, namCongNhan));
         }
 

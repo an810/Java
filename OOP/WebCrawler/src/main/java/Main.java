@@ -48,6 +48,7 @@ public class Main
         }
 
         Elements cacViVua = doc.select("table[cellpadding='0'] tr");
+        System.out.println(cacViVua );
         for (Element viVua : cacViVua)
         {
             Elements sups = cacViVua.select("sup");
