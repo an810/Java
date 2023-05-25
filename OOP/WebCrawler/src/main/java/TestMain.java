@@ -50,9 +50,8 @@ public class TestMain
         System.out.println(cacDiTich);
         for (Element element : cacDiTich)
         {
-            Elements sups = element.select("sup");
-            sups.remove();
-
+//            Elements sups = element.select("sup");
+//            sups.remove();
             String diTich;
             String viTri;
             String loaiDiTich;
@@ -67,10 +66,7 @@ public class TestMain
             loaiDiTich = diTichAttributes.get(2).text();
             namCongNhan = diTichAttributes.get(3).text();
             diTichList.add(new DiTich(diTich, viTri, loaiDiTich, namCongNhan));
-
-
         }
-
         return diTichList;
     }
 }
