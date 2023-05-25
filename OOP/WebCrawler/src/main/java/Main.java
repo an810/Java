@@ -66,6 +66,7 @@ public class Main
             String triVi;
 
             Elements vuaAttributes = viVua.select("td");
+            System.out.println(vuaAttributes);
             if (vuaAttributes.size() != 10)
             {
                 continue;

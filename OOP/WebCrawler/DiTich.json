@@ -1,64 +1,1615 @@
 [{ "DiTich":"Động Tiên Sơn / Động Bình Lư", "ViTri":"Bình Lư, Tam Đường", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1996" }
+, { "DiTich":"Bia Lê Lợi", "ViTri":"Lê Lợi, Nậm Nhùn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"09/02/1981" }
+, { "DiTich":"Đền thờ vua Lê Lợi", "ViTri":"Lê Lợi, Nậm Nhùn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"23/01/2017" }
+, { "DiTich":"Hang động Pu Sam Cap", "ViTri":"Pu Sam Cáp, Sìn Hồ", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2011" }
+, { "DiTich":"Di chỉ Nậm Tun", "ViTri":"Mường So, Phong Thổ", "LoaiDiTich":"Khảo cổ lịch sử", "NamCongNhan":"2013" }
+, { "DiTich":"Thác Cầu Mây và Đèo Ô Quý Hồ", "ViTri":"Tam Đường & Sa Pa", "LoaiDiTich":"Lịch sử danh thắng", "NamCongNhan":"2015" }
 , { "DiTich":"Chiến trường Điện Biên Phủ", "ViTri":"Điện Biên Phủ", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"2009" }
+, { "DiTich":"Thành Sam Mứn (Tam Vạn)", "ViTri":"Sam Mứn, Điện Biên", "LoaiDiTich":"Lịch sử", "NamCongNhan":"22/01/2009" }
+, { "DiTich":"Thành Bản Phủ (Điện Biên)", "ViTri":"Noong Hẹt, Điện Biên", "LoaiDiTich":"Lịch sử", "NamCongNhan":"09/02/1981" }
+, { "DiTich":"Hang Mường Tỉnh", "ViTri":"Xa Dung, Điện Biên Đông", "LoaiDiTich":"Lịch sử", "NamCongNhan":"14/04/2011" }
+, { "DiTich":"Nhà tù Lai Châu", "ViTri":"Mường Lay", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2011" }
+, { "DiTich":"Tháp Chiềng Sơ", "ViTri":"Chiềng Sơ, Điện Biên Đông", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"14/04/2011" }
+, { "DiTich":"Tháp Mường Luân", "ViTri":"Mường Luân, Điện Biên Đông", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"9/02/1981" }
+, { "DiTich":"Động Pa Thơm", "ViTri":"Pa Thơm, Điện Biên", "LoaiDiTich":"Danh thắng", "NamCongNhan":"22/01/2009" }
+, { "DiTich":"Động Xá Nhè (Khó Chua La)", "ViTri":"Xá Nhè, Tủa Chùa", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2015" }
+, { "DiTich":"Hang động Pê Răng Ky", "ViTri":"Huổi Só, Tủa Chùa", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2018" }
 , { "DiTich":"Đền Cấm", "ViTri":"Phố Mới, Tp. Lào Cai", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2001" }
+, { "DiTich":"Đền Mẫu Lào Cai", "ViTri":"P.Lào Cai, Tp. Lào Cai", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2011" }
+, { "DiTich":"Đền Thượng Lào Cai", "ViTri":"P.Lào Cai, Tp. Lào Cai", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1996" }
+, { "DiTich":"Đền Trung Đô", "ViTri":"Bảo Nhai, Bắc Hà", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2008" }
+, { "DiTich":"Dinh Hoàng A Tưởng", "ViTri":"Thị trấn Bắc Hà", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1999" }
+, { "DiTich":"Đồn Phố Ràng", "ViTri":"Phố Ràng, Bảo Yên", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1999" }
+, { "DiTich":"Động Mường Vi", "ViTri":"Mường Vi, Bát Xát", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1999" }
+, { "DiTich":"Động Hàm Rồng", "ViTri":"Tung Chung Phố, Mường Khương", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2003" }
+, { "DiTich":"Bãi đá cổ Sa Pa", "ViTri":"Mường Hoa và Tả Van, Sa Pa", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1994" }
+, { "DiTich":"Ruộng bậc thang Sa Pa", "ViTri":"Sa Pa", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2018" }
+, { "DiTich":"Động Tả Phìn", "ViTri":"Tả Phìn, Sa Pa", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2017" }
+, { "DiTich":"Núi Hàm Rồng (Sa Pa)", "ViTri":"Sa Pa", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2005" }
+, { "DiTich":"Thành cổ Nghị Lang", "ViTri":"Phố Ràng, Bảo Yên", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2011" }
+, { "DiTich":"Đền Bắc Hà", "ViTri":"Thị trấn Bắc Hà", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2003" }
+, { "DiTich":"Khu căn cứ cách mạng Cam Đường", "ViTri":"Cam Đường, Lào Cai", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1995" }
+, { "DiTich":"Động Thiên Long Bắc Hà", "ViTri":"Tả Van Chư, Bắc Hà", "LoaiDiTich":"Danh thắng", "NamCongNhan":"18/10/2013" }
+, { "DiTich":"Đền Cô Tân An", "ViTri":"Tân An, Văn Bàn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2016" }
 , { "DiTich":"Căng và đồn Nghĩa Lộ", "ViTri":"Nghĩa Lộ", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1996" }
+, { "DiTich":"Chiến khu Vần", "ViTri":"Trấn Yên & Văn Chấn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1995" }
+, { "DiTich":"Đền Đông Cuông", "ViTri":"Đông Cuông, Văn Yên", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2009" }
+, { "DiTich":"Đền Nhược Sơn", "ViTri":"Châu Quế Hạ, Văn Yên", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2005" }
+, { "DiTich":"Hồ Thác Bà", "ViTri":"Lục Yên", "LoaiDiTich":"Danh thắng", "NamCongNhan":"1996" }
+, { "DiTich":"Khu di tích mộ Nguyễn Thái Học và các chiến sĩ khởi nghĩa Yên Bái", "ViTri":"Tp. Yên Bái", "LoaiDiTich":"Lịch sử", "NamCongNhan":"5/3/1990" }
+, { "DiTich":"Ruộng bậc thang Mù Cang Chải", "ViTri":"Mù Cang Chải", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2007" }
+, { "DiTich":"Đèo Lũng Lô", "ViTri":"Văn Chấn & Phù Yên", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2012" }
+, { "DiTich":"Địa điểm Khu Ủy Tây Bắc", "ViTri":"Phù Nham, Văn Chấn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2012" }
+, { "DiTich":"Bến Âu Lâu", "ViTri":"Tp. Yên Bái", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2012" }
+, { "DiTich":"Nơi thành lập đội du kích Khau Phạ", "ViTri":"Mù Cang Chải", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2012" }
+, { "DiTich":"Chùa tháp Hắc Y", "ViTri":"Tân Lĩnh, Lục Yên", "LoaiDiTich":"Lịch sử kiến trúc", "NamCongNhan":"2001" }
+, { "DiTich":"Lễ đài Sân vận động Yên Bái", "ViTri":"Tp. Yên Bái", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1989" }
+, { "DiTich":"Đồn cổ Đại Lịch", "ViTri":"Đại Lịch, Văn Chấn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2012" }
 , { "DiTich":"Nhà tù Sơn La", "ViTri":"Tp. Sơn La", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"1962 31/12/2014" }
+, { "DiTich":"Tập đoàn cứ điểm Nà Sản", "ViTri":"Chiềng Mung, Mai Sơn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"24/01/1998" }
+, { "DiTich":"Đồn Mộc Lỵ", "ViTri":"Mường Sang, Mộc Châu", "LoaiDiTich":"Lịch sử", "NamCongNhan":"24/01/1998" }
+, { "DiTich":"Khu di tích lịch sử Cách mạng Việt Nam - Lào", "ViTri":"Phiêng Khoài, Yên Châu", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"03/4/2012" }
+, { "DiTich":"Thẳm Tát Tòng (Hang Tát Toòng)", "ViTri":"Tp. Sơn La", "LoaiDiTich":"Danh thắng", "NamCongNhan":"05/02/1994" }
+, { "DiTich":"Động Sơn Mộc Hương (Hang Dơi)", "ViTri":"Thị trấn Mộc Châu", "LoaiDiTich":"Danh thắng", "NamCongNhan":"24/01/1998" }
+, { "DiTich":"Hồ Chiềng Khoi", "ViTri":"Chiềng Khoi, Yên Châu", "LoaiDiTich":"Danh thắng", "NamCongNhan":"28/12/2001" }
+, { "DiTich":"Kỳ đài Thuận Châu", "ViTri":"Thị trấn Thuận Châu", "LoaiDiTich":"Lịch sử", "NamCongNhan":"20/4/1995" }
+, { "DiTich":"Ngã ba Cò Nòi", "ViTri":"Cò Nòi, Mai Sơn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"29/4/2004" }
+, { "DiTich":"Bia Quế Lâm Ngự Chế, năm 1440", "ViTri":"Chiềng Lề, Tp. Sơn La", "LoaiDiTich":"Lịch sử", "NamCongNhan":"05/02/1994" }
+, { "DiTich":"Tháp Mường Và", "ViTri":"Mường Và, Sốp Cộp", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"24/01/1998" }
+, { "DiTich":"Tháp Mường Bám", "ViTri":"Mường Bám, Thuận Châu", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"24/10/2012" }
+, { "DiTich":"Hang mộ Tạng Mè", "ViTri":"Suối Bàng, Mộc Châu", "LoaiDiTich":"Lịch sử khảo cổ", "NamCongNhan":"05/3/2014" }
+, { "DiTich":"Bãi đá khắc cổ Khe Hổ", "ViTri":"Hang Chú, Bắc Yên", "LoaiDiTich":"Lịch sử khảo cổ", "NamCongNhan":"12/12/2014" }
 , { "DiTich":"Khu tưởng Chủ tịch Hồ Chí Minh tại Nhà máy in tiền - Đồn điền Chi Nê", "ViTri":"Chi Nê, Lạc Thủy", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2007" }
+, { "DiTich":"Quần thể Chùa Tiên", "ViTri":"Phú Lão, Lạc Thủy", "LoaiDiTich":"Khảo cổ", "NamCongNhan":"1989" }
+, { "DiTich":"Hang Luồn Chi Nê / hang Trinh Nữ", "ViTri":"Chi Nê, Lạc Thủy", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2001" }
+, { "DiTich":"Hang Đồng Thớt", "ViTri":"Ba Hàng Đồi, Lạc Thủy", "LoaiDiTich":"Khảo cổ", "NamCongNhan":"2003" }
+, { "DiTich":"Động Núi Niệm", "ViTri":"Phú Thành, Lạc Thủy", "LoaiDiTich":"Lịch sử khảo cổ danh thắng", "NamCongNhan":"2013" }
+, { "DiTich":"Khu Mộ cổ Đống Thếch", "ViTri":"Vĩnh Đồng, Kim Bôi", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1997" }
+, { "DiTich":"Căn cứ cách mạng Cao Phong - Thạch Yên", "ViTri":"Yên Lập, Cao Phong", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1996" }
+, { "DiTich":"Tượng đài Anh hùng Cù Chính Lan", "ViTri":"Bình Thanh, Cao Phong", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1994" }
+, { "DiTich":"Động Tiên Phi", "ViTri":"Tân Hòa, Tp. Hòa Bình", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2000" }
+, { "DiTich":"Động Thác Bờ (Đền Chúa Thác Bờ)", "ViTri":"Vầy Nưa, Đà Bắc", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2009" }
+, { "DiTich":"Động Hoa Tiên", "ViTri":"Ngòi Hoa,Tân Lạc", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2003" }
+, { "DiTich":"Động Thiên Long Yên Thủy", "ViTri":"Lạc Lương, Yên Thủy", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2003" }
+, { "DiTich":"Hang Chùa, Yên Thủy", "ViTri":"Yên Trị, Yên Thủy", "LoaiDiTich":"Danh thắng", "NamCongNhan":"" }
+, { "DiTich":"Hang Chổ", "ViTri":"Cao Sơn, Lương Sơn", "LoaiDiTich":"Danh thắng", "NamCongNhan":"" }
 , { "DiTich":"Căng Bắc Mê", "ViTri":"Yên Cường, Bắc Mê", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1992" }
+, { "DiTich":"Chùa Nậm Dầu", "ViTri":"Ngọc Linh, Vị Xuyên", "LoaiDiTich":"Khảo cổ", "NamCongNhan":"2009" }
+, { "DiTich":"Cột cờ Lũng Cú", "ViTri":"Lũng Cú, Đồng Văn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2009" }
+, { "DiTich":"Tiểu khu Trọng Con", "ViTri":"Bằng Hành, Bắc Quang", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1996" }
+, { "DiTich":"Phố cổ Đồng Văn", "ViTri":"Tt. Đồng Văn", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"2009" }
+, { "DiTich":"Hang Nà Luông", "ViTri":"Yên Minh & Đồng Văn", "LoaiDiTich":"Danh thắng", "NamCongNhan":"23/9/2014" }
+, { "DiTich":"Ruộng bậc thang Hoàng Su Phì", "ViTri":"Hoàng Su Phì", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2011" }
+, { "DiTich":"Núi Đôi Quản Bạ", "ViTri":"Tt. Quản Bạ", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2010" }
+, { "DiTich":"Kỳ đài Quảng trường 26/3", "ViTri":"Tp. Hà Giang", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1993" }
+, { "DiTich":"Dinh thự họ Vương (Dinh vua Mèo)", "ViTri":"Sà Phìn, Đồng Văn", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"1993" }
+, { "DiTich":"Bãi đá cổ Nấm Dẩn", "ViTri":"Nấm Dẩn, Xín Mần", "LoaiDiTich":"Khảo cổ", "NamCongNhan":"2008" }
+, { "DiTich":"Đèo Mã Pí Lèng", "ViTri":"Mèo Vạc & Đồng Văn", "LoaiDiTich":"Danh thắng", "NamCongNhan":"16/11/2009" }
+, { "DiTich":"Hang Rồng, Tà Lủng & Pả Vi", "ViTri":"Mèo Vạc", "LoaiDiTich":"Danh thắng", "NamCongNhan":"23/9/2014" }
+, { "DiTich":"Thác Tiên Đèo Gió", "ViTri":"Nấm Dẩn, Xín Mần", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2009" }
+, { "DiTich":"Bia Sùng Khánh và Chuông Bình Lâm", "ViTri":"Phú Linh, Vị Xuyên", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1993" }
+, { "DiTich":"Hang Đán Cúm - Nà Chảo", "ViTri":"Yên Cường, Bắc Mê", "LoaiDiTich":"Khảo cổ", "NamCongNhan":"2001" }
+, { "DiTich":"Hang Khố Mỷ", "ViTri":"Tùng Vài, Quản Bạ", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2013" }
+, { "DiTich":"Hang Thiên Thủy", "ViTri":"Nàn Ma, Xín Mần", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2013" }
+, { "DiTich":"Hang Khâu Đôn", "ViTri":"Đức Xuân, Bắc Quang", "LoaiDiTich":"Danh thắng", "NamCongNhan":"07/01/2020" }
+, { "DiTich":"Hang Nậm Tan", "ViTri":"Đức Xuân, Bắc Quang", "LoaiDiTich":"Danh thắng", "NamCongNhan":"07/01/2020" }
+, { "DiTich":"Thác Nậm Tạu", "ViTri":"Đức Xuân, Bắc Quang", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2018" }
+, { "DiTich":"Khu vực Hóa thạch Huệ Biển", "ViTri":"Lũng Pù, Mèo Vạc", "LoaiDiTich":"Khảo cổ danh thắng", "NamCongNhan":"23/9/2014" }
+, { "DiTich":"Khu vực Hóa thạch Tay Cuộn", "ViTri":"Ma Lé, Đồng Văn", "LoaiDiTich":"Khảo cổ danh thắng", "NamCongNhan":"12/11/2013" }
+, { "DiTich":"Thác Luồng", "ViTri":"Nà Chì, Xín Mần", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2021" }
+, { "DiTich":"Thác Trăn", "ViTri":"Khuôn Lùng, Xín Mần", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2021" }
 , { "DiTich":"Địa điểm Chiến thắng Biên giới năm 1950", "ViTri":"Thạch An", "LoaiDiTich":"Lịch sử cách mạng đặc biệt", "NamCongNhan":"2017" }
+, { "DiTich":"Hồ Thang Hen", "ViTri":"Quốc Toản,Trà Lĩnh", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2001" }
+, { "DiTich":"Khu lưu niệm Kim Đồng và nơi thành lập đội Nhi đồng Cứu Quốc", "ViTri":"Trường Hà, Hà Quảng", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2011" }
+, { "DiTich":"Chuông chùa Đà Quận", "ViTri":"Tp. Cao Bằng", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"1995" }
+, { "DiTich":"Đền vua Lê", "ViTri":"Hoàng Tung, Hòa An", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1995" }
+, { "DiTich":"Địa điểm Nà Ngần", "ViTri":"Hoa Thám, Nguyên Bình", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1994" }
+, { "DiTich":"Nậm Lìn", "ViTri":"Hoàng Tung, Hòa An", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1995" }
+, { "DiTich":"Hang Ngườm Bốc", "ViTri":"Hồng Việt, Hòa An", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2004" }
+, { "DiTich":"Động Ngao (Ngườm Ngao)", "ViTri":"Đàm Thủy, Trùng Khánh", "LoaiDiTich":"Danh thắng", "NamCongNhan":"1998" }
+, { "DiTich":"Hang Kéo Quảng", "ViTri":"Minh Tâm, Nguyên Bình", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1995" }
+, { "DiTich":"Nơi Chủ tịch Hồ Chí Minh ở và làm việc đầu năm 1942", "ViTri":"Hòa An", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1995" }
+, { "DiTich":"Nơi thành lập Đội Việt Nam Tuyên truyền Giải phóng quân ngày 22/12/1944", "ViTri":"Rừng Trần Hưng Đạo Tam Kim, Nguyên Bình", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"2013" }
+, { "DiTich":"Thác Bản Giốc", "ViTri":"Đàm Thủy, Trùng Khánh", "LoaiDiTich":"Danh thắng", "NamCongNhan":"1998" }
+, { "DiTich":"Thành Na Lữ", "ViTri":"Hoàng Tung, Hòa An", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2009" }
+, { "DiTich":"Khu di tích Pác Bó", "ViTri":"Trường Hà, Hà Quảng", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"2012" }
 , { "DiTich":"Di tích lịch sử Chi Lăng", "ViTri":"Chi Lăng", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"1962" }
+, { "DiTich":"Hang Gió Chi Lăng", "ViTri":"Chi Lăng", "LoaiDiTich":"Khảo cổ", "NamCongNhan":"23/08/2004" }
+, { "DiTich":"Hang Lạng Nắc", "ViTri":"Chi Lăng", "LoaiDiTich":"Khảo cổ", "NamCongNhan":"23/08/2004" }
+, { "DiTich":"Hang Phia Điểm", "ViTri":"Cao Lộc", "LoaiDiTich":"Khảo cổ", "NamCongNhan":"23/08/2004" }
+, { "DiTich":"Hang Dơi Bắc Sơn", "ViTri":"Vũ Lễ, Bắc Sơn", "LoaiDiTich":"Khảo cổ", "NamCongNhan":"23/08/2004" }
+, { "DiTich":"Hang Thẩm Khuyên", "ViTri":"Bình Gia", "LoaiDiTich":"Khảo cổ", "NamCongNhan":"1993" }
+, { "DiTich":"Nhà lưu niệm Hoàng Văn Thụ", "ViTri":"Lạng Sơn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1993" }
+, { "DiTich":"Động Nhị Thanh - Chùa Tam Thanh", "ViTri":"Lạng Sơn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1962" }
+, { "DiTich":"Di tích Khởi nghĩa Bắc Sơn", "ViTri":"Bắc Sơn", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"2016" }
+, { "DiTich":"Địa điểm ghi dấu tội ác của thực dân Pháp tại Lân Áng (09/02/1945)", "ViTri":"Hưng Vũ, Bắc Sơn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2020" }
+, { "DiTich":"Địa điểm ghi dấu tội ác của thực dân Pháp tại Minh Đán (01/10/1940)", "ViTri":"Hưng Vũ, Bắc Sơn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2020" }
+, { "DiTich":"Linh địa cổ Mẫu Sơn", "ViTri":"Lộc Bình", "LoaiDiTich":"Khảo cổ", "NamCongNhan":"2013" }
+, { "DiTich":"Núi Tô Thị", "ViTri":"Lạng Sơn", "LoaiDiTich":"Danh thắng", "NamCongNhan":"1962" }
+, { "DiTich":"Khu di tích núi Phai Vệ", "ViTri":"Lạng Sơn", "LoaiDiTich":"Khảo cổ", "NamCongNhan":"23/08/2004" }
+, { "DiTich":"Đền Kỳ Cùng", "ViTri":"Lạng Sơn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1993" }
+, { "DiTich":"Thành cổ Lạng Sơn", "ViTri":"Lạng Sơn", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"1999" }
+, { "DiTich":"Chùa Thành", "ViTri":"Lạng Sơn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1993" }
+, { "DiTich":"Hang Cốc Mười", "ViTri":"Tràng Định", "LoaiDiTich":"Lịch sử", "NamCongNhan":"23/08/2004" }
+, { "DiTich":"Di tích kiến trúc nghệ thuật đền Cửa Đông, Cửa Tây, Cửa Nam, Cửa Bắc", "ViTri":"P.Chi Lăng, Tp. Lạng Sơn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"12/11/2013" }
 , { "DiTich":"Đền Cửa Ông", "ViTri":"Cẩm Phả", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1989" }
+, { "DiTich":"Cụm di tích Xí nghiệp Tuyển than Cửa Ông", "ViTri":"Cẩm Phả", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1997" }
+, { "DiTich":"Ngã tư đường lên mỏ Đèo Nai", "ViTri":"Cẩm Phả", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1997" }
+, { "DiTich":"Khu di tích lưu niệm Chủ tịch Hồ Chí Minh trên đảo Cô Tô", "ViTri":"Cô Tô", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1997" }
+, { "DiTich":"Khu di tích nhà Trần tại Đông Triều", "ViTri":"Đông Triều", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"1962" }
+, { "DiTich":"Chùa Hồ Thiên, thuộc Khu di tích nhà Trần", "ViTri":"Đông Triều", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2006" }
+, { "DiTich":"Chùa Quỳnh Lâm, Đông Triều", "ViTri":"Đông Triều", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"1991" }
+, { "DiTich":"Chùa Mỹ Cụ", "ViTri":"Đông Triều", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"2000" }
+, { "DiTich":"Khu di tích Hổ Lao", "ViTri":"Đông Triều", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"2001" }
+, { "DiTich":"Chùa Cảnh Huống", "ViTri":"Đông Triều", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1993" }
+, { "DiTich":"Chùa Ngọa Vân", "ViTri":"Đông Triều", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2006" }
+, { "DiTich":"Đệ tứ chiến khu Đông Triều", "ViTri":"Đông Triều", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1994" }
+, { "DiTich":"Đền An Biên", "ViTri":"Thủy An, Đông Triều", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2017" }
+, { "DiTich":"Đền Quan Đại", "ViTri":"Quảng Yên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2014" }
+, { "DiTich":"Miếu Tiên Công Cẩm La", "ViTri":"Quảng Yên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1990" }
+, { "DiTich":"Đình Lưu Khê", "ViTri":"Quảng Yên", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"1995" }
+, { "DiTich":"Chùa Yên Đông", "ViTri":"Quảng Yên", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"2000" }
+, { "DiTich":"Miếu Tiên Công, Liên Hòa", "ViTri":"Quảng Yên", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2001" }
+, { "DiTich":"Nhà thờ họ Vũ (Vũ Tam Tỉnh)", "ViTri":"Quảng Yên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2001" }
+, { "DiTich":"Nhà thờ họ Nguyễn (Nguyễn Thực, Nguyễn Nghệ)", "ViTri":"Quảng Yên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2001" }
+, { "DiTich":"Nhà thờ họ Dương (Dương Quang Tín)", "ViTri":"Quảng Yên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2001" }
+, { "DiTich":"Nhà thờ họ Hoàng (Hoàng Kim Bảng)", "ViTri":"Quảng Yên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2001" }
+, { "DiTich":"Nhà thờ họ Bùi (Bùi Bách Niên)", "ViTri":"Quảng Yên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2001" }
+, { "DiTich":"Nhà thờ họ Vũ (Vũ Song)", "ViTri":"Quảng Yên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2001" }
+, { "DiTich":"Nhà thờ họ Đỗ (Đỗ Độ)", "ViTri":"Quảng Yên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2001" }
+, { "DiTich":"Nhà thờ họ Đào (Đào Bá Lệ)", "ViTri":"Quảng Yên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2001" }
+, { "DiTich":"Nhà thờ họ Lê (Lê Mở, Lê Khép)", "ViTri":"Quảng Yên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2001" }
+, { "DiTich":"Nhà thờ họ Phạm (Cụm di tích Tiên Công)", "ViTri":"Quảng Yên", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2012" }
+, { "DiTich":"Di tích khảo cổ núi Đầu Rằm", "ViTri":"Quảng Yên", "LoaiDiTich":"Khảo cổ", "NamCongNhan":"2012" }
+, { "DiTich":"Đình Đền Công - Miếu Cu Linh", "ViTri":"Uông Bí", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"2000" }
+, { "DiTich":"Quần thể di tích danh thắng Yên Tử", "ViTri":"Uông Bí", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"1974" }
+, { "DiTich":"Di tích thương cảng Vân Đồn (Cống Đông, Tây và Bến Cái Làng)", "ViTri":"Vân Đồn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2003" }
+, { "DiTich":"Đình Quan Lạn", "ViTri":"Vân Đồn", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"1999" }
+, { "DiTich":"Cụm di tích và danh thắng núi Bài Thơ - Chùa Long Tiên - Đền Đức Ông", "ViTri":"Hạ Long", "LoaiDiTich":"Danh thắng", "NamCongNhan":"1992" }
+, { "DiTich":"Trận địa pháo 37 li của Xí nghiệp tuyển than Hòn Gai", "ViTri":"Hạ Long", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1997" }
+, { "DiTich":"Vịnh Hạ Long", "ViTri":"Hạ Long", "LoaiDiTich":"Danh thắng", "NamCongNhan":"1962" }
+, { "DiTich":"Di chỉ Hòn Hai Cô Tiên", "ViTri":"Hạ Long", "LoaiDiTich":"Khảo cổ", "NamCongNhan":"2005" }
+, { "DiTich":"Trung tâm Điện chính Bưu điện Quảng Ninh trên núi Bài Thơ", "ViTri":"Hạ Long", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2000" }
+, { "DiTich":"Chùa Nam Thọ", "ViTri":"Móng Cái", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"1999" }
+, { "DiTich":"Đình Trà Cổ", "ViTri":"Móng Cái", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"1974" }
+, { "DiTich":"Chùa Xuân Lan", "ViTri":"Móng Cái", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"1999" }
+, { "DiTich":"Núi Mằn", "ViTri":"Hoành Bồ", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2014" }
+, { "DiTich":"Đình Phong Cốc", "ViTri":"Quảng Yên", "LoaiDiTich":"Văn hóa kiến trúc đặc biệt", "NamCongNhan":"1988" }
+, { "DiTich":"Khu Di tích chiến thắng Bạch Đằng", "ViTri":"Quảng Yên & Uông Bí", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"2012" }
+, { "DiTich":"Bãi cọc Yên Giang", "ViTri":"Nam Hòa, Quảng Yên", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"1988" }
+, { "DiTich":"Cây lim Giếng Rừng", "ViTri":"Quảng Yên", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"1998" }
+, { "DiTich":"Đền Trần Hưng Đạo - Miếu Vua Bà", "ViTri":"Quảng Yên", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"1989" }
+, { "DiTich":"Đình Trung Bản", "ViTri":"Quảng Yên", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"1991" }
+, { "DiTich":"Đình Yên Giang", "ViTri":"Quảng Yên", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"1996" }
+, { "DiTich":"Đền Trung Cốc", "ViTri":"Quảng Yên", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"1996" }
+, { "DiTich":"Địa điểm lưu niệm Chủ tịch Hồ Chí Minh trên đảo Ngọc Vừng", "ViTri":"Ngọc Vừng, Quan Lạn", "LoaiDiTich":"Di tích lịch sử", "NamCongNhan":"2023" }
 , { "DiTich":"Lán ở và làm việc của Chủ tịch Hồ Chí Minh", "ViTri":"Trung Trực, Yên Sơn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2015" }
+, { "DiTich":"Đền Hạ Tuyên Quang", "ViTri":"Tuyên Quang", "LoaiDiTich":"Lịch sử, kiến trúc", "NamCongNhan":"1991" }
+, { "DiTich":"Đền Thượng Tuyên Quang", "ViTri":"Tràng Đà, Tp. Tuyên Quang", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2015" }
+, { "DiTich":"Đền Ỷ La", "ViTri":"Tp. Tuyên Quang", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2015" }
+, { "DiTich":"Thành nhà Mạc (Tuyên Quang)", "ViTri":"Tuyên Quang", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1991" }
+, { "DiTich":"Di tích Nha Công an Trung ương", "ViTri":"Sơn Dương", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1999" }
+, { "DiTich":"Chiến khu Tân Trào. Gồm 40 di tích quốc gia", "ViTri":"Sơn Dương & Yên Sơn", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"" }
+, { "DiTich":"Khu bảo tồn thiên nhiên Na Hang - Lâm Bình", "ViTri":"Na Hang & Lâm Bình", "LoaiDiTich":"Danh thắng đăc biệt", "NamCongNhan":"2018" }
+, { "DiTich":"Thác Bản Ba", "ViTri":"Trung Hà, Chiêm Hóa", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2007" }
+, { "DiTich":"Hang Phia Vài", "ViTri":"Lâm Bình", "LoaiDiTich":"Khảo cổ", "NamCongNhan":"2009" }
+, { "DiTich":"Động Song Long", "ViTri":"Khuôn Hà, Na Hang", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2009" }
+, { "DiTich":"Hang Phia Muồn", "ViTri":"Na Hang", "LoaiDiTich":"Khảo cổ", "NamCongNhan":"2009" }
+, { "DiTich":"Đền Pác Tạ", "ViTri":"Na Hang", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2009" }
+, { "DiTich":"Chùa Phúc Lâm (Na Hang)", "ViTri":"Thượng Lâm, Na Hang", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2009" }
+, { "DiTich":"Cơ quan Ấn loát đặc biệt Trung ương", "ViTri":"Năng Khả, Na Hang", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2009" }
+, { "DiTich":"Thắng cảnh Thượng Lâm", "ViTri":"Na Hang", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2009" }
+, { "DiTich":"Xưởng Quân khí H52 và địa điểm sản xuất diêm tiêu", "ViTri":"Na Hang", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2009" }
+, { "DiTich":"Thác Nậm Me", "ViTri":"Na Hang", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2009" }
+, { "DiTich":"Địa điểm Nha Ngân khố - Tín dụng", "ViTri":"Tứ Quận, Yên Sơn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2018" }
+, { "DiTich":"Địa điểm chùa Lang Đạo", "ViTri":"Tú Thịnh, Sơn Dương", "LoaiDiTich":"Khảo cổ", "NamCongNhan":"2018" }
+, { "DiTich":"Hang Đá Đen", "ViTri":"Yên Phú, Hàm Yên", "LoaiDiTich":"Khảo cổ", "NamCongNhan":"2018" }
+, { "DiTich":"Thác Lụa", "ViTri":"Hòa Phú, Chiêm Hóa", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2018" }
 , { "DiTich":"Địa điểm cơ quan Ban Nông vận Trung ương và Hội Nông dân cứu quốc Trung ương (1949-1952)", "ViTri":"Điềm Mặc, Định Hóa", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2020" }
+, { "DiTich":"Địa điểm cơ quan Tổng bộ Việt Minh (1947-1948) và Nơi làm việc của đồng chí Hoàng Quốc Việt (1947-1950)", "ViTri":"Điềm Mặc, Định Hóa", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2020" }
+, { "DiTich":"Địa điểm thành lập Tổng cục cung cấp (11/7/1950)", "ViTri":"Thanh Định, Định Hóa", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2015" }
+, { "DiTich":"Nơi ở và làm việc của Đại tướng Võ Nguyên Giáp tại Keo En (1953-1954)", "ViTri":"Thanh Định, Định Hóa", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2017" }
+, { "DiTich":"Nơi làm việc của Bộ Tổng tham mưu Quân đội Nhân dân Việt Nam (1949-1954)", "ViTri":"Bảo Linh, Định Hóa", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2015" }
+, { "DiTich":"Xưởng Đội Cấn - Nhà máy quân giới K77 (1947-1954)", "ViTri":"Đồng Thịnh, Định Hóa", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2017" }
+, { "DiTich":"Địa điểm cơ quan Bộ Tổng tham mưu Quân đội nhân dân Việt Nam và Nơi ở, làm việc của Tổng tham mưu trưởng Hoàng Văn Thái (1949-1954)", "ViTri":"Định Biên, Định Hóa", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2017" }
+, { "DiTich":"An toàn khu Định Hóa (gồm 13 di tích thành phần)", "ViTri":"Định Hóa", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"1981" }
+, { "DiTich":"Di tích Nhà tù Chợ Chu", "ViTri":"Định Hóa", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"" }
+, { "DiTich":"Nơi thành lập Việt Nam Giải phóng quân", "ViTri":"Định Hóa", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"" }
+, { "DiTich":"Nơi Chủ tịch Hồ Chí Minh ở và làm việc tại đồi Khau Tý năm 1947", "ViTri":"Định Hóa", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"" }
+, { "DiTich":"Địa điểm Bác ở và làm việc tại Đồi Tỉn Keo (1948 - 1954)", "ViTri":"Định Hóa", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"" }
+, { "DiTich":"Cụm di tích Bác ở Khuôn Tát", "ViTri":"Định Hóa", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"" }
+, { "DiTich":"Địa điểm Tổng Bí thư Trường Chinh và Văn phòng Trung ương Đảng ở Phông Hiển (1947 -1949)", "ViTri":"Định Hóa", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"" }
+, { "DiTich":"Địa điểm cơ quan Bộ tổng Tư lệnh Quân đội nhân dân Việt Nam (1949-1954)", "ViTri":"Định Hóa", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"" }
+, { "DiTich":"Thắng cảnh Thác Khuôn Tát", "ViTri":"Định Hóa", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"" }
+, { "DiTich":"Địa điểm thành lập Hội Nhà báo Việt Nam", "ViTri":"Định Hóa", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"" }
+, { "DiTich":"Địa điểm thành lập Ủy ban Hòa bình Việt Nam (Ủy ban bảo vệ hòa bình thế giới của Việt Nam)", "ViTri":"Định Hóa", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"" }
+, { "DiTich":"Địa điểm Báo Quân đội nhân dân ra số đầu 20/10/1950", "ViTri":"Định Hóa", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"" }
+, { "DiTich":"Địa điểm Đồi Pụ Đồn, nơi Chủ tịch Hồ Chí Minh chủ trì lễ phong quân hàm Đại tướng Tổng chỉ huy quân đội quốc gia và dân quân tự vệ cho đồng chí Võ Nguyên Giáp (1948)", "ViTri":"Định Hóa", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"" }
+, { "DiTich":"Danh lam thắng cảnh Chùa Hang", "ViTri":"Định Hóa", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2015" }
+, { "DiTich":"Chùa Tây Phúc", "ViTri":"Phổ Yên", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"2007" }
+, { "DiTich":"Khu di tích Núi Văn - Núi Võ", "ViTri":"Đại Từ", "LoaiDiTich":"Lịch sử", "NamCongNhan":"09/02/1981" }
+, { "DiTich":"Nơi thành lập cơ sở Đảng Cộng sản đầu tiên của Đảng bộ tỉnh Thái Nguyên năm 1936", "ViTri":"Đại Từ", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1999" }
+, { "DiTich":"Địa điểm thành lập cơ quan chỉ huy Chiến khu Nguyễn Huệ", "ViTri":"Đại Từ", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1999" }
+, { "DiTich":"Nơi làm việc của Chủ tịch Hồ Chí Minh (1954) tại đồi Thành Trúc", "ViTri":"Đại Từ", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2006" }
+, { "DiTich":"Địa điểm lễ nhận Quốc thư đầu tiên của Nước Việt Nam Dân Chủ Cộng Hòa (01/9/1954)", "ViTri":"Tiên Hội, Đại Từ", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2018" }
+, { "DiTich":"Động Linh Sơn", "ViTri":"Đồng Hỷ", "LoaiDiTich":"Danh thắng", "NamCongNhan":"1999" }
+, { "DiTich":"Hang Ốc", "ViTri":"Bình Long, Võ Nhai", "LoaiDiTich":"Khảo cổ", "NamCongNhan":"2018" }
+, { "DiTich":"Hang Sa Khao", "ViTri":"Võ Nhai", "LoaiDiTich":"Danh thắng", "NamCongNhan":"" }
+, { "DiTich":"Địa điểm thành lập Đội Thanh niên xung phong công tác Trung ương (15/7/1950)", "ViTri":"Yên Lãng, Đại Từ", "LoaiDiTich":"Di tích lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Địa điểm hoạt động của Ban Giao thông Liên lạc Trung ương (1947 - 1954)", "ViTri":"Bình Thành, Định Hóa", "LoaiDiTich":"Di tích lịch sử", "NamCongNhan":"" }
 , { "DiTich":"Hang Nà Mò", "ViTri":"Hiệp Lực, Ngân Sơn", "LoaiDiTich":"Khảo cổ", "NamCongNhan":"7/1/2020" }
+, { "DiTich":"Hoàng Phài - Địa điểm Lưu niệm nơi Bác Hồ dừng chân trên đường từ Pác Bó về Tân Trào, 5/1945", "ViTri":"Ngân Sơn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2011" }
+, { "DiTich":"Di tích lịch sử Nà Tu", "ViTri":"Bạch Thông", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1996" }
+, { "DiTich":"Đồn Phủ Thông", "ViTri":"Bạch Thông", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1998" }
+, { "DiTich":"ATK Chợ Đồn", "ViTri":"Chợ Đồn", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"2016" }
+, { "DiTich":"Bản Ca", "ViTri":"Chợ Đồn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1996" }
+, { "DiTich":"Đồi Nà Pậu - Nơi làm việc của Hồ Chủ tịch đầu năm 1951", "ViTri":"Chợ Đồn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1996" }
+, { "DiTich":"Khuổi Linh - Nơi làm việc của đồng chí Trường Chinh và văn phòng Trung ương Đảng năm 1950", "ViTri":"Chợ Đồn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1996" }
+, { "DiTich":"Bản Bằng", "ViTri":"Chợ Đồn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1996" }
+, { "DiTich":"Đồi Khau Mạ - Nơi làm việc của Đồng chí Phạm Văn Đồng (1950 - 1951)", "ViTri":"Chợ Đồn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1996" }
+, { "DiTich":"Di tích lịch sử Nà Quân", "ViTri":"Chợ Đồn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1996" }
+, { "DiTich":"Động Nàng Tiên", "ViTri":"Lương Hạ, Na Rì", "LoaiDiTich":"Danh thắng", "NamCongNhan":"1999" }
+, { "DiTich":"Động Áng Toòng", "ViTri":"Xuất Hóa, Tp. Bắc Kạn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"12/11/2013" }
 , { "DiTich":"Địa điểm Chiến thắng Xương Giang", "ViTri":"thành phố Bắc Giang", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"xx" }
+, { "DiTich":"Chùa Vĩnh Nghiêm (Bắc Giang) (Chùa Đức La)", "ViTri":"Yên Dũng", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"1964" }
+, { "DiTich":"Khu thờ tự Việp Quận công Hoàng Ngũ Phúc", "ViTri":"Yên Dũng", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1991" }
+, { "DiTich":"Đền Ngọc Lâm, Tân Mỹ", "ViTri":"Yên Dũng", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1991" }
+, { "DiTich":"Địa điểm Lưu niệm Bác Hồ", "ViTri":"Tân An, Yên Dũng", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1994" }
+, { "DiTich":"Từ Vũ thôn Bùi Bến", "ViTri":"Yên Dũng", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"1994" }
+, { "DiTich":"Lăng Dinh Hương", "ViTri":"Hiệp Hòa", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"1965" }
+, { "DiTich":"Lăng đá Họ Ngọ", "ViTri":"Hiệp Hòa", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"1964" }
+, { "DiTich":"Lăng đá Bầu", "ViTri":"Hiệp Hòa", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"1964" }
+, { "DiTich":"Đình Lỗ Hạnh", "ViTri":"Hiệp Hòa", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"1990" }
+, { "DiTich":"Lăng Họ Trần", "ViTri":"Hiệp Hòa", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"1990" }
+, { "DiTich":"Đình Hương Câu", "ViTri":"Hiệp Hòa", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"1992" }
+, { "DiTich":"Đền Y Sơn", "ViTri":"Hiệp Hòa", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"1994" }
+, { "DiTich":"ATK2 (10 di tích)", "ViTri":"Hiệp Hòa, Phổ Yên & Phú Bình", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Đình Xuân Biều (ATK2)", "ViTri":"Hiệp Hòa", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1994" }
+, { "DiTich":"Đình Vân Xuyên (ATK2)", "ViTri":"Hiệp Hòa", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1994" }
+, { "DiTich":"Nhà ông Ngô Văn Thấu (ATK2)", "ViTri":"Hoàng Vân, Hiệp Hòa", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1994" }
+, { "DiTich":"Nhà ông Ngô Văn Đông (ATK2)", "ViTri":"Hoàng Vân, Hiệp Hòa", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1994" }
+, { "DiTich":"Nhà ông Nguyễn Văn Chế (ATK2)", "ViTri":"Hoàng Vân, Hiệp Hòa", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1994" }
+, { "DiTich":"Đền Soi (ATK2)", "ViTri":"Hoàng Vân, Hiệp Hòa", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1994" }
+, { "DiTich":"Đình chợ Vân (ATK2)", "ViTri":"Hoàng An, Hiệp Hòa", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1994" }
+, { "DiTich":"Đình và đền Trâu Lỗ", "ViTri":"Mai Đình, Hiệp Hòa", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"1994" }
+, { "DiTich":"Đình Đông Trước", "ViTri":"Mai Đình, Hiệp Hòa", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"2014" }
+, { "DiTich":"Đình Phù Lão", "ViTri":"Đào Mỹ, Lạng Giang", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"1982" }
+, { "DiTich":"Đình Am", "ViTri":"Xuân Hương, Lạng Giang", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"2014" }
+, { "DiTich":"Cụm di tích Cây Dã hương", "ViTri":"Tiên Lục, Lạng Giang", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1989" }
+, { "DiTich":"Chùa Bổ Đà", "ViTri":"Việt Yên", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"2016" }
+, { "DiTich":"Đình Nội", "ViTri":"Việt Lập, Tân Yên", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"1998" }
+, { "DiTich":"Chùa Nam Thiên (Đồi Phủ)", "ViTri":"Tân Yên", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1989" }
+, { "DiTich":"Đình Dương Lâm", "ViTri":"An Dương, Tân Yên", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"1991" }
+, { "DiTich":"Đình Vường", "ViTri":"Liên Trung, Tân Yên", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"1991" }
+, { "DiTich":"Chùa Kim Tràng", "ViTri":"Việt Lập, Tân Yên", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"1991" }
+, { "DiTich":"Chùa Tứ Giáp", "ViTri":"Tân Yên", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"1992" }
+, { "DiTich":"Đình Cao Thượng", "ViTri":"Tân Yên", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"1999" }
+, { "DiTich":"Đình và chùa Hả", "ViTri":"Tân Trung, Tân Yên", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1994" }
+, { "DiTich":"Đình làng Chuông", "ViTri":"Tân Yên", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1988" }
+, { "DiTich":"Nghĩa địa Pháp (Đồi Phủ)", "ViTri":"Tân Yên", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1988" }
+, { "DiTich":"Đền thờ Cả Trọng (đền Gốc Dẻ)", "ViTri":"Tân Yên", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1988" }
+, { "DiTich":"Đền Gốc Khế", "ViTri":"Tân Yên", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1988" }
+, { "DiTich":"Nghè Nhã Nam", "ViTri":"Tân Yên", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1988" }
+, { "DiTich":"Đồn Phồn Xương", "ViTri":"Yên Thế", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1979" }
+, { "DiTich":"Đồn Hom", "ViTri":"Yên Thế", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1979" }
+, { "DiTich":"Đồn Hố Chuối", "ViTri":"Yên Thế", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1979" }
+, { "DiTich":"Chùa Lèo", "ViTri":"Phồn Xương, Yên Thế", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1979" }
+, { "DiTich":"Đền Bến Nhãn", "ViTri":"Yên Thế", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1991" }
+, { "DiTich":"Chùa Bố Hạ", "ViTri":"Yên Thế", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1991" }
+, { "DiTich":"Đình Hương Vĩ", "ViTri":"Yên Thế", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1994" }
+, { "DiTich":"Chùa Hương Vĩ", "ViTri":"Yên Thế", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"1994" }
+, { "DiTich":"Đền Cầu Khoai", "ViTri":"Yên Thế", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1994" }
+, { "DiTich":"Đình Đông Kênh", "ViTri":"Đông Sơn, Yên Thế", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"1995" }
+, { "DiTich":"Đình Bo Chợ", "ViTri":"Đông Sơn, Yên Thế", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"1995" }
+, { "DiTich":"Đền thờ Kỳ Đồng Nguyễn Văn Cẩm (Động Thiên Thai)", "ViTri":"Hồng Kỳ, Yên Thế", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1995" }
+, { "DiTich":"Khu di tích khởi nghĩa Yên Thế (gồm 23 di tích)", "ViTri":"Yên Thế, Tân Yên, Việt Yên, Yên Dũng", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Chùa Kem Nham Sơn (KDT Yên Thế)", "ViTri":"Yên Dũng", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"2012" }
+, { "DiTich":"Đình và chùa Sàn", "ViTri":"Phương Sơn, Lục Nam", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"1995" }
+, { "DiTich":"Chùa Khám Lạng", "ViTri":"Khám Lạng, Lục Nam", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"1999" }
+, { "DiTich":"Đền Hả", "ViTri":"Hồng Giang, Lục Ngạn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1991" }
+, { "DiTich":"Chùa Am Vãi", "ViTri":"Nam Dương, Lục Ngạn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2017" }
+, { "DiTich":"Lăng Giáp Đăng Luân", "ViTri":"Việt Lập, Tân Yên", "LoaiDiTich":"Lịch sử kiến trúc", "NamCongNhan":"2017" }
+, { "DiTich":"Đình Đại Từ", "ViTri":"Bảo Đài, Lục Nam", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2017" }
 , { "DiTich":"Đền Hùng", "ViTri":"Hy Cương, Việt Trì", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"2012" }
+, { "DiTich":"Di tích Làng Cả", "ViTri":"Thọ Sơn, Việt Trì", "LoaiDiTich":"Lịch sử khảo cổ", "NamCongNhan":"2006" }
+, { "DiTich":"Đình Hương Trầm", "ViTri":"Dưu Lâu, Việt Trì", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"23/02/2004" }
+, { "DiTich":"Đình Hạ Bì Trung", "ViTri":"Xuân Lộc, Thanh Thủy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"10/11/2010" }
+, { "DiTich":"Căn cứ Tiên Động", "ViTri":"Tiên Lương, Cẩm Khê", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"12/02/1999" }
+, { "DiTich":"Di tích khảo cổ xóm Rền", "ViTri":"Gia Thanh, Phù Ninh", "LoaiDiTich":"Khảo cổ", "NamCongNhan":"2012" }
+, { "DiTich":"Đền Đào Xá", "ViTri":"Đào Xá, Thanh Thủy", "LoaiDiTich":"Lịch sử", "NamCongNhan":"23/02/2004" }
+, { "DiTich":"Đền Lời", "ViTri":"Vĩnh Lại, Lâm Thao", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"23/02/2004" }
+, { "DiTich":"Địa điểm chiến thắng Chân Mộng - Trạm Than (năm 1952)", "ViTri":"Chân Mộng, Đoan Hùng", "LoaiDiTich":"Lịch sử", "NamCongNhan":"23/02/2004" }
+, { "DiTich":"Chùa Phúc Ân Do Nghĩa", "ViTri":"Sơn Vi, Lâm Thao", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1998" }
+, { "DiTich":"Đình Hạ Mạo", "ViTri":"Thanh Minh, Tx. Phú Thọ", "LoaiDiTich":"Lịch sử kiến trúc", "NamCongNhan":"22/8/2008" }
+, { "DiTich":"Đền Chu Hưng", "ViTri":"Ấm Hạ, Hạ Hòa", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2003" }
+, { "DiTich":"Đền Lăng Sương", "ViTri":"Trung Nghĩa, Thanh Thủy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2005" }
+, { "DiTich":"Đền Mẫu Âu Cơ", "ViTri":"Hiền Lương, Hạ Hòa", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1991" }
+, { "DiTich":"Đền Tam Giang", "ViTri":"Bạch Hạc, Việt Trì", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2010" }
+, { "DiTich":"Chùa Phổ Quang (Chùa Xuân Lũng)", "ViTri":"Xuân Lũng, Lâm Thao", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1980" }
+, { "DiTich":"Đền Xa Lộc", "ViTri":"Tứ Xã, Lâm Thao", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1991" }
+, { "DiTich":"Chùa Bồng Lai (Chùa Hà Thạch)", "ViTri":"Hà Thạch, thị xã Phú Thọ", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1994" }
 , { "DiTich":"Đền Kiếp Bạc (Khu di tích Côn Sơn - Kiếp Bạc)", "ViTri":"Chí Linh", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"1962" }
-, { "DiTich":"Văn miếu Bắc Ninh", "ViTri":"Đại Phúc", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Chùa Côn Sơn (Khu di tích Côn Sơn - Kiếp Bạc)", "ViTri":"Chí Linh", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"1962" }
+, { "DiTich":"Chùa Thanh Mai", "ViTri":"Chí Linh", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1992" }
+, { "DiTich":"Đền thờ Chu Văn An", "ViTri":"Chí Linh", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1998" }
+, { "DiTich":"Đền Quốc Phụ", "ViTri":"Chí Linh", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2003" }
+, { "DiTich":"Mộ và Đền thờ Nữ tiến sĩ Nguyễn Thị Duệ", "ViTri":"Chí Linh", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2014" }
+, { "DiTich":"Đền Cao An Phụ", "ViTri":"Kinh Môn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1992" }
+, { "DiTich":"Động Kính Chủ", "ViTri":"Kinh Môn", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"1962" }
+, { "DiTich":"Chùa Dâu (Gia Lộc)", "ViTri":"Nhật Tân, Gia Lộc", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1992" }
+, { "DiTich":"Đền Đươi", "ViTri":"Gia Lộc", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1992" }
+, { "DiTich":"Miếu Chợ Cốc", "ViTri":"Gia Lộc", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1991" }
+, { "DiTich":"Đình Vô Lượng", "ViTri":"Gia Lộc", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1998" }
+, { "DiTich":"Đình Trình Xá", "ViTri":"Gia Lộc", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1999" }
+, { "DiTich":"Chùa Muống", "ViTri":"Kim Thành", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1992" }
+, { "DiTich":"Chùa Linh Quang", "ViTri":"Kim Thành", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"2001" }
+, { "DiTich":"Đình Kiên Lao", "ViTri":"Kim Thành", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1995" }
+, { "DiTich":"Đình - chùa Dưỡng Thái", "ViTri":"Kim Thành", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1995" }
+, { "DiTich":"Chùa Trăm Gian Hải Dương", "ViTri":"Nam Sách", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1990" }
+, { "DiTich":"Mộ và Nhà thờ 3 Tiến sĩ Trần Thọ, Trần Cảnh, Trần Tiến (Họ Trần Điền Trì)", "ViTri":"Quốc Tuấn, Nam Sách", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2020" }
+, { "DiTich":"Đền Mạc Đĩnh Chi", "ViTri":"Nam Sách", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1995" }
+, { "DiTich":"Gốm Chu Đậu-Mỹ Xá", "ViTri":"Nam Sách", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1992" }
+, { "DiTich":"Nghè Đồn", "ViTri":"Nam Sách", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1994" }
+, { "DiTich":"Chùa Trông", "ViTri":"Ninh Giang", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2002" }
+, { "DiTich":"Đền Tranh (đền Quan Lớn Tuần Tranh)", "ViTri":"Ninh Giang", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2009" }
+, { "DiTich":"Đền Khúc Thừa Dụ", "ViTri":"Ninh Giang", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2014" }
+, { "DiTich":"Đền Xưa - Chùa Giám - Đền Bia", "ViTri":"Cẩm Giàng", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1994" }
+, { "DiTich":"Văn Miếu Mao Điền", "ViTri":"Cẩm Giàng", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1992" }
+, { "DiTich":"Đình Thiệu Mỹ", "ViTri":"Thanh Hà", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2004" }
+, { "DiTich":"Đình Cao Xá", "ViTri":"Bình Giang", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1994" }
+, { "DiTich":"Đình - chùa Châu Khê", "ViTri":"Bình Giang", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1991" }
+, { "DiTich":"Đền Sượt", "ViTri":"Hải Dương", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1993" }
+, { "DiTich":"Khu lưu niệm Đinh Văn Tả", "ViTri":"Hải Dương", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1993" }
+, { "DiTich":"Đảo Cò Chi Lăng Nam", "ViTri":"Thanh Miện", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2014" }
+, { "DiTich":"Chùa Dạm", "ViTri":"Nam Sơn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1962" }
+, { "DiTich":"Đền Bà Chúa Kho (Bắc Ninh)", "ViTri":"Vũ Ninh", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Chùa Thiên Tâm (chùa Tiêu)", "ViTri":"Tương Giang, Từ Sơn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1991" }
+, { "DiTich":"Đình, chùa Vĩnh Kiều", "ViTri":"Đồng Nguyên, Từ Sơn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1992" }
+, { "DiTich":"Đình Dương Lôi", "ViTri":"Tân Hồng, Từ Sơn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Nhà lưu niệm Ngô Gia Tự", "ViTri":"Tam Sơn, Từ Sơn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1989" }
+, { "DiTich":"Đình làng Đồng Đông", "ViTri":"Đại Đồng Thành, Thuận Thành", "LoaiDiTich":"Lịch sử - Nghệ thuật", "NamCongNhan":"1992" }
+, { "DiTich":"Đình Đình Bảng", "ViTri":"Đình Bảng, Từ Sơn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đền Lý Bát Đế (Đền Đô) và Lăng mộ các vua nhà Lý", "ViTri":"Đình Bảng, Từ Sơn", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"1991" }
+, { "DiTich":"Chùa Dận", "ViTri":"Đình Bảng, Từ Sơn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình Yên Lã", "ViTri":"Tân Hồng, Từ Sơn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"23/02/2004" }
+, { "DiTich":"Chùa Yên Lã", "ViTri":"Tân Hồng, Từ Sơn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"23/02/2004" }
+, { "DiTich":"Khu di tích Đền Núi, điếm Trung Quân, Núi đồn và Cánh đồng dinh", "ViTri":"Yên Phụ, Yên Phong", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1988" }
+, { "DiTich":"Đình Ngô Nội", "ViTri":"Trung Nghĩa, Yên Phong", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2001" }
+, { "DiTich":"Đình Đông Mai", "ViTri":"Trung Nghĩa, Yên Phong", "LoaiDiTich":"Lịch sử kiến trúc", "NamCongNhan":"1990" }
+, { "DiTich":"Mộ và Đền thờ Tiến sĩ Nguyễn Duy Thức", "ViTri":"Tam Giang, Yên Phong", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2014" }
+, { "DiTich":"Nhà thờ tổ họ Ngô lệnh tộc (Nhà thờ 5 tiến sĩ họ Ngô)", "ViTri":"Tam Giang, Yên Phong", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2015" }
+, { "DiTich":"Di tích Phòng tuyến sông Như Nguyệt", "ViTri":"Tam Đa, Yên Phong", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1980" }
+, { "DiTich":"Chùa Cổ Lũng", "ViTri":"Tiên Du", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1994" }
+, { "DiTich":"Lăng và đền thờ Kinh Dương Vương", "ViTri":"Đồng Thành, Thuận Thành", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1993" }
+, { "DiTich":"Đình Mão Điền Đoài", "ViTri":"Mão Điền, Thuận Thành", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2009" }
+, { "DiTich":"Đình Liễu Khê", "ViTri":"Song Liễu, Thuận Thành", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2001" }
+, { "DiTich":"Chùa Bút Tháp", "ViTri":"Đình Tổ, Thuận Thành", "LoaiDiTich":"Lịch sử kiến trúc đặc biệt", "NamCongNhan":"1962" }
+, { "DiTich":"Chùa Hương Thủy", "ViTri":"Đình Tổ, Thuận Thành", "LoaiDiTich":"Lịch sử kiến trúc", "NamCongNhan":"1994" }
+, { "DiTich":"Chùa Dâu", "ViTri":"Thanh Khương, Thuận Thành", "LoaiDiTich":"Lịch sử kiến trúc đặc biệt", "NamCongNhan":"1962" }
+, { "DiTich":"Chùa Tổ", "ViTri":"Hà Mãn, Thuận Thành", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2001" }
+, { "DiTich":"Chùa Phật Tích", "ViTri":"Phật Tích, Tiên Du", "LoaiDiTich":"Lịch sử kiến trúc đặc biệt", "NamCongNhan":"1962" }
+, { "DiTich":"Đình Lương Xá", "ViTri":"Phú Lương, Lương Tài", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2017" }
 , { "DiTich":"Khu Danh thắng Tây Thiên (bao gồm Đền Mẫu Sinh, Đền cô đền cậu Tây Thiên, Đền Thượng, Đền Thõng (đền Tây Thiên), và Thiền viện Trúc Lâm Tây Thiên)", "ViTri":"Đại Đình, Tam Đảo", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"1991" }
+, { "DiTich":"Đình Đạm Xuyên", "ViTri":"Tiền Châu, Phúc Yên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2003" }
+, { "DiTich":"Chiến khu Ngọc Thanh (bao gồm núi Thằn Lằn, nhà cụ Lý Thị Hai, Đồng Dè, rừng Móc Son, khe núi Đá Đen và thung lũng Đá Bia)", "ViTri":"Ngọc Thanh, Phúc Yên", "LoaiDiTich":"Lịch sử cách mạng", "NamCongNhan":"1995" }
+, { "DiTich":"Chùa Bảo Sơn (Vĩnh Phúc)", "ViTri":"Nam Viêm, Phúc Yên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1994" }
+, { "DiTich":"Đình Khả Do", "ViTri":"Nam Viêm, Phúc Yên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1994" }
+, { "DiTich":"Đình Cao Quang", "ViTri":"Cao Minh, Phúc Yên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1990" }
+, { "DiTich":"Đền Ngô Miễn", "ViTri":"Phúc Thắng, Phúc Yên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1991" }
+, { "DiTich":"Đình Sen Hồ (Vĩnh Phúc)", "ViTri":"Thái Hòa, Lập Thạch", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1993" }
+, { "DiTich":"Đền thờ Trần Nguyên Hãn", "ViTri":"Sơn Đông, Lập Thạch", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1984" }
+, { "DiTich":"Đền thờ Đỗ Khắc Chung", "ViTri":"Sơn Đông, Lập Thạch", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1993" }
+, { "DiTich":"Chùa Vĩnh Phúc", "ViTri":"Sơn Đông, Lập Thạch", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1993" }
+, { "DiTich":"Đình Tây Hạ", "ViTri":"Bàn Giản, Lập Thạch", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1992" }
+, { "DiTich":"Chùa Đông Lai (Vĩnh Phúc)", "ViTri":"Bàn Giản, Lập Thạch", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1992" }
+, { "DiTich":"Đền Triệu Thái", "ViTri":"Đồng Ích, Lập Thạch", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1992" }
+, { "DiTich":"Đình Ngõa", "ViTri":"Văn Quán, Lập Thạch", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1994" }
+, { "DiTich":"Đình Đình Chu", "ViTri":"Đình Chu, Lập Thạch", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1996" }
+, { "DiTich":"Đình Thạch Trục", "ViTri":"Lập Thạch, Lập Thạch", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1996" }
+, { "DiTich":"Chùa Am (Vĩnh Phúc)", "ViTri":"Sơn Đông, Lập Thạch", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1994" }
+, { "DiTich":"Chùa Sùng Khánh (chùa Báo Thiên)", "ViTri":"Tiên Lữ, Lập Thạch", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2015" }
+, { "DiTich":"Đình Tiên Lữ (Vĩnh Phúc)", "ViTri":"Tiên Lữ, Lập Thạch", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2000" }
+, { "DiTich":"Tháp Bình Sơn", "ViTri":"Tam Sơn, Sông Lô", "LoaiDiTich":"Lịch sử kiến trúc đặc biệt", "NamCongNhan":"1962" }
+, { "DiTich":"Đình Hương Canh", "ViTri":"Hương Canh, Bình Xuyên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1964" }
+, { "DiTich":"Đình Ngọc Canh", "ViTri":"Hương Canh, Bình Xuyên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1984" }
+, { "DiTich":"Đình Tiên Hường", "ViTri":"Hương Canh, Bình Xuyên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1984" }
+, { "DiTich":"Chùa Kính Phúc", "ViTri":"Hương Canh, Bình Xuyên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2000" }
+, { "DiTich":"Đền Xuân Lãng", "ViTri":"Thanh Lãng, Bình Xuyên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2000" }
+, { "DiTich":"Chùa Quảng Hựu", "ViTri":"Thanh Lãng, Bình Xuyên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1994" }
+, { "DiTich":"Đền Thánh Mẫu (Vĩnh Phúc)", "ViTri":"Thanh Lãng, Bình Xuyên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1992" }
+, { "DiTich":"Cụm di tích thờ Lý Nam Đế (gồm Đình Mộ Đạo, Bảo Đức, Đại Phúc)", "ViTri":"Đạo Đức, Bình Xuyên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1992" }
+, { "DiTich":"Chùa Can Bi", "ViTri":"Phú Xuân, Bình Xuyên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1993" }
+, { "DiTich":"Đình Quất Lưu", "ViTri":"Quất Lưu, Bình Xuyên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1993" }
+, { "DiTich":"Chùa Tùng Vân", "ViTri":"Thổ Tang, Vĩnh Tường", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1992" }
+, { "DiTich":"Đình Thổ Tang", "ViTri":"Thổ Tang, Vĩnh Tường", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1964" }
+, { "DiTich":"Đình Bích Chu", "ViTri":"An Tường, Vĩnh Tường", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1990" }
+, { "DiTich":"Đình Thủ Độ", "ViTri":"An Tường, Vĩnh Tường", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1992" }
+, { "DiTich":"Đình Cam Giá", "ViTri":"An Tường, Vĩnh Tường", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1996" }
+, { "DiTich":"Miếu Trúc Lâm", "ViTri":"Thổ Tang, Vĩnh Tường", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"2015" }
+, { "DiTich":"Đình Phương Viên", "ViTri":"Thổ Tang, Vĩnh Tường", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"2015" }
+, { "DiTich":"Đền Phú Đa", "ViTri":"Lũng Hòa, Vĩnh Tường", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1984" }
+, { "DiTich":"Đình Hòa Loan", "ViTri":"Lũng Hòa, Vĩnh Tường", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1992" }
+, { "DiTich":"Cụm di tích Lê Ngọc Chinh (đền Ngòi, đình Đông, đình Nam)", "ViTri":"Lũng Hòa, Vĩnh Tường", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1994" }
+, { "DiTich":"Đền Đuông", "ViTri":"Bồ Sao, Vĩnh Tường", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1993" }
+, { "DiTich":"Chùa Thượng Trưng", "ViTri":"Thượng Trưng, Vĩnh Tường", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1992" }
+, { "DiTich":"Địa điểm lưu niệm Chủ tịch Hồ Chí Minh tại Vĩnh Tường", "ViTri":"Bình Dương, Vĩnh Tường", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1995" }
+, { "DiTich":"Chùa Hoa Dương", "ViTri":"Tuân Chính, Vĩnh Tường", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1994" }
+, { "DiTich":"Đình Tuân Lộ", "ViTri":"Tuân Chính, Vĩnh Tường", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2003" }
+, { "DiTich":"Đình và chùa Vĩnh Sơn", "ViTri":"Vĩnh Sơn, Vĩnh Tường", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2000" }
+, { "DiTich":"Đình Sông Kênh", "ViTri":"Nghĩa Hưng, Vĩnh Tường", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2003" }
+, { "DiTich":"Đền Thính", "ViTri":"Tam Hồng, Yên Lạc", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1992" }
+, { "DiTich":"Đền Tranh (Vĩnh Phúc)", "ViTri":"Trung Nguyên, Yên Lạc", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1993" }
+, { "DiTich":"Đền Đồng Lạc", "ViTri":"Đồng Văn, Yên Lạc", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1994" }
+, { "DiTich":"Đình Yên Lạc", "ViTri":"Đồng Văn, Yên Lạc", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1996" }
+, { "DiTich":"Đình Hùng Vĩ", "ViTri":"Đồng Văn, Yên Lạc", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1992" }
+, { "DiTich":"Chùa Tiền Môn", "ViTri":"Đồng Văn, Yên Lạc", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1994" }
+, { "DiTich":"Chùa Đại An", "ViTri":"Đồng Văn, Yên Lạc", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2000" }
+, { "DiTich":"Đình Tri Chỉ", "ViTri":"Đồng Cương, Yên Lạc", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"18/03/1996" }
+, { "DiTich":"Đình Yên Nội", "ViTri":"Văn Tiến, Yên Lạc", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1993" }
+, { "DiTich":"Chùa Biện Sơn", "ViTri":"Yên Lạc, Yên Lạc", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1996" }
+, { "DiTich":"Khảo cổ học Đồng Đậu", "ViTri":"Yên Lạc, Yên Lạc", "LoaiDiTich":"Khảo cổ", "NamCongNhan":"2000" }
+, { "DiTich":"Đình Thứa Thượng", "ViTri":"Duy Phiên, Tam Dương", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1994" }
+, { "DiTich":"Đình Phú Vinh", "ViTri":"Duy Phiên, Tam Dương", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2001" }
+, { "DiTich":"Chùa Hà Tiên (Vĩnh Phúc)", "ViTri":"Định Trung, Vĩnh Yên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1995" }
+, { "DiTich":"Chùa Tích Sơn", "ViTri":"Tích Sơn, Vĩnh Yên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1992" }
+, { "DiTich":"Đình Đông Đạo", "ViTri":"Đồng Tâm, Vĩnh Yên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1994" }
 , { "DiTich":"Nhà hát lớn Hải Phòng", "ViTri":"Hoàng Văn Thụ, Hồng Bàng", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"2015" }
+, { "DiTich":"Trạm Giao thông liên lạc quốc tế của Đảng trong những năm 1920", "ViTri":"Hoàng Văn Thụ, Hồng Bàng", "LoaiDiTich":"Lịch sử cách mạng", "NamCongNhan":"1986" }
+, { "DiTich":"Chùa Dư Hàng", "ViTri":"Hồ Nam, Lê Chân", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1986" }
+, { "DiTich":"Đền Nghè", "ViTri":"An Biên, Lê Chân", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1975" }
+, { "DiTich":"Đình Hàng Kênh", "ViTri":"Hàng Kênh, Lê Chân", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1962" }
+, { "DiTich":"Đền Phú Xá", "ViTri":"Đông Hải, Hải An", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1990" }
+, { "DiTich":"Từ Lương Xâm", "ViTri":"Nam Hải, Hải An", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1986" }
+, { "DiTich":"Tháp Tường Long (tháp Đồ Sơn)", "ViTri":"Ngọc Xuyên, Đồ Sơn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2005" }
+, { "DiTich":"Đình Ngọc Xuyên", "ViTri":"Ngọc Xuyên, Đồ Sơn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2007" }
+, { "DiTich":"Bến tàu không số K15 (điểm đầu Đường Hồ Chí Minh trên biển)", "ViTri":"Vạn Hương, Đồ Sơn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2008" }
+, { "DiTich":"Đền Trinh Hưởng", "ViTri":"Thiên Hương, Thủy Nguyên", "LoaiDiTich":"Lịch sử kiến trúc", "NamCongNhan":"1991" }
+, { "DiTich":"Miếu Thủy Tú", "ViTri":"Thủy Đường, Thủy Nguyên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1991" }
+, { "DiTich":"Đền An Lư", "ViTri":"An Lư, Thủy Nguyên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1990" }
+, { "DiTich":"Đình Kiền Bái", "ViTri":"Kiền Bái, Thủy Nguyên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1986" }
+, { "DiTich":"Quần thể di tích - danh thắng Tràng Kênh", "ViTri":"Minh Đức, Thủy Nguyên", "LoaiDiTich":"Lịch sử văn hóa, danh thắng", "NamCongNhan":"1962" }
+, { "DiTich":"Đình Đồng Dụ", "ViTri":"Đặng Cương, An Dương", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1991" }
+, { "DiTich":"Đình Vĩnh Khê", "ViTri":"An Đồng, An Dương", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1991" }
+, { "DiTich":"Đình Nhu Thượng", "ViTri":"Quốc Tuấn, An Dương", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1991" }
+, { "DiTich":"Miếu Nam", "ViTri":"Bắc Sơn, An Dương", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1990" }
+, { "DiTich":"Đình Hà Đậu", "ViTri":"Hồng Phong, An Dương", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1994" }
+, { "DiTich":"Đình, chùa Do Nha", "ViTri":"Tân Tiến, An Dương", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2007" }
+, { "DiTich":"Đình Dụ Nghĩa", "ViTri":"Lê Thiện, An Dương", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1994" }
+, { "DiTich":"Đình Quỳnh Hoàng", "ViTri":"Nam Sơn, An Dương", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1992" }
+, { "DiTich":"Đền thờ Trạng Trình Nguyễn Bỉnh Khiêm (thuộc Khu di tích Trạng Trình Nguyễn Bỉnh Khiêm)", "ViTri":"Lý Học, Vĩnh Bảo", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"1991" }
+, { "DiTich":"Đình Lễ Hợp", "ViTri":"Tam Đa, Vĩnh Bảo", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1994" }
+, { "DiTich":"Miếu Vua Bà", "ViTri":"Vinh Quang, Vĩnh Bảo", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1991" }
+, { "DiTich":"Đình An Quý", "ViTri":"Cộng Hiền, Vĩnh Bảo", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1999" }
+, { "DiTich":"Miếu Hà Phương", "ViTri":"Thắng Thủy, Vĩnh Bảo", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1993" }
+, { "DiTich":"Đình Vĩnh Lạc", "ViTri":"Tiền Phong, Vĩnh Bảo", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2017" }
+, { "DiTich":"Đình Cung Chúc", "ViTri":"Trung Lập, Vĩnh Bảo", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1962" }
+, { "DiTich":"Đình Kim Sơn", "ViTri":"Tân Trào, Kiến Thụy", "LoaiDiTich":"Lịch sử cách mạng", "NamCongNhan":"1986" }
+, { "DiTich":"Từ đường họ Mạc", "ViTri":"Ngũ Đoan, Kiến Thụy", "LoaiDiTich":"Lịch sử cách mạng", "NamCongNhan":"2002" }
+, { "DiTich":"Đình, chùa Chi Lai - Núi Voi (Hải Phòng)", "ViTri":"Trường Thành, An Lão", "LoaiDiTich":"Lịch sử danh thắng", "NamCongNhan":"1962" }
+, { "DiTich":"Di tích khảo cổ Cái Bèo", "ViTri":"Cát Bà, Cát Hải", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2009" }
+, { "DiTich":"Địa điểm Bác Hồ về thăm làng Cá Cát Bà", "ViTri":"Cát Bà, Cát Hải", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2009" }
+, { "DiTich":"Chùa Văn Hòa", "ViTri":"Hữu Bằng, Kiến Thụy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1996" }
+, { "DiTich":"Đình Tri Yếu", "ViTri":"Đặng Cương, An Dương", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1991" }
 , { "DiTich":"Chùa Đoan Túc", "ViTri":"Tiền Phong, Tp. Thái Bình", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1989" }
+, { "DiTich":"Đình Tống Thỏ", "ViTri":"Đông Mỹ, Tp. Thái Bình", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Miếu Bắc", "ViTri":"Đông Sơn, Đông Hưng", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình, Miếu Hậu Trung, Miếu Hậu Thượng", "ViTri":"Hồng Bạch, Đông Hưng", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1989" }
+, { "DiTich":"Chùa Thiên Quý", "ViTri":"Đông Xuân, Đông Hưng", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Chùa Đọ", "ViTri":"Đông Sơn, Đông Hưng", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình, Nghè Cổ Dũng", "ViTri":"Đông La, Đông Hưng", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình, Chùa, Lăng Thượng Liệt", "ViTri":"Đông Tân, Đông Hưng", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình Lưu", "ViTri":"Đông Phương, Đông Hưng", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Từ đường Đào Vũ Thường", "ViTri":"Đông Quang, Đông Hưng", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Từ đường Phạm Huy Quang", "ViTri":"Đông Sơn, Đông Hưng", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1993" }
+, { "DiTich":"Đình, Chùa, Miếu Bình Cách", "ViTri":"Đông Xá, Đông Hưng", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Làng Kháng chiến Nguyên Xá, Nghĩa trang liệt sĩ Đông Hưng", "ViTri":"Nguyên Xá, Đông Hưng", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Lăng Thái Bảo Đỗ Tử Bình", "ViTri":"Hồng Việt, Đông Hưng", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1999" }
+, { "DiTich":"Đình Kênh", "ViTri":"Đông Xuân, Đông Hưng", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình Lịch Động", "ViTri":"Đông Các, Đông Hưng", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình Tàu", "ViTri":"Đông Sơn, Đông Hưng", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Từ đường Thượng thư Lương Quy Chính", "ViTri":"Hồng Việt, Đông Hưng", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Chùa Cần Tu", "ViTri":"Đông Dương, Đông Hưng", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Từ đường, Lăng mộ Lê Quý Đôn", "ViTri":"Độc Lập, Hưng Hà", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Từ đường Bùi Sỹ Tiêm", "ViTri":"Đông Kinh, Đông Hưng", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đền Tiên La", "ViTri":"Đoan Hùng, Hưng Hà", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đền Buộm, Đền Rẫy, Nhà thờ Tiên Tiến", "ViTri":"Tân Tiến, Hưng Hà", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đền Lưu Xá, Chùa Báo Quốc", "ViTri":"Canh Tân, Hưng Hà", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đền Trần (Thái Bình)", "ViTri":"Tiến Đức, Hưng Hà", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đền thờ Trạng nguyên Phạm Đôn Lễ", "ViTri":"Tân Lễ, Hưng Hà", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đền, Lăng Thái sư Trần Thủ Độ, Đền Linh từ Quốc mẫu Trần Thị Dung", "ViTri":"Liên Hiệp, Hưng Hà", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình, Miếu, Chùa Diệc", "ViTri":"Tân Hòa, Hưng Hà", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình Khả", "ViTri":"Duyên Hải, Hưng Hà", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình, Chùa Hú", "ViTri":"Hòa Tiến, Hưng Hà", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Từ đường thờ TS Nguyễn Tông Quai", "ViTri":"Hòa Tiến, Hưng Hà", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình, Đền Cổ Trai", "ViTri":"Hồng Minh, Hưng Hà", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình Ngừ", "ViTri":"Liên Hiệp, Hưng Hà", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình Thọ Phú", "ViTri":"Hồng Minh, Hưng Hà", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"11/10/2006" }
+, { "DiTich":"Đình Xuân Lôi", "ViTri":"Hồng Minh, Hưng Hà", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình, Đền Thanh Lãng", "ViTri":"Minh Hòa, Hưng Hà", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Nhà lưu niệm Văn thân Nguyễn Mậu Kiến", "ViTri":"Vũ Trung, Kiến Xương", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình Lai Vi", "ViTri":"Quang Minh, Kiến Xương", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đền Mộ Đạo, Đền Cả", "ViTri":"Vũ Bình, Kiến Xương", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Nhà thờ Tứ Quận Công và Văn thân Nguyễn Năng Thế", "ViTri":"Vũ Trung, Kiến Xương", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình Thượng Phúc", "ViTri":"Quang Trung, Kiến Xương", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình Luật Nội, Đình Luật Ngoại", "ViTri":"Quang Lịch, Kiến Xương", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đền Đông Sàn", "ViTri":"Hồng Thái, Kiến Xương", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Cơ sỏ Xứ ủy Bắc Kỳ", "ViTri":"Đình Phùng, Kiến Xương", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Chùa Lãng Đông", "ViTri":"Trà Giang, Kiến Xương", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình Cả", "ViTri":"Vũ Trung, Kiến Xương", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đền Tổ", "ViTri":"Hồng Thái, Kiến Xương", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình Lại Trì", "ViTri":"Tây Sơn, Kiến Xương", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"14/4/2011" }
+, { "DiTich":"Chùa Am", "ViTri":"Quang Bình, Kiến Xương", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình Son", "ViTri":"Minh Quang, Kiến Xương", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Miếu Trà Đoài", "ViTri":"Quang Trung, Kiến Xương", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2017" }
+, { "DiTich":"Đền Đồng Bằng", "ViTri":"An Lễ, Quỳnh Phụ", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đền Hồng Phong", "ViTri":"An Tràng, Quỳnh Phụ", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đền Lộng Khê", "ViTri":"An Khê, Quỳnh Phụ", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đền Năm thôn", "ViTri":"Châu Sơn, Quỳnh Phụ", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đền Ngọc Quế", "ViTri":"Quỳnh Hoa, Quỳnh Phụ", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"30/10/1990" }
+, { "DiTich":"Miếu Hoàng Bà", "ViTri":"Quỳnh Hoa, Quỳnh Phụ", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"2018" }
+, { "DiTich":"Đình An Bài", "ViTri":"An Bài, Quỳnh Phụ", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"7/1/2020" }
+, { "DiTich":"Đình Đông Linh", "ViTri":"An Bài, Quỳnh Phụ", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình Hiệp Lực", "ViTri":"An Khê, Quỳnh Phụ", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"30/10/1990" }
+, { "DiTich":"Đình Lương Mỹ", "ViTri":"Quỳnh Hội, Quỳnh Phụ", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"14/4/2011" }
+, { "DiTich":"Đình Vạn Phúc", "ViTri":"An Ninh, Quỳnh Phụ", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình Vĩnh Phúc", "ViTri":"Quỳnh Trang, Quỳnh Phụ", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình, Đền, Bến tượng A Sào", "ViTri":"An Thái, Quỳnh Phụ", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình, Đền, La Vân,", "ViTri":"Quỳnh Hồng, Quỳnh Phụ", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Miếu Hòe Thị", "ViTri":"Đồng Tiến, Quỳnh Phụ", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Miếu Rọc", "ViTri":"An Dục, Quỳnh Phụ", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"11/10/2006" }
+, { "DiTich":"Đình An Cổ", "ViTri":"An Tân, Thái Thụy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1962" }
+, { "DiTich":"Đền Cả", "ViTri":"Thụy Chính, Thái Thụy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đền Chò", "ViTri":"Thụy Trường, Thái Thụy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đền Côn Giang, Từ đường họ Quách, Nhà thờ Quách Đình Bảo, Quách Hữu Nghiêm", "ViTri":"Thái Phúc, Thái Thụy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đền Hạ Đồng", "ViTri":"Thụy Sơn, Thái Thụy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đền Hệ", "ViTri":"Thụy Ninh, Thái Thụy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đền Hét", "ViTri":"Thái Thượng, Thái Thụy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đền thờ Đinh Trinh", "ViTri":"Dương Hồng Thủy, Thái Thụy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình An Tiêm", "ViTri":"Thụy Dân, Thái Thụy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"14/4/2011" }
+, { "DiTich":"Đình Bích Đoài", "ViTri":"Thái Nguyên, Thái Thụy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình Các Đông", "ViTri":"Thái Thượng, Thái Thụy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình Phất Lộc", "ViTri":"Thái Giang, Thái Thụy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình Phương Man", "ViTri":"Hồng Dũng, Thái Thụy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình Tử Các", "ViTri":"Thái Thượng, Thái Thụy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình Vạn Đồn, Đình Lưu Đồn, Đình Tu Trình", "ViTri":"Hồng Dũng, Thái Thụy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Khu lưu niệm và Lăng mộ Nguyễn Đức Cảnh", "ViTri":"Diêm Điền, Thái Thụy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Miếu Ba Thôn", "ViTri":"Thụy Hải, Thái Thụy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Miếu Chính", "ViTri":"Thụy Trình, Thái Thụy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Miếu Đông", "ViTri":"Dương Hồng Thủy, Thái Thụy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Nhà lưu niệm Phạm Thế Hiển", "ViTri":"Thụy Phong, Thái Thụy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Từ Giành", "ViTri":"Thụy Văn, Thái Thụy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình Đông Quách", "ViTri":"Nam Hà, Tiền Hải", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình Nho Lâm, Đình Thanh Giám", "ViTri":"Đông Lâm, Tiền Hải", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình Tiểu Hoàng, Đình Ngoại Đê, Lăng Nguyễn Công Trứ", "ViTri":"thị trấn Tiền Hải", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình Tổ, Nhà thờ Họ Tạ, Thư Điền", "ViTri":"Tây Giang, Tiền Hải", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Mả Bụt", "ViTri":"Vũ Lăng, Tiền Hải", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1993" }
+, { "DiTich":"Khu lưu niệm Bùi Viện", "ViTri":"An Ninh, Tiền Hải", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Khu lưu niệm Ngô Quang Bích", "ViTri":"An Ninh, Tiền Hải", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Chùa Keo (Thái Bình)", "ViTri":"Duy Nhất, Vũ Thư", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"2012" }
+, { "DiTich":"Chùa Từ Vân", "ViTri":"Bách Thuận, Vũ Thư", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đền Thượng", "ViTri":"Song Lãng, Vũ Thư", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đền và Lăng mộ Quế Hoa", "ViTri":"Việt Hùng, Vũ Thư", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình Bách Tính", "ViTri":"Bách Thuận, Vũ Thư", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình Đền Bổng Điền", "ViTri":"Tân Lập, Vũ Thư", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình Dũng Thúy", "ViTri":"Dũng Nghĩa, Vũ Thư", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình La Uyên", "ViTri":"Minh Quang, Vũ Thư", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình Mỹ Bổng, Đình Mỹ Lộc", "ViTri":"Việt Hùng, Vũ Thư", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình Phương Cáp", "ViTri":"Hiệp Hòa, Vũ Thư", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình Thuận An", "ViTri":"Việt Thuận, Vũ Thư", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Khu lưu niệm Bác Hồ", "ViTri":"Tân Hòa, Vũ Thư", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Miếu Hai Thôn", "ViTri":"Xuân Hòa, Vũ Thư", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Từ đường Doãn Khuê", "ViTri":"Song Lãng, Vũ Thư", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"7/2/2013" }
+, { "DiTich":"Từ đường Hoàng Công Chất", "ViTri":"Nguyên Xá, Vũ Thư", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Từ đường Nguyễn Kim Nho", "ViTri":"Bách Thuận, Vũ Thư", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
 , { "DiTich":"Đền Trần (Nam Định) - Chùa Phổ Minh", "ViTri":"Lộc Vượng, Nam Định", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"1962" }
-, { "DiTich":"1", "ViTri":"Đền Vua Đinh Tiên Hoàng", "LoaiDiTich":"Trường Yên - Hoa Lư", "NamCongNhan":"Đền Vua Đinh là một di tích quan trọng thuộc vùng bảo vệ đặc biệt của quần thể di sản cố đô Hoa Lư. Vị trí của đền thuộc trung tâm thành Đông của kinh đô Hoa Lư xưa." }
+, { "DiTich":"Đền Cổ Trạch", "ViTri":"Lộc Vượng, Nam Định", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1962" }
+, { "DiTich":"Đền Thiên Trường", "ViTri":"Lộc Vượng, Nam Định", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1962" }
+, { "DiTich":"Chùa Đệ Tứ", "ViTri":"Lộc Hạ", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2004" }
+, { "DiTich":"Cột cờ Nam Định", "ViTri":"Ngô Quyền, Tp. Nam Định", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1962" }
+, { "DiTich":"Những di tích lịch sử chống Mỹ cứu nước tại thành phố Nam Định (bao gồm Cửa hàng cắt tóc và Cửa hàng ăn uống dưới hầm; Khu Chỉ huy Sở của Nhà máy Dệt; Khu di tích phố Hàng Thao - nơi ghi lại tội ác của giặc Mỹ; Hầm Chỉ huy Thành Ủy Nam Định trong thời kỳ chống Mỹ cứu nước)", "ViTri":"Bà Triệu, Tp. Nam Định", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1979" }
+, { "DiTich":"Nhà số 7 phố Bến Ngự", "ViTri":"Phan Đình Phùng, Tp. Nam Định", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1991" }
+, { "DiTich":"Chùa Cồn", "ViTri":"Cồn, Hải Hậu", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1997" }
+, { "DiTich":"Cầu ngói chợ Lương", "ViTri":"Hải Anh, Hải Hậu", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1990" }
+, { "DiTich":"Đền chùa Xã Hạ", "ViTri":"Hải Bắc, Hải Hậu", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1995" }
+, { "DiTich":"Chùa Hà Lạn", "ViTri":"Hải Phúc, Hải Hậu", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2001" }
+, { "DiTich":"Chùa Phúc Hải", "ViTri":"Hải Minh, Hải Hậu", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1993" }
+, { "DiTich":"Chùa Phúc Sơn", "ViTri":"Hải Trung, Hải Hậu", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1996" }
+, { "DiTich":"Chùa Cổ Lễ", "ViTri":"Cổ Lễ, Trực Ninh", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1988" }
+, { "DiTich":"Chùa Cự Trữ", "ViTri":"Phương Định, Trực Ninh", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1990" }
+, { "DiTich":"Chùa Cổ Chất", "ViTri":"Phương Định, Trực Ninh", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1992" }
+, { "DiTich":"Địa điểm các đồn binh thời Trần (bao gồm Đền Xối Đông Thượng, Xối Đông Trung, Xối Đông Hạ)", "ViTri":"Trung Đông, Trực Ninh", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1994" }
+, { "DiTich":"Chùa Đại Bi", "ViTri":"Nam Giang, Nam Trực", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1964" }
+, { "DiTich":"Chùa Keo Hành Thiện", "ViTri":"Xuân Hồng, Xuân Trường", "LoaiDiTich":"Văn hóa kiến trúc đặc biệt", "NamCongNhan":"1962 2016" }
+, { "DiTich":"Nhà lưu niệm đồng chí Trường Chinh", "ViTri":"Xuân Hồng, Xuân Trường", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1994" }
+, { "DiTich":"Chùa Nghĩa Xá", "ViTri":"Xuân Ninh, Xuân Trường", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1991" }
+, { "DiTich":"Đền Xuân Hy (đền Hạ)", "ViTri":"Xuân Thủy, Xuân Trường", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1990" }
+, { "DiTich":"Đền Xuân Bảng", "ViTri":"Xuân Hùng, Xuân Trường", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1989" }
+, { "DiTich":"Chùa Diêm Điền", "ViTri":"Ngô Đồng, Giao Thủy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1995" }
+, { "DiTich":"Khu di tích Hoành Nha", "ViTri":"Giao Tiến, Giao Thủy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1993" }
+, { "DiTich":"Miếu và đình Cao Đài", "ViTri":"Mỹ Thành, Mỹ Lộc", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1964" }
+, { "DiTich":"Đình Sùng Văn", "ViTri":"Mỹ Thuận, Mỹ Lộc", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1997" }
+, { "DiTich":"Đình Thượng Đồng", "ViTri":"Yên Tiến, Ý Yên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1990" }
+, { "DiTich":"Đình Ruồi", "ViTri":"Yên Nghĩa, Ý Yên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1992" }
+, { "DiTich":"Đình Cát Đằng", "ViTri":"Yên Tiến, Ý Yên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1992" }
+, { "DiTich":"Đình, chùa Đô Quan", "ViTri":"Yên Khang, Ý Yên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1998" }
+, { "DiTich":"Đình Hưng Lộc", "ViTri":"Nghĩa Thịnh, Nghĩa Hưng", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1993" }
+, { "DiTich":"Đền, chùa Hưng Thịnh", "ViTri":"Hoàng Nam, Nghĩa Hưng", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1994" }
+, { "DiTich":"Đền, chùa Hà Dương", "ViTri":"Hoàng Nam, Nghĩa Hưng", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2017" }
 , { "DiTich":"Khu di tích Phố Hiến", "ViTri":"Tp. Hưng Yên", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"2014" }
+, { "DiTich":"Văn miếu Xích Đằng", "ViTri":"Lam Sơn, Tp. Hưng Yên", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"1992" }
+, { "DiTich":"Chùa Thái Lạc", "ViTri":"Văn Lâm", "LoaiDiTich":"Kiến trúc nghệ thuật đăc biệt", "NamCongNhan":"2018" }
+, { "DiTich":"Đền Mây", "ViTri":"Lam Sơn, Tp. Hưng Yên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1992" }
+, { "DiTich":"Đền Kim Đằng", "ViTri":"Lam Sơn, Tp. Hưng Yên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2014" }
+, { "DiTich":"Chùa Chuông (Kim Chung tự)", "ViTri":"Hiến Nam,Tp. Hưng Yên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1992" }
+, { "DiTich":"Khu lưu niệm Tổng Bí thư Nguyễn Văn Linh", "ViTri":"Giai Phạm, Yên Mỹ", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2017" }
+, { "DiTich":"Đình An Vũ", "ViTri":"Hiến Nam, Tp. Hưng Yên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1999" }
+, { "DiTich":"Đền Nam Hoà", "ViTri":"Hiến Nam, Tp. Hưng Yên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2014" }
+, { "DiTich":"Đền Trần", "ViTri":"Quang Trung, Tp. Hưng Yên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2014" }
+, { "DiTich":"Đền Mẫu (Hoa Dương Linh từ)", "ViTri":"Quang trung, Tp. Hưng Yên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2014" }
+, { "DiTich":"Chùa Phố", "ViTri":"Quang Trung, Tp. Hưng Yên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2014" }
+, { "DiTich":"Đền Thiên Hậu (Thiên Hậu cung)", "ViTri":"Quang Trung, Tp. Hưng Yên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2014" }
+, { "DiTich":"Võ Miếu", "ViTri":"Quang Trung, Tp. Hưng Yên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2014" }
+, { "DiTich":"Đền Bà Chúa Kho (Hưng Yên) Đền Gốc Sanh (Thương Tỉnh linh)", "ViTri":"Quang Trung, Tp. Hưng Yên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2014" }
+, { "DiTich":"Đền Cửu Thiên Huyền Nữ (Đền Bắc Hòa)", "ViTri":"Lê Lợi, Tp. Hưng Yên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2014" }
+, { "DiTich":"Đông Đô Quảng Hội - Thiên Hậu cung", "ViTri":"Hồng Châu, Tp. Hưng Yên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2014" }
+, { "DiTich":"Đình, chùa Hiến", "ViTri":"Hồng Châu, Tp. Hưng Yên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2014" }
+, { "DiTich":"Chùa Nễ Châu (Thụy Ứng tự)", "ViTri":"Hồng Nam, Tp. Hưng Yên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2014" }
+, { "DiTich":"Đình Đào Xá", "ViTri":"Vĩnh Xá, Kim Động", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"7/1/2020" }
+, { "DiTich":"Đình, Miếu Tráng Vũ", "ViTri":"Đồng Than, Yên Mỹ", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"7/1/2020" }
+, { "DiTich":"Làng Nôm", "ViTri":"Đại Đồng, Văn Lâm", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"7/1/2020" }
 , { "DiTich":"Đình Thịnh Châu Hạ", "ViTri":"Châu Sơn, Phủ Lý", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"12/02/1999" }
+, { "DiTich":"Đình An Bài", "ViTri":"Đồng Du, Bình Lục", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"01/02/2000" }
+, { "DiTich":"Đình An Dương", "ViTri":"Mỹ Thọ, Bình Lục", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"28/7/2000" }
+, { "DiTich":"Đình Bùi", "ViTri":"Trịnh Xá, Bình Lục", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"28/12/2001" }
+, { "DiTich":"Đình Cả", "ViTri":"Vũ Bản, Bình Lục", "LoaiDiTich":"Lịch sử kiến trúc nghệ thuật", "NamCongNhan":"29/3/2012" }
+, { "DiTich":"Đình Chiềng", "ViTri":"Đinh Xá, Bình Lục", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"30/12/2002" }
+, { "DiTich":"Đình Công Đồng", "ViTri":"An Mỹ, Bình Lục", "LoaiDiTich":"Lịch sử", "NamCongNhan":"02/3/1990" }
+, { "DiTich":"Đình Đinh", "ViTri":"Đinh Xá, Bình Lục", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"12/02/1999" }
+, { "DiTich":"Đình Mai Động", "ViTri":"Trung Lương, Bình Lục", "LoaiDiTich":"Lịch sử nghệ thuật", "NamCongNhan":"20/7/1994" }
+, { "DiTich":"Đình Mỹ Đôi", "ViTri":"An Mỹ, Bình Lục", "LoaiDiTich":"Lịch sử", "NamCongNhan":"24/01/1998" }
+, { "DiTich":"Đình Nam", "ViTri":"Vũ Bản, Bình Lục", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"11/5/2010" }
+, { "DiTich":"Đình Tái Kênh", "ViTri":"Đinh Xá, Bình Lục", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"26/01/2006" }
+, { "DiTich":"Đình Thanh Nghĩa", "ViTri":"Đồn Xá, Bình Lục", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"22/01/2009" }
+, { "DiTich":"Đình Tiên Lý", "ViTri":"Đồn Xá, Bình Lục", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"18/3/2001" }
+, { "DiTich":"Đình Triều Hội", "ViTri":"Bồ Đề, Bình Lục", "LoaiDiTich":"Lịch sử", "NamCongNhan":"18/01/1988" }
+, { "DiTich":"Đình Văn Phú", "ViTri":"Mỹ Thọ, Bình Lục", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"16/01/1995" }
+, { "DiTich":"Đình Vị Hạ", "ViTri":"Trung Lương, Bình Lục", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"20/12/1997" }
+, { "DiTich":"Đình Vị Thượng", "ViTri":"Trung Lương, Bình Lục", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"22/01/2009" }
+, { "DiTich":"Đình Yên Đổ", "ViTri":"An Đổ, Bình Lục", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"18/6/1997" }
+, { "DiTich":"Đình, chùa Cổ Viễn", "ViTri":"Hưng Công, Bình Lục", "LoaiDiTich":"Lịch sử kiến trúc nghệ thuật", "NamCongNhan":"25/01/1994" }
+, { "DiTich":"Đình, chùa Đạo Truyền", "ViTri":"Đồn Xá, Bình Lục", "LoaiDiTich":"Lịch sử nghệ thuật", "NamCongNhan":"02/8/1999" }
+, { "DiTich":"Đình, chùa Đồng Du Trung", "ViTri":"Đồng Du, Bình Lục", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"15/12/2004" }
+, { "DiTich":"Đình, chùa Ngọc Lũ", "ViTri":"Ngọc Lũ, Bình Lục", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"26/01/2006" }
+, { "DiTich":"Từ đường Lương Quận Công Trần Như Lân", "ViTri":"Ngọc Lũ, Bình Lục", "LoaiDiTich":"Lịch sử", "NamCongNhan":"16/01/1995" }
+, { "DiTich":"Từ đường Nguyễn Khuyến", "ViTri":"Trung Lương, Bình Lục", "LoaiDiTich":"Lịch sử", "NamCongNhan":"30/12/1991" }
+, { "DiTich":"Chùa Bạch Liên", "ViTri":"Trác Văn, Duy Tiên", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"09/4/1992" }
+, { "DiTich":"Chùa Đọi Sơn", "ViTri":"Đọi Sơn, Duy Tiên", "LoaiDiTich":"Lịch sử kiến trúc nghệ thuật", "NamCongNhan":"1992 2017" }
+, { "DiTich":"Chùa Khánh Long", "ViTri":"Châu Giang, Duy Tiên", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"18/01/1993" }
+, { "DiTich":"Đền Lảnh Giang", "ViTri":"Mộc Nam, Duy Tiên", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"05/11/1996" }
+, { "DiTich":"Đền Yên Từ", "ViTri":"Mộc Bắc, Duy Tiên", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"01/02/2000" }
+, { "DiTich":"Đình Đá An Mông", "ViTri":"Tiên Phong, Duy Tiên", "LoaiDiTich":"Lịch sử kiến trúc nghệ thuật", "NamCongNhan":"20/7/1994" }
+, { "DiTich":"Đình Khả Duy", "ViTri":"Mộc Bắc, Duy Tiên", "LoaiDiTich":"Lịch sử", "NamCongNhan":"24/3/1993" }
+, { "DiTich":"Đình Lê Xá", "ViTri":"Châu Sơn, Duy Tiên", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"15/12/2004" }
+, { "DiTich":"Đình Lũng Xuyên", "ViTri":"Yên Bắc, Duy Tiên", "LoaiDiTich":"Lịch sử", "NamCongNhan":"18/01/1988" }
+, { "DiTich":"Đình Ngô Xá", "ViTri":"Tiên Nội, Duy Tiên", "LoaiDiTich":"Lịch sử kiến trúc nghệ thuật", "NamCongNhan":"13/02/1996" }
+, { "DiTich":"Đình Ngọc Động", "ViTri":"Hoàng Đông, Duy Tiên", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"13/02/1996" }
+, { "DiTich":"Đình Tường Thụy", "ViTri":"Trác Văn, Duy Tiên", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"18/01/1988" }
+, { "DiTich":"Chùa Bà Đanh và núi Ngọc", "ViTri":"Ngọc Sơn, Kim Bảng", "LoaiDiTich":"Lịch sử thắng cảnh", "NamCongNhan":"20/7/1994" }
+, { "DiTich":"Chùa Quế Lâm", "ViTri":"Tt. Quế, Kim Bảng", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"13/02/1996" }
+, { "DiTich":"Đền Ba Dân", "ViTri":"Tân Sơn, Kim Bảng", "LoaiDiTich":"Lịch sử", "NamCongNhan":"13/02/1996" }
+, { "DiTich":"Đền Trúc và Ngũ động Thi Sơn", "ViTri":"Thi Sơn, Kim Bảng", "LoaiDiTich":"Lịch sử thắng cảnh", "NamCongNhan":"25/01/1994" }
+, { "DiTich":"Đình Lạc Nhuế", "ViTri":"Đồng Hóa, Kim Bảng", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"26/01/2001" }
+, { "DiTich":"Đình Nhật Tân", "ViTri":"Nhật Tân, Kim Bảng", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"24/4/2001" }
+, { "DiTich":"Đình Phương Lâm", "ViTri":"Đồng Hóa, Kim Bảng", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"24/01/1998" }
+, { "DiTich":"Đình Phương Thượng", "ViTri":"Lê Hồ, Kim Bảng", "LoaiDiTich":"Lịch sử kiến trúc nghệ thuật", "NamCongNhan":"02/12/1992" }
+, { "DiTich":"Đình Thượng", "ViTri":"Thanh Sơn, Kim Bảng", "LoaiDiTich":"Lịch sử kiến trúc nghệ thuật", "NamCongNhan":"18/01/1993" }
+, { "DiTich":"Đền Bà Vũ", "ViTri":"Chân Lý, Lý Nhân", "LoaiDiTich":"Lịch sử", "NamCongNhan":"24/3/1993" }
+, { "DiTich":"Đền Trần Thương", "ViTri":"Nhân Đạo, Lý Nhân", "LoaiDiTich":"Lịch sử danh thắng đặc biệt", "NamCongNhan":"2015" }
+, { "DiTich":"Đình Chương Lương", "ViTri":"Bắc Lý, Lý Nhân", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"22/01/2009" }
+, { "DiTich":"Đình Đức Bản Ngoại", "ViTri":"Nhân Nghĩa, Lý Nhân", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"22/01/2009" }
+, { "DiTich":"Đình Gia", "ViTri":"Nhân Mỹ, Lý Nhân", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"26/01/2011" }
+, { "DiTich":"Đình Mạc Hạ", "ViTri":"Công Lý, Lý Nhân", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"13/3/2001" }
+, { "DiTich":"Đình Ngò", "ViTri":"Đức Lý, Lý Nhân", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"28/12/2001" }
+, { "DiTich":"Đình Thọ Chương", "ViTri":"Đạo Lý, Lý Nhân", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"09/12/1994" }
+, { "DiTich":"Đình Trác Nội", "ViTri":"Nhân Đạo, Lý Nhân", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"15/12/2004" }
+, { "DiTich":"Đình Vạn Thọ", "ViTri":"Nhân Bình, Lý Nhân", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"12/02/1999" }
+, { "DiTich":"Đình Văn Xá", "ViTri":"Đức Lý, Lý Nhân", "LoaiDiTich":"Kiến trúc", "NamCongNhan":"28/4/1962" }
+, { "DiTich":"Đình Vĩnh Trụ", "ViTri":"Tt. Vĩnh Trụ, Lý Nhân", "LoaiDiTich":"Lịch sử nghệ thuật", "NamCongNhan":"24/3/1993" }
+, { "DiTich":"Đình, chùa Cao Đà", "ViTri":"Nhân Mỹ, Lý Nhân", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"05/11/1996" }
+, { "DiTich":"Đình, chùa Mạc Thượng", "ViTri":"Chính Lý, Lý Nhân", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"26/01/2011" }
+, { "DiTich":"Đình, chùa Tế Xuyên", "ViTri":"Đức Lý, Lý Nhân", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"05/11/1996" }
+, { "DiTich":"Đình, đền, chùa Nội Rối", "ViTri":"Bắc Lý, Lý Nhân", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"29/3/2012" }
+, { "DiTich":"Khu di tích đình Đồng Lư (Thượng, Trung, Hạ)", "ViTri":"Chân Lý, Lý Nhân", "LoaiDiTich":"Lịch sử kiến trúc nghệ thuật", "NamCongNhan":"11/9/1993" }
+, { "DiTich":"Đền Lăng", "ViTri":"Liêm Cần, Thanh Liêm", "LoaiDiTich":"Lịch sử", "NamCongNhan":"26/01/1999" }
+, { "DiTich":"Đình An Hòa", "ViTri":"Thanh Hà, Thanh Liêm", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"07/5/1997" }
+, { "DiTich":"Đình An Xá", "ViTri":"Thanh Tuyền, Thanh Liêm", "LoaiDiTich":"Lịch sử kiến trúc nghệ thuật", "NamCongNhan":"28/6/1996" }
+, { "DiTich":"Đình Cẩm Du", "ViTri":"Thanh Lưu, Thanh Liêm", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"20/4/2001" }
+, { "DiTich":"Đình Chảy", "ViTri":"Liêm Thuận, Thanh Liêm", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"24/01/1998" }
+, { "DiTich":"Đình Đống Cầu", "ViTri":"Liêm Túc, Thanh Liêm", "LoaiDiTich":"Lịch sử nghệ thuật", "NamCongNhan":"05/9/1994" }
+, { "DiTich":"Đình Nguyễn Trung", "ViTri":"Liêm Phong, Thanh Liêm", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"27/12/2001" }
+, { "DiTich":"Đình Ô Cách", "ViTri":"Thanh Thủy, Thanh Liêm", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"15/12/2004" }
+, { "DiTich":"Đình, chùa Châu", "ViTri":"Tt. Kiện Khê, Thanh Liêm", "LoaiDiTich":"Lịch sử thắng cảnh", "NamCongNhan":"05/02/1994" }
+, { "DiTich":"Đình, đền Hòa Ngãi", "ViTri":"Thanh Hà, Thanh Liêm", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"21/8/2000" }
+, { "DiTich":"Kẽm Trống", "ViTri":"Thanh Hải, Thanh Liêm", "LoaiDiTich":"Danh thắng", "NamCongNhan":"1962" }
+, { "DiTich":"Đình Hạ", "ViTri":"Đức Lý, Lý Nhân", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"7/1/2020" }
+, { "DiTich":"Đình Mã Não", "ViTri":"Ngọc Sơn, Kim Bảng", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"7/1/2020" }
+, { "DiTich":"Địa điểm lưu niệm Chủ tịch Hồ Chí Minh về thăm công trường đắp đập Cát Tường năm 1958", "ViTri":"An Mỹ, Bình Lục", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2018" }
+, { "DiTich":"Đình Đọi Tam", "ViTri":"Đọi Sơn, Duy Tiên", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"2018" }
+, { "DiTich":"Đình Nam Xá Thượng", "ViTri":"Nhân Nghĩa, Lý Nhân", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"2018" }
+, { "DiTich":"Đình, văn từ Cát Lại", "ViTri":"Bình Nghĩa, Bình Lục", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"2018" }
+, { "DiTich":"Quần thể Danh lam thắng cảnh Tam Chúc", "ViTri":"Ba Sao, Kim Bảng", "LoaiDiTich":"Danh lam thắng cảnh", "NamCongNhan":"2023" }
+, { "DiTich":"Căn cứ địa Lạt Sơn (gồm : Đền thờ nữ tướng Lê Chân; Núi Giát Dâu; Đồi Bụt)", "ViTri":"Thanh Sơn, Kim Bảng", "LoaiDiTich":"Di tích lịch sử", "NamCongNhan":"2023" }
+, { "DiTich":"Mộ và Khu lưu niệm Nam Cao", "ViTri":"Hòa Hậu, Lý Nhân", "LoaiDiTich":"Di tích lịch sử", "NamCongNhan":"2023" }
+, { "DiTich":"Bát Cảnh Sơn", "ViTri":"Tượng Lĩnh, Kim Bảng", "LoaiDiTich":"Danh lam thắng cảnh", "NamCongNhan":"2023" }
 , { "DiTich":"Khu lưu niệm Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch", "ViTri":"Ba Đình", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"1975" }
+, { "DiTich":"KDT Hoàng thành Thăng Long", "ViTri":"Ba Đình", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"2009" }
+, { "DiTich":"Khu khảo cổ 18 Hoàng Diệu (KDT Hoàng thành Thăng Long)", "ViTri":"Ba Đình", "LoaiDiTich":"Lịch sử khảo cổ đặc biệt", "NamCongNhan":"1999" }
+, { "DiTich":"Thành cổ Hà Nội (KDT Hoàng thành Thăng Long)", "ViTri":"Ba Đình", "LoaiDiTich":"Lịch sử khảo cổ đặc biệt", "NamCongNhan":"1999" }
+, { "DiTich":"Đền Voi Phục", "ViTri":"Ba Đình", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1962" }
+, { "DiTich":"Đền Quán Thánh", "ViTri":"Ba Đình", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1962" }
+, { "DiTich":"Đình Tường Phiêu", "ViTri":"Phúc Thọ", "LoaiDiTich":"Kiến trúc nghệ thuật đăc biệt", "NamCongNhan":"2018" }
+, { "DiTich":"Đình So", "ViTri":"Quốc Oai", "LoaiDiTich":"Kiến trúc nghệ thuật đăc biệt", "NamCongNhan":"2018" }
+, { "DiTich":"Đền Bà Chúa Kho (Hà Nội)", "ViTri":"Giảng Võ, Ba Đình", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1994" }
+, { "DiTich":"Chùa Bát Tháp", "ViTri":"Đội Cấn, Ba Đình", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1989" }
+, { "DiTich":"Chùa Hòe Nhai", "ViTri":"Ba Đình", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1989" }
+, { "DiTich":"Đền Đống Nước", "ViTri":"Ngọc Hà, Ba Đình", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1993" }
+, { "DiTich":"Đình Đại Yên", "ViTri":"Hoàng Hoa Thám, Ba Đình", "LoaiDiTich":"Lịch sử kiến trúc", "NamCongNhan":"1990" }
+, { "DiTich":"Đình Kim Mã", "ViTri":"Kim Mã, Ba Đình", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1990" }
+, { "DiTich":"Chùa Kim Sơn", "ViTri":"Kim Mã, Ba Đình", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1985" }
+, { "DiTich":"Chùa Thiên Phúc", "ViTri":"Cửa Nam, Hoàn Kiếm", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1992" }
+, { "DiTich":"Đình Vũ Thạch", "ViTri":"Tràng Tiền, Hoàn Kiếm", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1986" }
+, { "DiTich":"Đền Lý Quốc Sư", "ViTri":"Hàng Trống, Hoàn Kiếm", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1995" }
+, { "DiTich":"Đền Phù Ủng", "ViTri":"Hàng Trống, Hoàn Kiếm", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1988" }
+, { "DiTich":"Đình Nam Hương", "ViTri":"Hàng Trống, Hoàn Kiếm", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1995" }
+, { "DiTich":"Đền Ngọc Sơn và khu vực Hồ Hoàn Kiếm", "ViTri":"Hàng Trống, Hoàn Kiếm", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"2013" }
+, { "DiTich":"Đền Bà Kiệu", "ViTri":"Lý Thái Tổ, Hoàn Kiếm", "LoaiDiTich":"Lịch sử kiến trúc", "NamCongNhan":"1994" }
+, { "DiTich":"Nhà lưu niệm 48 Hàng Ngang, Nơi Bác Hồ khởi thảo bản Tuyên ngôn Độc lập khai sinh ra nước Việt Nam Dân chủ cộng hòa", "ViTri":"Hoàn Kiếm", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1979" }
+, { "DiTich":"Đền Quan Đế", "ViTri":"Hoàn Kiếm", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"2015" }
+, { "DiTich":"Nhà 5D Hàm Long, Nơi thành lập Chi bộ Cộng sản đầu tiên của Việt Nam", "ViTri":"Hoàn Kiếm", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Đền Lý Quốc Sư", "ViTri":"Hoàn Kiếm", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1995" }
+, { "DiTich":"Nhà hát Lớn Hà Nội và Quảng trường Cách mạng tháng Tám", "ViTri":"Hoàn Kiếm", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"2011" }
+, { "DiTich":"Đền Bạch Mã", "ViTri":"Hoàn Kiếm", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1986" }
+, { "DiTich":"Chùa Hà", "ViTri":"Cầu Giấy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1995" }
+, { "DiTich":"Chùa Thánh Chúa", "ViTri":"Cầu Giấy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1989" }
+, { "DiTich":"Đền Đồng Nhân / Đền Hai Bà Trưng", "ViTri":"Hai Bà Trưng", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"1962" }
+, { "DiTich":"Chùa Quỳnh Lôi", "ViTri":"Hai Bà Trưng", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1995" }
+, { "DiTich":"Chùa Liên Phái", "ViTri":"Hai Bà Trưng", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1962" }
+, { "DiTich":"Đình, đền và chùa Hòa Mã", "ViTri":"Hai Bà Trưng", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1986" }
+, { "DiTich":"Chùa Hưng Ký", "ViTri":"Hai Bà Trưng", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1992" }
+, { "DiTich":"Đình và chùa Mai Phúc", "ViTri":"Long Biên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1992" }
+, { "DiTich":"Đình Tứ Đình và chùa Sùng Phúc", "ViTri":"Long Biên", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1991" }
+, { "DiTich":"Đình Sài Đồng", "ViTri":"Long Biên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1992" }
+, { "DiTich":"Đình Gia Thụy và Gò Mộ Tổ", "ViTri":"Long Biên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1991" }
+, { "DiTich":"Chùa Bắc Biên", "ViTri":"Long Biên", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1989" }
+, { "DiTich":"Chùa Kim Liên", "ViTri":"Tây Hồ", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1962" }
+, { "DiTich":"Đình Yên Phụ", "ViTri":"Tây Hồ", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1986" }
+, { "DiTich":"Đình An Thái", "ViTri":"Tây Hồ", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1994" }
+, { "DiTich":"Miếu Trung Liệt và Gò Đống Đa", "ViTri":"Trung Liệt, Đống Đa", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1963" }
+, { "DiTich":"Chùa Bộc", "ViTri":"Quang Trung, Đống Đa", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1962" }
+, { "DiTich":"Chùa Đồng Quang", "ViTri":"Quang Trung, Đống Đa", "LoaiDiTich":"Lịch sử kiến trúc", "NamCongNhan":"1990" }
+, { "DiTich":"Đình Nam Đồng", "ViTri":"Nam Đồng, Đống Đa", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1991" }
+, { "DiTich":"Đình chùa Trung Tự", "ViTri":"Phương Liên, Đống Đa", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1992" }
+, { "DiTich":"Chùa Huy Văn", "ViTri":"Văn Chương, Đống Đa", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1996" }
+, { "DiTich":"Bích Câu đạo quán", "ViTri":"Cát Linh, Đống Đa", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1990" }
+, { "DiTich":"Chùa Bà Nành", "ViTri":"Văn Miếu, Đống Đa", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1986" }
+, { "DiTich":"Chùa Bà Ngô", "ViTri":"Văn Miếu, Đống Đa", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1993" }
+, { "DiTich":"Chùa Phổ Giác", "ViTri":"Văn Miếu, Đống Đa", "LoaiDiTich":"Lịch sử kiến trúc", "NamCongNhan":"1991" }
+, { "DiTich":"Văn Miếu - Quốc Tử Giám, Bia tiến sĩ Văn Miếu Thăng Long", "ViTri":"Văn Miếu, Đống Đa", "LoaiDiTich":"Lịch sử kiến trúc đặc biệt", "NamCongNhan":"xx" }
+, { "DiTich":"Y Miếu Thăng Long", "ViTri":"Văn Miếu, Đống Đa", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1980" }
+, { "DiTich":"Chùa Quang Minh", "ViTri":"Văn Miếu, Đống Đa", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1993" }
+, { "DiTich":"Đình và đền Hào Nam", "ViTri":"Ô Chợ Dừa, Đống Đa", "LoaiDiTich":"Lịch sử kiến trúc", "NamCongNhan":"1994" }
+, { "DiTich":"Chùa Thanh Nhàn", "ViTri":"Ô Chợ Dừa, Đống Đa", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1989" }
+, { "DiTich":"Chùa Láng", "ViTri":"Láng Thượng, Đống Đa", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1962" }
+, { "DiTich":"Pháo Đài Láng", "ViTri":"Láng Thượng, Đống Đa", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1993" }
+, { "DiTich":"Chùa Phúc Khánh", "ViTri":"Thịnh Quang, Đống Đa", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1988" }
+, { "DiTich":"Đài tưởng niệm Khâm Thiên", "ViTri":"Khâm Thiên, Đống Đa", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1979" }
+, { "DiTich":"Chùa Một Cột", "ViTri":"Ba Đình", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1962" }
+, { "DiTich":"Cây đa Bác Hồ", "ViTri":"Ba Vì", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2004" }
+, { "DiTich":"Chùa Long Sơn", "ViTri":"Ba Vì", "LoaiDiTich":"Di tích lịch sử", "NamCongNhan":"1994" }
+, { "DiTich":"Đình Tây Đằng", "ViTri":"Ba Vì", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"2013" }
+, { "DiTich":"Đền Hai Bà Trưng (Mê Linh)", "ViTri":"Mê Linh", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"2013" }
+, { "DiTich":"Đền Hát Môn", "ViTri":"Phúc Thọ", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"2013" }
+, { "DiTich":"Chùa Bối Khê", "ViTri":"Thanh Oai", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1979" }
+, { "DiTich":"Chùa Đại Bi", "ViTri":"Mỹ Đức", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1991" }
+, { "DiTich":"Chùa Nành (Pháp Vân)", "ViTri":"Gia Lâm", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1989" }
+, { "DiTich":"Đình - Miếu Tế Xuyên và chùa Linh Quang Phòng", "ViTri":"Đình Xuyên, Gia Lâm", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1992" }
+, { "DiTich":"Đền Phù Đổng", "ViTri":"Gia Lâm", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"2013" }
+, { "DiTich":"Chùa Thần Quy", "ViTri":"Phú Xuyên", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1997" }
+, { "DiTich":"Đình Thạch Lỗi", "ViTri":"Sóc Sơn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2006" }
+, { "DiTich":"Đền Sọ", "ViTri":"Sóc Sơn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1997" }
+, { "DiTich":"Đền Sóc", "ViTri":"Sóc Sơn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1962" }
+, { "DiTich":"Đình - chùa Lễ Pháp", "ViTri":"Đông Anh", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1996" }
+, { "DiTich":"Di tích Cổ Loa", "ViTri":"Đông Anh", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"2012" }
+, { "DiTich":"Đình Hạ Thái", "ViTri":"Duyên Thái, Thường Tín", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2017" }
+, { "DiTich":"Đền Nội Bình Đà", "ViTri":"Bình Minh, Thanh Oai", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1991" }
+, { "DiTich":"Đình Ngoại Bình Đà", "ViTri":"Bình Minh, Thanh Oai", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1992" }
+, { "DiTich":"Đình Đại Phùng", "ViTri":"Đan Phượng, h.Đan Phượng", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2020" }
+, { "DiTich":"Quần thể Hương Sơn (Chùa Hương)", "ViTri":"Hương Sơn, Mỹ Đức", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"2017" }
+, { "DiTich":"Chùa Thầy", "ViTri":"Sài Sơn, Quốc Oai", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"2014" }
+, { "DiTich":"Chùa Tây Phương", "ViTri":"Thạch Xá, Thạch Thất", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"2014" }
+, { "DiTich":"Đình Chèm", "ViTri":"Thụy Phương, Bắc Từ Liêm", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"2017" }
 , { "DiTich":"Hang Con Moong, trong Vườn quốc gia Cúc Phương", "ViTri":"Thạch Thành", "LoaiDiTich":"Lịch sử khảo cổ đặc biệt", "NamCongNhan":"2007" }
+, { "DiTich":"Đền thờ Lê Hoàn", "ViTri":"Thọ Xuân", "LoaiDiTich":"Kiến trúc nghệ thuật đăc biệt", "NamCongNhan":"2018" }
+, { "DiTich":"Di chỉ Đông Sơn và Thiệu Dương", "ViTri":"Thành phố Thanh Hóa", "LoaiDiTich":"Lịch sử khảo cổ", "NamCongNhan":"1962" }
+, { "DiTich":"Đền thờ Dương Đình Nghệ", "ViTri":"Thành phố Thanh Hóa", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"xx" }
+, { "DiTich":"Chiến khu Ngọc Trạo", "ViTri":"Thạch Thành", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1996" }
+, { "DiTich":"Thành nhà Hồ", "ViTri":"Vĩnh Lộc", "LoaiDiTich":"Lịch sử khảo cổ kiến trúc đặc biệt", "NamCongNhan":"2/6/2011" }
+, { "DiTich":"Đền thờ Trần Khát Chân", "ViTri":"Vĩnh Lộc", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2001" }
+, { "DiTich":"Từ đường Phúc Quang", "ViTri":"Yên Định", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1995" }
+, { "DiTich":"Địa điểm đón Bác về thăm hợp tác xã Yên Trường", "ViTri":"Yên Định", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1993" }
+, { "DiTich":"Đền thờ Lê Đình Kiên", "ViTri":"Yên Định", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1994" }
+, { "DiTich":"Đền thờ Khương Công Phụ", "ViTri":"Yên Định", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2001" }
+, { "DiTich":"Đình Làng Sét", "ViTri":"Yên Định", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1995" }
+, { "DiTich":"Đền Đồng Cổ", "ViTri":"Yên Định", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2001" }
+, { "DiTich":"Chùa Sùng Nghiêm Diên Thánh", "ViTri":"Hậu Lộc", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1990" }
+, { "DiTich":"Khu di tích Đền Bà Triệu", "ViTri":"Triệu Lộc, Hậu Lộc", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"1979" }
+, { "DiTich":"Đình làng Phú Đền", "ViTri":"Triệu Lộc, Hậu Lộc", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"1996" }
+, { "DiTich":"Đền thờ Lý Thường Kiệt", "ViTri":"Hà Ngọc, Hà Trung", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2004" }
+, { "DiTich":"Nhà thờ Nguyễn Hữu", "ViTri":"Hà Trung", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2002" }
+, { "DiTich":"Ly Cung (nhà Hồ)", "ViTri":"Hà Trung", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1997" }
+, { "DiTich":"Lăng miếu Triệu Tường", "ViTri":"Hà Trung", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2007" }
+, { "DiTich":"Đình Gia Miêu", "ViTri":"Hà Trung", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2000" }
+, { "DiTich":"Đình Động Bồng", "ViTri":"Hà Trung", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2001" }
+, { "DiTich":"Đình làng Đình Trung", "ViTri":"Hà Trung", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2004" }
+, { "DiTich":"Đền thờ Trần Hưng Đạo (Thanh Hóa)", "ViTri":"Hà Trung", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1996" }
+, { "DiTich":"Đền thờ Nguyễn Chích", "ViTri":"Đông Sơn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1992" }
+, { "DiTich":"Đền thờ Nguyễn Văn Nghi", "ViTri":"Đông Sơn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1990" }
+, { "DiTich":"Đền thờ Nguyễn Nhữ Soạn", "ViTri":"Đông Sơn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1990" }
+, { "DiTich":"Địa điểm lịch sử và thắng cảnh Rừng Thông", "ViTri":"Đông Sơn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1989" }
+, { "DiTich":"Khu di tích Lam Kinh", "ViTri":"Thọ Xuân", "LoaiDiTich":"Lịch sử văn hóa kiến trúc đặc biệt", "NamCongNhan":"1962" }
+, { "DiTich":"Đình Làng Gạo", "ViTri":"Bỉm Sơn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1993" }
+, { "DiTich":"Đồi Ông", "ViTri":"Bỉm Sơn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1993" }
+, { "DiTich":"Đền Cây Vải", "ViTri":"Bỉm Sơn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1993" }
+, { "DiTich":"Đền Sòng Sơn - Đền Cô Chín", "ViTri":"Bỉm Sơn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1993" }
+, { "DiTich":"Chùa Mật Đa", "ViTri":"Thanh Hóa", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1989" }
+, { "DiTich":"Khu di tích Hàm Rồng", "ViTri":"Thanh Hóa", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1975" }
+, { "DiTich":"Đền thờ Võ Uy", "ViTri":"Tân Phúc, Nông Cống", "LoaiDiTich":"lịch sử văn hóa", "NamCongNhan":"1994" }
+, { "DiTich":"Đền thờ Lê Hiểm - Lê Hiêu", "ViTri":"Tân Phúc, Nông Cống", "LoaiDiTich":"lịch sử văn hóa", "NamCongNhan":"1996" }
 , { "DiTich":"Đài tưởng niêm 72 liệt sĩ Xô Viết – Nghệ Tĩnh", "ViTri":"Yên Thành", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1990" }
+, { "DiTich":"Đền Phan Cảnh Quang", "ViTri":"Yên Thành", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2012" }
+, { "DiTich":"Mộ và Nhà thờ Phan Vân", "ViTri":"Yên Thành", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2019" }
+, { "DiTich":"Bia mộ Nguyễn Trường Tộ", "ViTri":"Hưng Nguyên", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1992" }
+, { "DiTich":"Đền thờ Hoàng Nghĩa Lương", "ViTri":"Hưng Nguyên", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2009" }
+, { "DiTich":"Khu lưu niệm cố tổng Bí thư Lê Hồng Phong", "ViTri":"Hưng Nguyên", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1990" }
+, { "DiTich":"Núi Lam Thành", "ViTri":"Hưng Nguyên", "LoaiDiTich":"Lịch sử", "NamCongNhan":"xx" }
+, { "DiTich":"Đền thờ trạng nguyên Bạch Liêu", "ViTri":"Hưng Nguyên", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1993" }
+, { "DiTich":"Đền Vua Lê", "ViTri":"Hưng Nguyên", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1998" }
+, { "DiTich":"Nhà thờ Đặng Nguyên Cẩn, Đặng Thúc Hứa", "ViTri":"Thanh Xuân, Thanh Chương", "LoaiDiTich":"Lịch sử", "NamCongNhan":"7/1/2020" }
+, { "DiTich":"Đền Bạch Mã", "ViTri":"Thanh Chương", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1994" }
+, { "DiTich":"Đền Hữu", "ViTri":"Thanh Chương", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2009" }
+, { "DiTich":"Đình Bích Thị", "ViTri":"Thanh Chương", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2015" }
+, { "DiTich":"Núi Thiên Nhẫn và Thành Lục Niên", "ViTri":"Thanh Chương", "LoaiDiTich":"Lịch sử danh thắng", "NamCongNhan":"1964" }
+, { "DiTich":"Đình Hoành Sơn", "ViTri":"Nam Đàn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1980" }
+, { "DiTich":"Đền Nậm Sơn", "ViTri":"Nam Đàn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1997" }
+, { "DiTich":"Mộ Lê Hồng Sơn và đền Tán Sơn", "ViTri":"Nam Đàn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1980" }
+, { "DiTich":"Chùa Đức Sơn", "ViTri":"Nam Đàn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2001" }
+, { "DiTich":"Đền Nhạn Tháp", "ViTri":"Nam Đàn", "LoaiDiTich":"Lịch sử kiến trúc", "NamCongNhan":"1993" }
+, { "DiTich":"Mộ và đền thờ Lê Đức Tuy", "ViTri":"Hùng Tiến, Nam Đàn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2018" }
+, { "DiTich":"Nhà thờ Nguyễn Kế Hưng", "ViTri":"Nghi Hợp, Nghi Lộc", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2018" }
+, { "DiTich":"Đền Đức Sơn", "ViTri":"Vân Diên, Nam Đàn", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"2018" }
+, { "DiTich":"Lăng mộ Tống Tất Thắng", "ViTri":"Nam Đàn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1996" }
+, { "DiTich":"Đình Trung Cần", "ViTri":"Nam Đàn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1996" }
+, { "DiTich":"Đền thờ Mai Hắc Đế", "ViTri":"Nam Đàn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1996" }
+, { "DiTich":"Khu mộ bà Hoàng Thị Loan", "ViTri":"Nam Đàn", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"" }
+, { "DiTich":"Cây đa, sân vận động, đền Làng Sen", "ViTri":"Nam Đàn", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"1990" }
+, { "DiTich":"Khu di tích Hoàng Trù (làng Chùa) quê ngoại của Chủ tịch Hồ Chí Minh", "ViTri":"Nam Đàn", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"1990" }
+, { "DiTich":"Nhà thờ họ Nguyễn Sinh", "ViTri":"Nam Đàn", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"1991" }
+, { "DiTich":"Nhà cụ Phó bảng Nguyễn Sinh Sắc - Nơi Chủ tịch Hồ Chí Minh sống thời niên thiếu ở Làng Sen", "ViTri":"Nam Đàn", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"1990" }
+, { "DiTich":"Nhà cụ Nguyễn Sinh Nhậm", "ViTri":"Nam Đàn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1990" }
+, { "DiTich":"Nhà cử nhân Vương Thúc Quý-Thầy học của Chủ tịch Hồ Chí Minh thời niên thiếu", "ViTri":"Nam Đàn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1990" }
+, { "DiTich":"Núi Chung", "ViTri":"Nam Đàn", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"1991" }
+, { "DiTich":"Khu lưu niệm Phan Bội Châu", "ViTri":"Nam Đàn", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"2016" }
+, { "DiTich":"Đền thờ Nguyễn Cảnh Hoan", "ViTri":"Đô Lương", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1991" }
+, { "DiTich":"Đền thờ Thái Bá Du", "ViTri":"Yên Sơn, Đô Lương", "LoaiDiTich":"Lịch sử - Văn hóa", "NamCongNhan":"1996" }
+, { "DiTich":"Đền thờ Nguyễn Xí", "ViTri":"Nghi Lộc", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1990" }
+, { "DiTich":"Nhà thờ và mộ Nguyễn Thức Tự", "ViTri":"Nghi Trường, Nghi Lộc", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1992" }
+, { "DiTich":"Đình, đền, chùa Trung Kiên", "ViTri":"Nghi Lộc", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"xx" }
+, { "DiTich":"Khu lưu niệm đồng chí Phùng Chí Kiên", "ViTri":"Diễn Châu", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2011" }
+, { "DiTich":"Chùa Cổ Am", "ViTri":"Diễn Châu", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1994" }
+, { "DiTich":"Đền thờ Cao Lỗ", "ViTri":"Diễn Châu", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1995" }
+, { "DiTich":"Lèn Hai Vai", "ViTri":"Diễn Châu", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1994" }
+, { "DiTich":"Đền thờ và mộ Ngô Trí Hòa", "ViTri":"Diễn kỳ, Diễn Châu", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1992" }
+, { "DiTich":"Đền thờ và mộ Ngô Sỹ Vinh", "ViTri":"Diễn kỳ, Diễn Châu", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1992" }
+, { "DiTich":"Thắng cảnh Hang Bua", "ViTri":"Quỳ Châu", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1997" }
+, { "DiTich":"Nhà ông Vi Văn Khang", "ViTri":"Con Cuông", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1994" }
+, { "DiTich":"Bia Ma Nhai", "ViTri":"Con Cuông", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2012" }
+, { "DiTich":"Chùa Cần Linh", "ViTri":"Vinh", "LoaiDiTich":"Lịch sử kiến trúc", "NamCongNhan":"1992" }
+, { "DiTich":"Di tích Cồn Mô", "ViTri":"Vinh", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1997" }
+, { "DiTich":"Đền Hồng Sơn", "ViTri":"Vinh", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1984" }
+, { "DiTich":"Đền thờ Trần Quý Khoáng", "ViTri":"Vinh", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1999" }
+, { "DiTich":"Đền Trìa", "ViTri":"Vinh", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1995" }
+, { "DiTich":"Núi Quyết và Phượng Hoàng Trung Đô", "ViTri":"Vinh", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1998" }
+, { "DiTich":"Núi Thiên Nhẫn và Thành Lục Niên", "ViTri":"Hương Sơn, Hà Tĩnh & Nam Đàn, Nghệ An", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1962" }
+, { "DiTich":"Rú Thành (Núi Lam Thành)", "ViTri":"Hưng Nguyên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1962" }
+, { "DiTich":"Thành cổ Vinh", "ViTri":"Vinh", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1998" }
+, { "DiTich":"Bảo tàng Xô Viết Nghệ Tĩnh", "ViTri":"Vinh", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1997" }
+, { "DiTich":"Đền Vạn Lộc", "ViTri":"Cửa Lò", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1991" }
+, { "DiTich":"Nhà thờ Hoàng Văn", "ViTri":"Cửa Lò", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1994" }
+, { "DiTich":"Nhà thờ, khu lăng mộ Hồ Tùng Mậu", "ViTri":"Quỳnh Lưu", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2000" }
+, { "DiTich":"Mộ và đền thờ Hồ Sỹ Dương", "ViTri":"Quỳnh Lưu", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2007" }
+, { "DiTich":"Nhà thờ họ Hoàng Khánh, Quỳnh Đôi", "ViTri":"Quỳnh Lưu", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2000" }
+, { "DiTich":"Nhà thờ họ Hồ, Quỳnh Đôi", "ViTri":"Quỳnh Lưu", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1992" }
+, { "DiTich":"Nhà thờ họ Nguyễn Triệu Cơ", "ViTri":"Quỳnh Lưu", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1998" }
+, { "DiTich":"Đình Làng, Quỳnh Đôi", "ViTri":"Quỳnh Lưu", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1991" }
+, { "DiTich":"Đền Thần, Quỳnh Đôi", "ViTri":"Quỳnh Lưu", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2013" }
+, { "DiTich":"Đền Thượng, Quỳnh Nghĩa", "ViTri":"Quỳnh Lưu", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1996" }
+, { "DiTich":"Đền thờ và mộ Hồ Hữu Nhân", "ViTri":"Quỳnh Lưu", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1999" }
+, { "DiTich":"Đền Đồng Xuân, Quỳnh Bảng", "ViTri":"Quỳnh Lưu", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2009" }
+, { "DiTich":"Đền và mộ Quận công Nguyễn Bá Lai", "ViTri":"Quỳnh Lưu", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1997" }
+, { "DiTich":"Đình Tám Mái", "ViTri":"Quỳnh Lưu", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1992" }
+, { "DiTich":"Đền thờ Hồ Hưng Dật", "ViTri":"Quỳnh Lưu", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2014" }
+, { "DiTich":"Mộ và nhà thờ Hồ Phi Tích", "ViTri":"Quỳnh Lưu", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2015" }
+, { "DiTich":"Đền Cờn", "ViTri":"Hoàng Mai", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1993" }
+, { "DiTich":"Đền Xuân Úc", "ViTri":"Hoàng Mai", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1996" }
+, { "DiTich":"Hang Hỏa Tiễn và Nghĩa trang Liệt sĩ Đường Sắt", "ViTri":"Hoàng Mai", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2011" }
+, { "DiTich":"Đền Hào Kiệt", "ViTri":"Vĩnh Thành, Yên Thành", "LoaiDiTich":"Di tích lịch sử", "NamCongNhan":"2023" }
 , { "DiTich":"Khu lưu niệm Bác Hồ về thăm Hà Tĩnh", "ViTri":"Hà Tĩnh", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1994" }
+, { "DiTich":"Đền thờ Đô Đài Bùi Cầm Hổ", "ViTri":"Hồng Lĩnh", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1992" }
+, { "DiTich":"Chỉ huy Sở Tiền phương Bộ tư lệnh 559", "ViTri":"Hương Khê", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2005" }
+, { "DiTich":"Rộc Cồn (Lưu niệm phong trào Xô Viết Nghệ Tĩnh 1930-1931)", "ViTri":"Hương Khê", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1994" }
+, { "DiTich":"Mộ và Đền thờ Nguyễn Lỗi", "ViTri":"Hương Sơn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2001" }
+, { "DiTich":"Đền thờ và mộ Nguyễn Tuấn Thiện", "ViTri":"Hương Sơn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1994" }
+, { "DiTich":"Nhà thờ Cao Thắng", "ViTri":"Hương Sơn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1998" }
+, { "DiTich":"Nhà thờ và phần mộ Danh nhân Đào Hữu Ích", "ViTri":"Hương Sơn", "LoaiDiTich":"Lịch sử - Văn hóa", "NamCongNhan":"2015" }
+, { "DiTich":"Quần thể di tích Hải Thượng Lãn Ông Lê Hữu Trác", "ViTri":"Hương Sơn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1990" }
+, { "DiTich":"Mộ và nhà thờ Lê Hầu Tạo", "ViTri":"Hương Sơn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1995" }
+, { "DiTich":"Chùa Am", "ViTri":"Đức Thọ", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1995" }
+, { "DiTich":"Đền Liên Minh", "ViTri":"Đức Thọ", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2008" }
+, { "DiTich":"Đền Cả Tổng Du Đồng", "ViTri":"Đức Thọ", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2002" }
+, { "DiTich":"Đền thờ Ngô Thị Ngọc Dao", "ViTri":"Đức Thọ", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1998" }
+, { "DiTich":"Đền thờ Nguyễn Biểu", "ViTri":"Đức Thọ", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1991" }
+, { "DiTich":"Đền Thái Yên", "ViTri":"Đức Thọ", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1994" }
+, { "DiTich":"Nhà thờ Phan Đình Phùng", "ViTri":"Đức Thọ", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2006" }
+, { "DiTich":"Đền Đinh Lễ", "ViTri":"Đức Thọ", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2006" }
+, { "DiTich":"Nhà thờ Bùi Dương Lịch", "ViTri":"Đức Thọ", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1998" }
+, { "DiTich":"Đền thờ và mộ Ngô Phúc Vạn", "ViTri":"Đại Lộc, Can Lộc", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1992" }
+, { "DiTich":"Nhà thờ Phan Kính", "ViTri":"Song Lộc, Can Lộc", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1992" }
+, { "DiTich":"Đền Cả Can Lộc", "ViTri":"Ích Hậu, Can Lộc", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1992" }
+, { "DiTich":"Đền thờ Nguyễn Biên", "ViTri":"Cẩm Xuyên", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2003" }
+, { "DiTich":"Nhà lưu niệm đồng chí Hà Huy Tập", "ViTri":"Cẩm Xuyên", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2004" }
+, { "DiTich":"Đền thờ Phương Giai", "ViTri":"Kỳ Anh", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1994" }
+, { "DiTich":"Đền thờ Lê Quảng Chí – Lê Quảng Ý", "ViTri":"Kỳ Anh", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1996" }
+, { "DiTich":"Lũy đá cổ Kỳ Anh", "ViTri":"Kỳ Anh", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2015" }
+, { "DiTich":"Căn cứ Vũ Quang của khởi nghĩa Hương Khê", "ViTri":"Vũ Quang", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1995" }
+, { "DiTich":"Di chỉ Thạch Lạc", "ViTri":"Thạch Hà", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2008" }
+, { "DiTich":"Đền thờ và lăng mộ Lê Khôi", "ViTri":"Thạch Hà", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1990" }
+, { "DiTich":"Nhà cụ Mai Kính", "ViTri":"Thạch Hà", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1990" }
+, { "DiTich":"Nhà thờ họ Phan Huy", "ViTri":"Lộc Hà", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1995" }
+, { "DiTich":"Đình làng Đỉnh Lữ", "ViTri":"Lộc Hà", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1998" }
+, { "DiTich":"Chùa Chân Tiên", "ViTri":"Lộc Hà", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1992" }
+, { "DiTich":"Nhà thờ và mộ Nguyễn Công Trứ", "ViTri":"Nghi Xuân", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1991" }
+, { "DiTich":"Đền thờ Nguyễn Xí", "ViTri":"Nghi Xuân", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2006" }
+, { "DiTich":"Di tích khảo cổ Phôi Phối – Bãi Cọi", "ViTri":"Nghi Xuân", "LoaiDiTich":"Khảo cổ", "NamCongNhan":"2014" }
+, { "DiTich":"Khu lưu niệm Đại thi hào Nguyễn Du", "ViTri":"Nghi Xuân", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"2012" }
 , { "DiTich":"Chùa Hoằng Phúc", "ViTri":"Mỹ Thủy, Lệ Thủy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2015" }
+, { "DiTich":"Bến đò Mẹ Suốt", "ViTri":"Bảo Ninh, Đồng Hới", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1992" }
+, { "DiTich":"Khu giao tế Quảng Bình", "ViTri":"Bảo Ninh, Đồng Hới", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1998" }
+, { "DiTich":"Trận địa pháo của lão dân quân Đức Ninh", "ViTri":"Đức Ninh, Đồng Hới", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1995" }
+, { "DiTich":"Cửa biển Nhật Lệ", "ViTri":"Đồng Hới", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1992" }
+, { "DiTich":"Thành Đồng Hới", "ViTri":"Đồng Hới", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1992" }
+, { "DiTich":"Chiến khu Trung Thuần", "ViTri":"Quảng Lưu, Quảng Trạch", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1995" }
+, { "DiTich":"Mộ và nhà thờ Đề đốc Lê Trực", "ViTri":"Tiến Hóa, Minh Hóa", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1993" }
+, { "DiTich":"KDT Đường Trường Sơn - Đường Hồ Chí Minh", "ViTri":"Các tỉnh", "LoaiDiTich":"Lịch sử cách mạng đặc biệt", "NamCongNhan":"2013" }
+, { "DiTich":"Đèo Đá Đẽo", "ViTri":"Minh Hóa và Bố Trạch", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2015" }
+, { "DiTich":"Nhà thờ Nguyễn Văn Nại, Nguyễn Văn Duyệt, Nguyễn Duy Cần", "ViTri":"Hải Phú, Bố Trạch", "LoaiDiTich":"Lịch sử", "NamCongNhan":"7/1/2020" }
+, { "DiTich":"Vườn quốc gia Phong Nha - Kẻ Bàng", "ViTri":"Bố Trạch", "LoaiDiTich":"Lịch sử danh thắng đặc biệt", "NamCongNhan":"2009" }
+, { "DiTich":"Quảng Bình Quan", "ViTri":"Hải Đình, Đồng Hới", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Khảo cổ Bàu Tró", "ViTri":"Đồng Hới", "LoaiDiTich":"Lịch sử khảo cổ", "NamCongNhan":"" }
+, { "DiTich":"Địa điểm lưu niệm Bác Hồ về thăm Quảng Bình (6/1957)", "ViTri":"Đức Ninh, Đồng Hới", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Lũy Đào Duy Từ", "ViTri":"Quảng Hòa, Ba Đồn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình Hòa Ninh", "ViTri":"Quảng Lộc, Ba Đồn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình Phù Trịch", "ViTri":"Quảng Phong, Ba Đồn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình Lũ Phong", "ViTri":"Quảng Minh, Ba Đồn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Điện Thành Hoàng Vĩnh Lộc", "ViTri":"Quảng Sơn, Ba Đồn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Di tích Mai Lượng", "ViTri":"Quảng Thuận & Quảng Phúc, Ba Đồn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Bến phà Gianh 2", "ViTri":"Quảng Long, Ba Đồn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Bến phà Gianh 1", "ViTri":"Hoàn Lão, Bố Trạch", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình Tượng Sơn", "ViTri":"Nhân Trạch, Bố Trạch", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Lăng mộ Hồ Hồng (Hồ Cưỡng)", "ViTri":"Cự Nẫm, Bố Trạch", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Làng chiến đấu Cự Nẫm", "ViTri":"Hải Trạch & Thanh Trạch, Bố Trạch", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Khu danh thắng Lý Hòa", "ViTri":"Hải Trạch, Bố Trạch", "LoaiDiTich":"Danh thắng", "NamCongNhan":"" }
+, { "DiTich":"Đình Lý Hòa", "ViTri":"Hạ Trạch & Thanh Trạch, Bố Trạch", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Ga Kẻ Rấy", "ViTri":"Tân Trạch, Bố Trạch", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Các trọng điểm trên đường 20 Quyết Thắng: Km 10.5; Km 14 trọng điểm Trà Ang; Km 16.5 hang 8 TNXP", "ViTri":"Tân Trạch, Bố Trạch", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Hang Tám Cô", "ViTri":"Cảnh Dương, Quảng Trạch", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Khu vực: – Bến phà Xuân Sơn – Động Phong Nha", "ViTri":"Phong Nha, Bố Trạch", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Làng chiến đấu Cảnh Dương", "ViTri":"Quảng Phương, Quảng Trạch", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình Đông Dương", "ViTri":"Quảng Lưu & Quảng Thạch, Quảng Trạch", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Hang Lèn Hà", "ViTri":"Hoá Thanh & Hoá Tiến, Minh Hóa", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Hang động: – Xã Hoá Thanh (hang Thanh Lạng tổng kho X47) – Xã Hoá Tiến (hang Xăng dầu, hang Chỉ huy, hang Hậu cần của Bộ chỉ huy 559)", "ViTri":"Minh Hóa", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Các trọng điểm trên đường 12A: – Bãi Dinh – Đồi 37,Cha Lo, Cổng Trời… -La Trọng – Ngầm Khe Ve – Ngầm Rinh", "ViTri":"Võ Ninh, Quảng Ninh", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Nhà nhóm thôn Trung", "ViTri":"Vĩnh Ninh, Quảng Ninh", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Luỹ Đào Duy Từ (Luỹ Đầu Mâu)", "ViTri":"Xuân Ninh & Hiền Ninh, Quảng Ninh", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Bến phà Long Đại", "ViTri":"Võ Ninh & Quán Hàu, Quảng Ninh", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Bến phà Quán Hàu", "ViTri":"Võ Ninh, Quảng Ninh", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Lăng mộ Hữu Quân Đô thống Chưởng phủ sự Lê Sỹ", "ViTri":"Hiền Ninh, Quảng Ninh", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Khu vực Sở chỉ huy cơ bản của Bộ Tư lệnh 559: – Hội trường Bộ Tư lệnh – Nhà thờ họ Nguyễn – Nhà thờ họ Trương – Phòng khách Bộ Tư lệnh 559", "ViTri":"Lộc Thủy, Lệ Thủy", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Chùa An Xá", "ViTri":"Xuân Thủy, Lệ Thủy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Chiến thắng Xuân Bồ", "ViTri":"Tân Thủy, Lệ Thủy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Miếu Thành Hoàng Mỹ Thổ – Trung Lực", "ViTri":"Trường Thủy, Lệ Thủy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Lăng mộ Nguyễn Hữu Cảnh", "ViTri":"Trường Thủy & Phong Thủy, Lệ Thủy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Lăng mộ và miếu thờ Hoàng Hối Khanh", "ViTri":"Mỹ Thủy, Lệ Thủy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Vụ thảm sát Mỹ Trạch", "ViTri":"Ngân Thủy, Lệ Thủy", "LoaiDiTich":"Chứng tích tội ác chiến tranh", "NamCongNhan":"" }
+, { "DiTich":"Trạm thông tin A72", "ViTri":"Ngư Thủy Trung, Lệ Thủy", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Trận địa Đại đội nữ Pháo binh Ngư Thủy", "ViTri":"Ngư Thủy Trung, Lệ Thủy", "LoaiDiTich":"", "NamCongNhan":"" }
+, { "DiTich":"Mộ và Nhà thờ Hoàng Kế Viêm", "ViTri":"Lương Ninh, Quảng Ninh", "LoaiDiTich":"Di tích lịch sử", "NamCongNhan":"2023" }
 , { "DiTich":"Bến đò Tùng Luật", "ViTri":"Vĩnh Giang, Vĩnh Linh", "LoaiDiTich":"Lịch sử cách mạng", "NamCongNhan":"1996" }
+, { "DiTich":"Khu vực đôi bờ Hiền Lương (bao gồm Cầu Hiền Lương, nhà liên hiệp và đồn công an giới tuyến)", "ViTri":"Vĩnh Thành, Vĩnh Linh", "LoaiDiTich":"Lịch sử cách mạng đặc biệt", "NamCongNhan":"1986" }
+, { "DiTich":"Địa đạo Vĩnh Mốc và Hệ thống làng hầm Vĩnh Linh", "ViTri":"Vĩnh Thạch, Vĩnh Linh", "LoaiDiTich":"Lịch sử cách mạng đặc biệt", "NamCongNhan":"1975" }
+, { "DiTich":"Trận địa tên lửa T5, Nơi bắn rơi máy B52 đầu tiên ở Việt Nam", "ViTri":"Bến Quan, Vĩnh Linh", "LoaiDiTich":"Lịch sử cách mạng", "NamCongNhan":"2010" }
+, { "DiTich":"Trụ sở Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam", "ViTri":"Cam Lộ, Cam Lộ", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1991" }
+, { "DiTich":"Căn cứ Tân Sở", "ViTri":"Cam Chính, Cam Lộ", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1995" }
+, { "DiTich":"Đình làng Câu Nhi", "ViTri":"Hải Tân, Hải Lăng", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2001" }
+, { "DiTich":"Địa điểm Thảm sát Mỹ Thủy", "ViTri":"Hải An, Hải Lăng", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2001" }
+, { "DiTich":"Chùa Sắc Tứ", "ViTri":"Ái Tử, Triệu Phong", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2009" }
+, { "DiTich":"Khu lưu niệm Tổng Bí thư Lê Duẩn", "ViTri":"Triệu Thành, Triệu Phong", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2010" }
+, { "DiTich":"Cứ điểm Làng Vây", "ViTri":"Tân Long, Hướng Hóa", "LoaiDiTich":"Lịch sử cách mạng", "NamCongNhan":"2011" }
+, { "DiTich":"Nhà tù Lao Bảo", "ViTri":"Lao Bảo, Hướng Hóa", "LoaiDiTich":"Lịch sử cách mạng", "NamCongNhan":"1991" }
+, { "DiTich":"Sân bay Tà Cơn", "ViTri":"Tân Hợp, Hướng Hóa", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1986" }
+, { "DiTich":"Đình Hà Thượng", "ViTri":"thị trấn Gio Linh", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1991" }
+, { "DiTich":"Địa điểm thảm sát làng Tân Minh (xóm Giữa)", "ViTri":"Gio Thành, Gio Linh", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1995" }
+, { "DiTich":"Hệ thống công trình khai thác nước cổ Gio An (14 Giếng cổ)", "ViTri":"Gio An, Gio Linh", "LoaiDiTich":"Khảo cổ văn hóa", "NamCongNhan":"2001" }
+, { "DiTich":"Căn cứ Dốc Miếu - Cồn Tiên", "ViTri":"Gio Phong và Gio An", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1986" }
+, { "DiTich":"Các điểm vượt đường 9 của đường dây 559 (bao gồm các cầu Khe Xom, Xom Rò, Du Tiên)", "ViTri":"Đakrông, Đakrông", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"2013" }
+, { "DiTich":"Cầu treo Bến Tắt", "ViTri":"Vĩnh Trường, Gio Linh", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"2013" }
+, { "DiTich":"Chùa Bảo Đông và bia, môn Trần Đình Ân", "ViTri":"Gio Châu, Gio Linh", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1991" }
+, { "DiTich":"Khu di tích Trận chiến đấu 81 ngày đêm tại Quảng Trị", "ViTri":"Bến Quan, Vĩnh Linh", "LoaiDiTich":"Lịch sử cách mạng đặc biệt", "NamCongNhan":"1986" }
+, { "DiTich":"Thành cổ Quảng Trị", "ViTri":"Quảng Trị", "LoaiDiTich":"Lịch sử kiến trúc đặc biệt", "NamCongNhan":"1986" }
+, { "DiTich":"Ngã ba Cầu Ga", "ViTri":"Triệu Thượng, Triệu Phong", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"1986" }
+, { "DiTich":"Ngã ba Long Hưng", "ViTri":"Hải Phú, Hải Lăng", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"1986" }
+, { "DiTich":"Nhà thờ Long Hưng", "ViTri":"Hải Phú, Hải Lăng", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"1986" }
+, { "DiTich":"Chốt thép Long Quang", "ViTri":"Triệu Trạch, Triệu Phong", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"1986" }
+, { "DiTich":"Nhà thờ Tri Bưu", "ViTri":"Phường 1, Quảng Trị", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"1986" }
+, { "DiTich":"Bến sông Thạch Hãn", "ViTri":"Phường 2, Quảng Trị", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"1986" }
+, { "DiTich":"Trường Bồ Đề", "ViTri":"Phường 2, Quảng Trị", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"1986" }
+, { "DiTich":"Chiến khu Ba Lòng", "ViTri":"Hải Phúc, Ba Lòng và Triệu Nguyên, Đakrông", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1999" }
+, { "DiTich":"Cảng quân sự Đông Hà", "ViTri":"Phường 2, Đông Hà", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1986" }
+, { "DiTich":"Đình làng Nghĩa An và hệ thống giếng Chăm", "ViTri":"Đông Thanh, Đông Hà", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1996" }
 , { "DiTich":"Chùa Giác Lương", "ViTri":"Phong Hiền, Phong Điền", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1992" }
+, { "DiTich":"Mộ Trần Văn Kỷ", "ViTri":"Phong Bình, Phong Điền", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1995" }
+, { "DiTich":"Mộ Nguyễn Lộ Trạch", "ViTri":"Điền Môn, Phong Điền", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2001" }
+, { "DiTich":"Nhà thờ và mộ Nguyễn Tri Phương", "ViTri":"Phong Chương, Phong Điền", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1990" }
+, { "DiTich":"Đình Bàn Môn", "ViTri":"Lộc An, Phú Lộc", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1990" }
+, { "DiTich":"Mộ Nguyễn Cư Trinh", "ViTri":"Lộc Bổn, Phú Lộc", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1999" }
+, { "DiTich":"Đình Quy Lai", "ViTri":"Phú Thanh, Huế", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2005" }
+, { "DiTich":"Địa điểm lưu niệm Chủ tịch Hồ Chí Minh ở Dương Nổ", "ViTri":"Phú Dương, Phú Vang", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1990" }
+, { "DiTich":"Đình Dạ Lê", "ViTri":"Thủy Vân, Hương Thủy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2001" }
+, { "DiTich":"Lăng Hiếu Đông (thuộc Quần thể lăng tẩm hoàng gia Nguyễn)", "ViTri":"Thủy Bằng, Hương Thủy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2006" }
+, { "DiTich":"Lăng mộ và Phủ thờ Diên Khánh Vương", "ViTri":"An Tây, Huế", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2020" }
+, { "DiTich":"Lăng Dục Đức", "ViTri":"An Cựu, Huế", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1979" }
+, { "DiTich":"Thanh Bình Từ Đường", "ViTri":"Gia Hội, Huế", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1992" }
+, { "DiTich":"Khu lưu niệm Phan Bội Châu", "ViTri":"Trường An, Huế", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1990" }
+, { "DiTich":"Nhà thờ Tổ nghề kim hoàn", "ViTri":"Huế", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1990" }
+, { "DiTich":"Lăng mộ và nhà thờ Ông Tổ nghề đúc đồng", "ViTri":"Phường Đúc, Huế", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1996" }
+, { "DiTich":"KDT Cố đô Huế", "ViTri":"Huế", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"2009" }
+, { "DiTich":"Văn Miếu Huế", "ViTri":"Hương Long, Huế", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Viện Cơ Mật-Tam Tòa", "ViTri":"Đông Ba, Huế", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"" }
+, { "DiTich":"Quốc Tử Giám (Huế)", "ViTri":"Thuận Thành, Huế", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"2004" }
+, { "DiTich":"Phu Văn Lâu", "ViTri":"Phú Hòa, Huế", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Ngọ Môn", "ViTri":"", "LoaiDiTich":"Lịch sử kiến trúc", "NamCongNhan":"" }
+, { "DiTich":"Tàng thư lâu", "ViTri":"", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"" }
+, { "DiTich":"Lăng Tự Đức", "ViTri":"", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Lăng Thiệu Trị", "ViTri":"Thủy Bằng, Hương Thủy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1979" }
+, { "DiTich":"Lăng Minh Mạng", "ViTri":"", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Lăng Gia Long", "ViTri":"", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Lăng Đồng Khánh", "ViTri":"", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Chùa Thiên Mụ", "ViTri":"", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Chùa Báo Quốc", "ViTri":"", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
 , { "DiTich":"Thành Điện Hải", "ViTri":"Thạch Thang, Hải Châu", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"1988" }
+, { "DiTich":"Nghĩa trũng Phước Ninh", "ViTri":"Nam Dương, Hải Châu", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1988" }
+, { "DiTich":"Bia chùa Long Thủ", "ViTri":"Bình Hiên, Hải Châu", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1992" }
+, { "DiTich":"Đình Hải Châu", "ViTri":"Hải Châu I, Hải Châu", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2001" }
+, { "DiTich":"Đình Nại Nam", "ViTri":"Hòa Cường, Hải Châu", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1999" }
+, { "DiTich":"Ngũ Hành Sơn", "ViTri":"Ngũ Hành Sơn", "LoaiDiTich":"Danh thắng đăc biệt", "NamCongNhan":"2018" }
+, { "DiTich":"Khu căn cứ cách mạng K20", "ViTri":"Khuê Mỹ, Ngũ Hành Sơn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Chùa Tam Thai", "ViTri":"Hòa Hải, Ngũ Hành Sơn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Đình Tiền hiền làng An Hải và đền Thoại Ngọc Hầu", "ViTri":"An Hải Tây, Sơn Trà", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2007" }
+, { "DiTich":"Nghĩa trang I-Pha-Nho", "ViTri":"Thọ Quang, Sơn Trà", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1988" }
+, { "DiTich":"Đình Thạc Gián", "ViTri":"Chính Gián, Thanh Khê", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2007" }
+, { "DiTich":"Nghĩa trũng Hòa Vang", "ViTri":"Khuê Trung, Hòa Vang", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1999" }
+, { "DiTich":"Lăng mộ Ông Ích Khiêm", "ViTri":"Hòa Thọ, Hòa Vang", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2001" }
+, { "DiTich":"Đình Quá Giáng", "ViTri":"Hòa Phước, Hòa Vang", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2000" }
+, { "DiTich":"Đình Bồ Bản", "ViTri":"Hòa Phong, Hòa Vang", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1999" }
+, { "DiTich":"Đình Tuý Loan", "ViTri":"Hòa Phong, Hòa Vang", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1999" }
+, { "DiTich":"Mộ Đỗ Thúc Tịnh", "ViTri":"Hòa Khương, Hòa Vang", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2007" }
+, { "DiTich":"Hải Vân Quan", "ViTri":"Đà Nẵng & Thừa Thiên Huế", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2017" }
 , { "DiTich":"Địa điểm khởi phát phong trào chống sưu thuế năm 1908 ở miền Trung", "ViTri":"Đại Nghĩa, Đại Lộc", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2018" }
+, { "DiTich":"Đô thị cổ Hội An", "ViTri":"Thành phố Hội An", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"2009" }
+, { "DiTich":"Hội quán Phúc Kiến", "ViTri":"Hội An", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1990" }
+, { "DiTich":"Đình Xuân Mỹ", "ViTri":"Thanh Hà, Hội An", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1993" }
+, { "DiTich":"Chùa Quan Âm", "ViTri":"Minh An, Hội An", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1991" }
+, { "DiTich":"Chùa Ông Hội An (Quan Công miếu)", "ViTri":"Minh An, Hội An", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1991" }
+, { "DiTich":"Thánh địa Mỹ Sơn (Đền tháp Mỹ Sơn)", "ViTri":"Duy Phú, Duy Xuyên", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"2009" }
+, { "DiTich":"Địa đạo Kỳ Anh", "ViTri":"Tam Thăng, Tam Kỳ", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1997" }
+, { "DiTich":"Đình Chiên Đàn", "ViTri":"Tam Đàn, Tam Kỳ", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2005" }
+, { "DiTich":"Lăng mộ Thượng thư Trương Công Hy", "ViTri":"Điện Thắng, Điện Bàn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2013" }
+, { "DiTich":"Tháp Bằng An", "ViTri":"Điện An, Điện Bàn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2010" }
+, { "DiTich":"Tháp Đồng Dương (Phật viện Đồng Dương)", "ViTri":"Bình Định Bắc, Thăng Bình", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"2016" }
+, { "DiTich":"Nhà lưu niệm cụ Huỳnh Thúc Kháng", "ViTri":"Tiên Cảnh, Tiên Phước", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2015" }
+, { "DiTich":"Làng cổ Lộc Yên", "ViTri":"Tiên Cảnh, Tiên Phước", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2019" }
+, { "DiTich":"Địa điểm diễn ra cuộc đấu tranh Cây Cốc năm 1954", "ViTri":"Tiên Thọ, Tiên Phước", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2019" }
+, { "DiTich":"Lăng mộ Đoàn Quý phi", "ViTri":"Duy Trinh, Duy Xuyên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2011" }
+, { "DiTich":"Địa đạo Phú An - Phú Xuân", "ViTri":"Đại Thắng, Đại Lộc", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2002" }
+, { "DiTich":"Nước Là - Căn cứ Liên Khu ủy và Ban Quân sự Khu 5", "ViTri":"Trà Mai, Nam Trà My", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2019" }
+, { "DiTich":"Địa điểm Ban Kiểm tra Khu ủy Khu V", "ViTri":"Trà Tân, Bắc Trà My", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2013" }
+, { "DiTich":"Danh lam thắng cảnh Bàn Than – Hòn Mang – Hòn Dứa", "ViTri":"Tam Hải, Núi Thanh", "LoaiDiTich":"Danh lam thắng cảnh", "NamCongNhan":"2023" }
 , { "DiTich":"Di tích khảo cổ Văn hóa Sa Huỳnh", "ViTri":"Đức Phổ", "LoaiDiTich":"Lịch sử khảo cổ đặc biệt", "NamCongNhan":"2010" }
+, { "DiTich":"Trường lũy Quảng Ngãi", "ViTri":"Trà Bồng & An Lão", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2011" }
+, { "DiTich":"Đình An Định", "ViTri":"Hành Dũng, Nghĩa Hành", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"2017" }
+, { "DiTich":"Chùa Thiên Ấn", "ViTri":"Tịnh Ấn, Sơn Tịnh", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1990" }
+, { "DiTich":"Khởi nghĩa Ba Tơ", "ViTri":"Ba Tơ", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"1980" }
+, { "DiTich":"Chùa Hang (Quảng Ngãi)", "ViTri":"Lý Sơn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1994" }
+, { "DiTich":"Đình An Vĩnh", "ViTri":"Lý Sơn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1995" }
+, { "DiTich":"Đình An Hải", "ViTri":"An Hải, Lý Sơn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1995" }
+, { "DiTich":"Núi Giếng Tiền", "ViTri":"Vĩnh An, Lý Sơn", "LoaiDiTich":"Danh thắng", "NamCongNhan":"7/1/2020" }
+, { "DiTich":"Núi Thới Lới", "ViTri":"An Hải, Lý Sơn", "LoaiDiTich":"Danh thắng", "NamCongNhan":"7/1/2020" }
+, { "DiTich":"Huyện đường Đức Phổ", "ViTri":"thị trấn Đức Phổ", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2010" }
+, { "DiTich":"Chùa Ông (Thu Xà)", "ViTri":"Nghĩa Hòa, Tư Nghĩa", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1993" }
+, { "DiTich":"Đền thờ Trương Định", "ViTri":"Tịnh Khê, tp Quảng Ngãi", "LoaiDiTich":"Di tích lịch sử", "NamCongNhan":"2013" }
 , { "DiTich":"Đền thờ Tây Sơn Tam Kiệt", "ViTri":"TT.Phú Phong, Tây Sơn", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"2014" }
+, { "DiTich":"Bảo tàng Quang Trung và Điện thờ Tây Sơn", "ViTri":"TT.Phú Phong, Tây Sơn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2010" }
+, { "DiTich":"Tháp Chăm Dương Long (tháp Ngà)", "ViTri":"Tây Bình, Tây Sơn", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"2015" }
+, { "DiTich":"Từ đường Võ Văn Dũng", "ViTri":"Tây Phú, Tây Sơn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1988" }
+, { "DiTich":"Tháp Thủ Thiện (tháp Thau)", "ViTri":"Bình Nghi, Tây Sơn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1995" }
+, { "DiTich":"Từ đường Bùi Thị Xuân", "ViTri":"Tây Xuân, Tây Sơn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1988" }
+, { "DiTich":"Lăng Mai Xuân Thưởng", "ViTri":"Bình Tường, Tây Sơn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1995" }
+, { "DiTich":"Tháp Đôi Quy Nhơn (tháp Hưng Thạnh)", "ViTri":"Quy Nhơn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1980" }
+, { "DiTich":"Chùa Sơn Long (chùa Hang)", "ViTri":"Nhơn Bình, Quy Nhơn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2005" }
+, { "DiTich":"Đền thờ Tăng Bạt Hổ", "ViTri":"Ân Thạnh, Hoài Ân", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2013" }
+, { "DiTich":"Thành Hoàng Đế (thành Đồ Bàn)", "ViTri":"Nhơn Hậu, An Nhơn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1982" }
+, { "DiTich":"Tháp Cánh Tiên (tháp Đồng)", "ViTri":"Nhơn Hậu, An Nhơn", "LoaiDiTich":"Lịch sử kiến trúc", "NamCongNhan":"1982" }
+, { "DiTich":"Tháp Phú Lốc (tháp Vàng)", "ViTri":"An Nhơn", "LoaiDiTich":"Lịch sử kiến trúc", "NamCongNhan":"1995" }
+, { "DiTich":"Lò gốm Cổ Sành", "ViTri":"Nhơn Hòa, An Nhơn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2015" }
+, { "DiTich":"Chùa Thập Tháp Di Đà", "ViTri":"Nhơn Thành, An Nhơn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1995" }
+, { "DiTich":"Tháp Bánh Ít (tháp Bạc)", "ViTri":"Phước Hiệp, Tuy Phước", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1982" }
+, { "DiTich":"Tháp Bình Lâm", "ViTri":"Phước Hoà, Tuy Phước", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1993" }
+, { "DiTich":"Đền thờ Danh nhân văn hóa Đào Tấn", "ViTri":"Phước Nghĩa, Tuy Phước", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1990" }
+, { "DiTich":"Địa điểm lưu niệm cuộc biểu tình năm 1931 tại Cây số 7 Tài Lương", "ViTri":"Hoài Thanh Tây, Hoài Nhơn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2011" }
+, { "DiTich":"Căn cứ Núi Bà", "ViTri":"Phù Cát", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1994" }
+, { "DiTich":"Thành Cha", "ViTri":"Nhơn Lộc, An Nhơn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2003" }
+, { "DiTich":"Chùa Nhạn Sơn", "ViTri":"Nhơn Hậu, An Nhơn", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2001" }
 , { "DiTich":"Mộ và đền thờ Đào Trí", "ViTri":"Xuân Đài, Sông Cầu", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2015" }
+, { "DiTich":"Quần thể hòn Yến", "ViTri":"An Hòa, Tuy An", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2018" }
+, { "DiTich":"Địa điểm diễn ra cuộc tổng tiến công và nổi dậy Xuân Mậu Thân 1968", "ViTri":"Phú Yên", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2017" }
+, { "DiTich":"Tháp Nhạn", "ViTri":"Tuy Hòa", "LoaiDiTich":"Kiến trúc nghệ thuật đăc biệt", "NamCongNhan":"2018" }
+, { "DiTich":"Mộ và đền thờ Lương Văn Chánh", "ViTri":"Hòa Trị, Phú Hòa", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1996" }
+, { "DiTich":"Chùa Từ Quang (Chùa Đá Trắng)", "ViTri":"An Dân, Tuy An", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1997" }
+, { "DiTich":"Mộ và đền thờ Lê Thành Phương", "ViTri":"An Hiệp, Tuy An", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1996" }
+, { "DiTich":"Nơi thành lập Chi bộ Đảng Cộng sản Việt Nam đầu tiên tại Phú Yên", "ViTri":"La Hai, Đồng Xuân", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1996" }
+, { "DiTich":"Địa điểm Thảm sát Ngân Sơn - Chí Thạnh", "ViTri":"Chí Thạnh, Tuy An", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1997" }
+, { "DiTich":"Tàu không số trên vùng biển Vũng Rô", "ViTri":"Hoà Xuân Nam, Đông Hoà", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1997" }
+, { "DiTich":"Đường số 5 (nay là Quốc lộ 29)", "ViTri":"Tây Hòa & Đông Hòa", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1996" }
+, { "DiTich":"Đầm Ô Loan", "ViTri":"Tuy An", "LoaiDiTich":"Danh thắng", "NamCongNhan":"1996" }
+, { "DiTich":"Gành Đá Đĩa", "ViTri":"An Ninh Đông, Tuy An", "LoaiDiTich":"Danh thắng", "NamCongNhan":"1996" }
+, { "DiTich":"Thành An Thổ", "ViTri":"An Dân, Tuy An", "LoaiDiTich":"Lịch sử khảo cổ", "NamCongNhan":"1996" }
+, { "DiTich":"Địa đạo Gò Thì Thùng", "ViTri":"An Xuân, Tuy An", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1996" }
+, { "DiTich":"Lẫm Phú Lâm", "ViTri":"Phú Lâm, Tuy Hòa", "LoaiDiTich":"Lịch sử kiến trúc", "NamCongNhan":"1996" }
+, { "DiTich":"Thành Hồ", "ViTri":"Thị trấn Phú Hòa", "LoaiDiTich":"Lịch sử khảo cổ", "NamCongNhan":"1996" }
+, { "DiTich":"Địa điểm Đồng khởi Hòa Thịnh", "ViTri":"Hòa Thịnh, Tây Hòa", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1996" }
+, { "DiTich":"Căn cứ của tỉnh Phú Yên trong kháng chiến chống Mỹ", "ViTri":"Sơn Hòa", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1996" }
+, { "DiTich":"Mũi Đại Lãnh - Bãi Môn", "ViTri":"Hòa Tâm, Đông Hòa", "LoaiDiTich":"Danh thắng", "NamCongNhan":"1996" }
+, { "DiTich":"Núi Đá Bia", "ViTri":"Hòa Xuân Nam, Đông Hòa", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2008" }
+, { "DiTich":"Vịnh Xuân Đài", "ViTri":"Thị xã Sông Cầu", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2011" }
 , { "DiTich":"Tháp Po Nagar", "ViTri":"Vĩnh Phước, Tp. Nha Trang", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1979" }
+, { "DiTich":"Hòn Chồng– Hòn Đỏ", "ViTri":"Vĩnh Phước, Tp. Nha Trang", "LoaiDiTich":"Danh thắng", "NamCongNhan":"1998" }
+, { "DiTich":"Vịnh Nha Trang", "ViTri":"Tp. Nha Trang", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2005" }
+, { "DiTich":"Thành cổ Diên Khánh", "ViTri":"thị trấn Diên Khánh", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1988" }
+, { "DiTich":"Miếu thờ Trịnh Phong", "ViTri":"Diên An, Diên Khánh", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1991" }
+, { "DiTich":"Đền thờ Trần Quý Cáp", "ViTri":"thị trấn Diên Khánh", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1991" }
+, { "DiTich":"Văn Miếu Diên Khánh", "ViTri":"thị trấn Diên Khánh", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1998" }
+, { "DiTich":"Am Chúa", "ViTri":"Diên Điền, Diên Khánh", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1999" }
+, { "DiTich":"Đình Phú Cang", "ViTri":"Vạn Phú, Vạn Ninh", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1998" }
+, { "DiTich":"Mũi Đôi – Hòn Đôi", "ViTri":"Vạn Thạnh, Vạn Ninh", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2005" }
+, { "DiTich":"Lăng Bà Vú", "ViTri":"Ninh Hiệp, Ninh Hòa", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1999" }
+, { "DiTich":"Phủ Đường Ninh Hòa", "ViTri":"thị trấn Ninh Hòa", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2000" }
+, { "DiTich":"Địa điểm lưu niệm Tàu C235 (Đường Hồ Chí Minh trên biển)", "ViTri":"Ninh Vân, Ninh Hòa", "LoaiDiTich":"Lịch sử cách mạng", "NamCongNhan":"2014" }
+, { "DiTich":"Khu tưởng niệm bác sĩ Alexandre Yersin (Thư viện tại Viện Pasteur, chùa Linh Sơn và Mộ Yersin)", "ViTri":"Nha Trang & Cam Lâm", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1990" }
+, { "DiTich":"Bia chủ quyền đảo Trường Sa tại đảo Song Tử Tây và đảo Nam Yết", "ViTri":"", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2014" }
+, { "DiTich":"Di chỉ khảo cổ Hòa Diêm", "ViTri":"Cam Thịnh Đông, Cam Ranh", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2014" }
 , { "DiTich":"Tháp Po Klong Garai", "ViTri":"Phan Rang – Tháp Chàm", "LoaiDiTich":"Lịch sử kiến trúc đặc biệt", "NamCongNhan":"1979" }
+, { "DiTich":"Chùa Ông", "ViTri":"Phan Rang – Tháp Chàm", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2011" }
+, { "DiTich":"Đình Văn Sơn", "ViTri":"Phan Rang – Tháp Chàm", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1999" }
+, { "DiTich":"Miếu Xóm Bánh", "ViTri":"Phan Rang – Tháp Chàm", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2002" }
+, { "DiTich":"Đình Tấn Lộc", "ViTri":"Phan Rang – Tháp Chàm", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2005" }
+, { "DiTich":"Tháp Hòa Lai (Ba Tháp)", "ViTri":"Bắc Phong, Thuận Bắc", "LoaiDiTich":"Lịch sử kiến trúc đặc biệt", "NamCongNhan":"2013" }
+, { "DiTich":"Vịnh Vĩnh Hy", "ViTri":"Vĩnh Hải, Ninh Hải", "LoaiDiTich":"Danh thắng", "NamCongNhan":"7/1/2020" }
 , { "DiTich":"Tháp Po Sah Inư (Tháp Chăm Phố Hài)", "ViTri":"Phú Hài, Phan Thiết", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1991" }
-, { "DiTich":"Ngục Kon Tum", "ViTri":"Kon Tum", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1988" }
-, { "DiTich":"Biển Hồ / Hồ T'Nưng", "ViTri":"Pleiku", "LoaiDiTich":"Danh thắng", "NamCongNhan":"" }
+, { "DiTich":"Trường Dục Thanh", "ViTri":"Đức Nghĩa, Phan Thiết", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1986" }
+, { "DiTich":"Lăng mộ Nguyễn Thông", "ViTri":"Phú Hài, Phan Thiết", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1999" }
+, { "DiTich":"Dinh Vạn Thủy Tú", "ViTri":"Đức Thắng, Phan Thiết", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1996" }
+, { "DiTich":"Di tích hoàng tộc Chăm", "ViTri":"Bắc Bình", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1993" }
+, { "DiTich":"Chùa Cổ Thạch (chùa Hang)", "ViTri":"Bình Thạnh, Tuy Phong", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1993" }
+, { "DiTich":"Bàu Trắng", "ViTri":"Hòa Thắng, Bắc Bình", "LoaiDiTich":"danh thắng", "NamCongNhan":"2013" }
+, { "DiTich":"Tháp Po Dam", "ViTri":"Phú Lạc, Tuy Phong", "LoaiDiTich":"Lịch sử kiến trúc", "NamCongNhan":"1996" }
+, { "DiTich":"Dinh Thầy Thím", "ViTri":"Tân Tiến, La Gi", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1997" }
+, { "DiTich":"Núi Tà Cú", "ViTri":"Hàm Thuận Nam", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1993" }
+, { "DiTich":"Vạn An Thạnh", "ViTri":"Tam Thanh, Phú Quý", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1996" }
+, { "DiTich":"Chùa Linh Quang", "ViTri":"Tam Thanh, Phú Quý", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1996" }
+, { "DiTich":"Hải Đăng Phú Quý", "ViTri":"Ngũ Phụng, Phú Quý", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1996" }
+, { "DiTich":"Chùa Linh Sơn", "ViTri":"Phú Quý", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1996" }
+, { "DiTich":"Đền thờ Công chúa Bàn Tranh", "ViTri":"Phú Quý", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1996" }
+, { "DiTich":"Địa điểm Chiến thắng Đăk Tô - Tân Cảnh", "ViTri":"Đăk Tô", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"1992" }
+, { "DiTich":"Nhà lao Pleiku", "ViTri":"Pleiku", "LoaiDiTich":"Lịch sử cách mạng", "NamCongNhan":"1994" }
+, { "DiTich":"Tây Sơn Thượng đạo", "ViTri":"An Khê", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1991" }
+, { "DiTich":"Luỹ An Khê, An Khê Đình, An Khê Trường và Gò Chợ", "ViTri":"An Khê", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1993" }
+, { "DiTich":"Chiến thắng Đắk Pơ (24/6/1954)", "ViTri":"Đak Pơ", "LoaiDiTich":"Lịch sử cách mạng", "NamCongNhan":"2001" }
+, { "DiTich":"Chiến thắng đường 7 - Sông Bờ", "ViTri":"Ia Sao, Ayun Pa", "LoaiDiTich":"Lịch sử cách mạng", "NamCongNhan":"2001" }
+, { "DiTich":"Chiến thắng Plei Me", "ViTri":"Ia Ga, Chư Prông", "LoaiDiTich":"Lịch sử cách mạng", "NamCongNhan":"1994" }
+, { "DiTich":"Di tích Plei Ơi", "ViTri":"Ayun Hạ, Phú Thiện", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1993" }
+, { "DiTich":"Di tích Vườn Mít", "ViTri":"Nghĩa An, Kbang", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1991" }
+, { "DiTich":"Làng kháng chiến Stơr", "ViTri":"Tơ Tung, Kbang", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1993" }
+, { "DiTich":"Di tích Rộc Tưng - Gò Đá", "ViTri":"An Khê", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2020" }
 , { "DiTich":"Biệt điện Bảo Đại", "ViTri":"Buôn Ma Thuột", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1999" }
+, { "DiTich":"Đình Lạc Giao", "ViTri":"Buôn Ma Thuột", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1990" }
+, { "DiTich":"Nhà đày Buôn Ma Thuột", "ViTri":"Buôn Ma Thuột", "LoaiDiTich":"Lịch sử đăc biệt", "NamCongNhan":"1980" }
+, { "DiTich":"Khu Đồn điền Cada", "ViTri":"Krông Pắc", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1999" }
+, { "DiTich":"Thác Dray Kpơr", "ViTri":"Ea Kar", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2004" }
+, { "DiTich":"Thác Thủy Tiên", "ViTri":"Krông Năng", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2009" }
+, { "DiTich":"Thắng cảnh Hồ Lăk", "ViTri":"Lăk", "LoaiDiTich":"Danh thắng", "NamCongNhan":"1993" }
+, { "DiTich":"Tháp Chăm Yang Prong", "ViTri":"Ea Súp", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1991" }
+, { "DiTich":"Hang đá Dak Tuar", "ViTri":"Krông Bông", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1991" }
+, { "DiTich":"Khu căn cứ kháng chiến tỉnh Đắk Lắk (1965-1975)", "ViTri":"Cư Pui & Hòa Phong, h. Krông Bông", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2017" }
+, { "DiTich":"Thác Dray Sáp Thượng (thác Gia Long)", "ViTri":"Krông Ana & Krông Nô", "LoaiDiTich":"Danh thắng", "NamCongNhan":"1999" }
+, { "DiTich":"Thác Đray Nur", "ViTri":"Krông Ana", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2004" }
+, { "DiTich":"Thác Drai Dlông", "ViTri":"Cư M'gar", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2004" }
+, { "DiTich":"Thác Drai Yông", "ViTri":"Ea M’nang, Cư M’gar & Cuôr Knia, Buôn Đôn", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2017" }
 , { "DiTich":"Ga Đà Lạt", "ViTri":"Đà Lạt", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2001" }
+, { "DiTich":"Trường Cao đẳng Sư phạm Đà Lạt", "ViTri":"Đà Lạt", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"2001" }
+, { "DiTich":"Hồ Than Thở", "ViTri":"Đà Lạt", "LoaiDiTich":"Danh thắng", "NamCongNhan":"1998" }
+, { "DiTich":"Hồ Tuyền Lâm", "ViTri":"Đà Lạt", "LoaiDiTich":"Danh thắng", "NamCongNhan":"1998" }
+, { "DiTich":"Hồ Xuân Hương", "ViTri":"Đà Lạt", "LoaiDiTich":"Danh thắng", "NamCongNhan":"1989" }
+, { "DiTich":"Nhà lao thiếu nhi Đà Lạt", "ViTri":"Đà Lạt", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2009" }
+, { "DiTich":"Thác Cam Ly", "ViTri":"Đà Lạt", "LoaiDiTich":"Danh thắng", "NamCongNhan":"1998" }
+, { "DiTich":"Thác Datanla", "ViTri":"Đà Lạt", "LoaiDiTich":"Danh thắng", "NamCongNhan":"1998" }
+, { "DiTich":"Thác Prenn", "ViTri":"Đà Lạt", "LoaiDiTich":"Danh thắng", "NamCongNhan":"1998" }
+, { "DiTich":"Hồ Đạ Tẻh", "ViTri":"Đạ Tẻh", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2004" }
+, { "DiTich":"Núi Langbiang", "ViTri":"Lạc Dương", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2004" }
+, { "DiTich":"Thánh địa Cát Tiên", "ViTri":"Cát Tiên", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"1997" }
+, { "DiTich":"Vườn quốc gia Cát Tiên", "ViTri":"Đồng Nai, Lâm Đồng, Bình Phước", "LoaiDiTich":"Danh thắng đặc biệt", "NamCongNhan":"2012" }
+, { "DiTich":"Thác J'rai Bliang (Thác Đá Cao)", "ViTri":"Đức Trọng", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2000" }
+, { "DiTich":"Thác Gougah", "ViTri":"Đức Trọng", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2000" }
+, { "DiTich":"Thác Liên Khương", "ViTri":"Đức Trọng", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2000" }
+, { "DiTich":"Thác Pongour", "ViTri":"Phú Hội, Đức Trọng", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2000" }
+, { "DiTich":"Thác Voi (Thác Liêng Rơwoa)", "ViTri":"Lâm Hà", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2001" }
 , { "DiTich":"Ngục Đăk Mil", "ViTri":"Đăk Mil", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2005" }
+, { "DiTich":"Địa điểm chiến thắng Đồi 722 – Đăk Săk", "ViTri":"Đăk Mil", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2012" }
+, { "DiTich":"Căn cứ kháng chiến B4 – Liên tỉnh IV", "ViTri":"Krông Nô", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2005" }
+, { "DiTich":"Địa điểm lưu niệm N’Trang Gưh", "ViTri":"Krông Nô", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2011" }
+, { "DiTich":"Thác Đray Sáp", "ViTri":"Krông Nô", "LoaiDiTich":"Danh thắng", "NamCongNhan":"1991" }
+, { "DiTich":"Các địa điểm về phong trào đấu tranh chống thực dân Pháp của đồng bào M’nông do N’Trang Lơng lãnh đạo", "ViTri":"Tuy Đức", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2007" }
+, { "DiTich":"Địa điểm bắt liên lạc khai thông đường Hồ Chí Minh – đoạn Nam Tây Nguyên đến Đông Nam Bộ, 10/1960", "ViTri":"Gia Nghĩa & Đăk Song", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2011" }
+, { "DiTich":"Địa điểm chiến thắng Chiến dịch Tây Quảng Đức (11/1973 - 4/1974, Chi khu Kiến Đức)", "ViTri":"Kiến Đức, Đăk R'Lấp", "LoaiDiTich":"Lịch sử", "NamCongNhan":"7/1/2020" }
 , { "DiTich":"Mộ Cự thạch Hàng Gòn", "ViTri":"Xuân Thanh, Long Khánh", "LoaiDiTich":"Lịch sử Khảo cổ đặc biệt", "NamCongNhan":"2015" }
+, { "DiTich":"Nhà Xanh", "ViTri":"Thống Nhất, Biên Hòa", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1986" }
+, { "DiTich":"Đài Chiến sĩ (Đài kỷ niệm)", "ViTri":"Trung Dũng, Biên Hòa", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1988" }
+, { "DiTich":"Khu Danh thắng Bửu Long", "ViTri":"Bửu Long, Biên Hòa", "LoaiDiTich":"Danh thắng", "NamCongNhan":"1990" }
+, { "DiTich":"Chùa Đại Giác", "ViTri":"Hiệp Hòa, Biên Hòa", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1990" }
+, { "DiTich":"Mộ Trịnh Hoài Đức", "ViTri":"Trung Dũng, Biên Hòa", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1990" }
+, { "DiTich":"Đình Tân Lân", "ViTri":"Hòa Bình, Biên Hòa", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1991" }
+, { "DiTich":"Mộ và Đền thờ Nguyễn Hữu Cảnh", "ViTri":"Hiệp Hòa, Biên Hòa", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1991" }
+, { "DiTich":"Chùa Long Thiền", "ViTri":"Bửu Hòa, Biên Hòa", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1991" }
+, { "DiTich":"Nhà hội Bình Trước", "ViTri":"Thanh Bình, Biên Hòa", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1991" }
+, { "DiTich":"Quảng trường Sông Phố", "ViTri":"Thanh Bình, Biên Hòa", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1991" }
+, { "DiTich":"Đền thờ Nguyễn Tri Phương", "ViTri":"Bửu Hòa, Biên Hòa", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1992" }
+, { "DiTich":"Nơi diễn ra cuộc nổi dậy phá Nhà lao Tân Hiệp 02/12/1956", "ViTri":"Tân Tiến, Biên Hòa", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1994" }
+, { "DiTich":"Mộ, Đền thờ Đoàn Văn Cự & 16 Nghĩa binh Thiên Địa Hội", "ViTri":"Tam Hiệp, Biên Hòa", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1998" }
+, { "DiTich":"Chùa Ông (Biên Hòa)", "ViTri":"Hiệp Hòa, Biên Hòa", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2001" }
+, { "DiTich":"Thành cổ Biên Hòa", "ViTri":"Quang Vinh, Biên Hòa", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2013" }
+, { "DiTich":"Đình An Hòa", "ViTri":"An Hòa, Long Thành", "LoaiDiTich":"Kiến trúc nghệ thuật", "NamCongNhan":"1989" }
+, { "DiTich":"Văn miếu Trấn Biên", "ViTri":"Bửu Long, Biên Hòa", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2016" }
+, { "DiTich":"Tòa hành chính tỉnh Long Khánh", "ViTri":"Xuân An, Long Khánh", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1988" }
+, { "DiTich":"Mộ Nguyễn Đức Ứng và 27 Nghĩa binh chống Pháp", "ViTri":"Long Phước, Long Thành", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1994" }
+, { "DiTich":"Ngã ba Giồng Sắn (Địa điểm Vụ thảm sát Giồng Sắn)", "ViTri":"Phú Hữu, Nhơn Trạch", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2014" }
+, { "DiTich":"Địa đạo Nhơn Trạch", "ViTri":"Long Thọ, Nhơn Trạch", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2001" }
+, { "DiTich":"Căn cứ Sở Chỉ huy Đặc khu Quân sự Rừng Sác và Đoàn 10 Đặc công Rừng Sác", "ViTri":"Phước An, Nhơn Trạch", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2014" }
+, { "DiTich":"Căn cứ Khu ủy miền Đông Nam Bộ (Chiến khu Đ)", "ViTri":"Hiếu Liêm, Vĩnh Cửu", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1997" }
+, { "DiTich":"Địa đạo Suối Linh", "ViTri":"Hiếu Liêm, Vĩnh Cửu", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1999" }
+, { "DiTich":"Căn cứ Trung ương Cục miền Nam", "ViTri":"Phú Lý, Vĩnh Cửu", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2001" }
+, { "DiTich":"Địa điểm chiến thắng La Ngà", "ViTri":"Phú Ngọc, Định Quán", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1986" }
+, { "DiTich":"Đá chồng Định Quán (Đá Ba Chồng)", "ViTri":"Tt. Định Quán, Định Quán", "LoaiDiTich":"Danh thắng", "NamCongNhan":"1988" }
+, { "DiTich":"Địa điểm thành lập Đoàn 125. Tiền thân của lực lượng vũ trang đoàn kết cứu nước Campuchia", "ViTri":"Long Giao, Cẩm Mỹ", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2011" }
+, { "DiTich":"Núi Chứa Chan", "ViTri":"Xuân Lộc", "LoaiDiTich":"Danh thắng cảnh", "NamCongNhan":"2012" }
+, { "DiTich":"Vườn quốc gia Cát Tiên", "ViTri":"Đồng Nai, Lâm Đồng, Bình Phước", "LoaiDiTich":"Danh thắng đặc biệt", "NamCongNhan":"2011" }
 , { "DiTich":"Căn cứ Tà Thiết (Căn cứ BCH Quân giải phóng miền Nam Việt Nam; Căn cứ BCH Chiến dịch Hồ Chí Minh)", "ViTri":"Lộc Thịnh, Lộc Ninh", "LoaiDiTich":"Lịch sử văn hóa cách mạng", "NamCongNhan":"1988" }
+, { "DiTich":"Núi Bà Rá", "ViTri":"Thác Mơ & Sơn Giang, Phước Long", "LoaiDiTich":"Lịch sử danh thắng", "NamCongNhan":"1995" }
+, { "DiTich":"Mộ 3000 đồng bào An Lộc bị đế quốc Mỹ tàn sát ngày 03/10/1972", "ViTri":"An Lộc, Bình Long", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1985" }
+, { "DiTich":"Nhà giao tế Lộc Ninh (Trụ sở CP CMLT Cộng hòa miền Nam Việt Nam)", "ViTri":"Lộc Ninh, Lộc Ninh", "LoaiDiTich":"Lịch sử văn hóa cách mạng", "NamCongNhan":"1986" }
+, { "DiTich":"Sân bay quân sự Lộc Ninh", "ViTri":"Lộc Ninh, Lộc Ninh", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1986" }
+, { "DiTich":"Bồn xăng kho nhiên liệu VK98 (Cục Hậu cần B2)", "ViTri":"Lộc Quang, Lộc Ninh", "LoaiDiTich":"Lịch sử cách mạng đặc biệt", "NamCongNhan":"1989" }
+, { "DiTich":"Bồn xăng kho nhiên liệu VK99 (Cục Hậu cần B2)", "ViTri":"Lộc Hòa, Lộc Ninh", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1989" }
+, { "DiTich":"Điểm cuối Đường ống xăng dầu VK96 (Cục Hậu cần B2)", "ViTri":"Bù Gia Mập", "LoaiDiTich":"Lịch sử cách mạng đặc biệt", "NamCongNhan":"2014" }
+, { "DiTich":"Địa điểm căn cứ Cục hậu cần Quân giải phóng miền Nam Việt Nam (1973-1975)", "ViTri":"Lộc Hiệp, Lộc Ninh", "LoaiDiTich":"Lịch sử cách mạng", "NamCongNhan":"2014" }
+, { "DiTich":"Địa điểm Cuộc nổi dậy của đồng bào Stiêng (Mả thằng Tây)", "ViTri":"Lộc Hòa, Lộc Ninh", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1989" }
+, { "DiTich":"Phú Riềng Đỏ", "ViTri":"Thuận Phú, Đồng Phú", "LoaiDiTich":"Lịch sử cách mạng", "NamCongNhan":"1999" }
+, { "DiTich":"Địa điểm chiến thắng chốt chặn Tàu Ô", "ViTri":"Hớn Quản", "LoaiDiTich":"Lịch sử cách mạng", "NamCongNhan":"2012" }
+, { "DiTich":"Chiến thắng Đồng Xoài, 1965", "ViTri":"Tân Phú, Đồng Xoài", "LoaiDiTich":"Lịch sử cách mạng", "NamCongNhan":"2014" }
 , { "DiTich":"Địa đạo Tây Nam Bến Cát", "ViTri":"An Điền, An Tây, Phú An", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"18/3/1996" }
+, { "DiTich":"Sở chỉ huy tiền phương chiến dịch Hồ Chí Minh", "ViTri":"Minh Tân, Dầu Tiếng", "LoaiDiTich":"Lịch sử cách mạng", "NamCongNhan":"11/5/2010" }
+, { "DiTich":"Nhà tù Phú Lợi", "ViTri":"Phú Lợi, Thủ Dầu Một", "LoaiDiTich":"Lịch sử", "NamCongNhan":"10/07/1980" }
+, { "DiTich":"Chiến khu Đ", "ViTri":"Đất Cuốc, Tân Uyên", "LoaiDiTich":"Lịch sử cách mạng", "NamCongNhan":"11/5/2010" }
+, { "DiTich":"Nhà cổ Trần Văn Hổ", "ViTri":"Phú Cường, Thủ Dầu Một", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"29/4/1993" }
+, { "DiTich":"Nhà cổ Trần Công Vàng", "ViTri":"Phú Cường, Thủ Dầu Một", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"07/01/1993" }
+, { "DiTich":"Chùa Hội Khánh", "ViTri":"Phú Cường, Thủ Dầu Một", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"07/01/1993" }
+, { "DiTich":"Đình Tân An (Bến Thế)", "ViTri":"Tân An,Thủ Dầu Một", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"26/4/2014" }
+, { "DiTich":"Núi Châu Thới và Chùa Châu Thới", "ViTri":"Bình An, Dĩ An", "LoaiDiTich":"Danh thắng văn hóa", "NamCongNhan":"21/04/1989" }
+, { "DiTich":"Cù Lao Rùa (Cù Lao Thạnh Hội)", "ViTri":"Thạnh Hội, Tx. Tân Uyên", "LoaiDiTich":"Lịch sử khảo cổ", "NamCongNhan":"03/03/2009" }
+, { "DiTich":"Di tích khảo cổ học Dốc Chùa", "ViTri":"Tân Mỹ, Tân Uyên", "LoaiDiTich":"Lịch sử khảo cổ", "NamCongNhan":"28/12/2001" }
+, { "DiTich":"Đình Phú Long", "ViTri":"Lái Thiêu, Thuận An", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"28/12/2001" }
 , { "DiTich":"Căn cứ Trung ương cục miền Nam", "ViTri":"Tân Lập, Tân Biên", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"10/5/2012" }
+, { "DiTich":"Địa điểm Ban Dân y Trung ương Cục miền Nam", "ViTri":"Tân Lập, Tân Biên", "LoaiDiTich":"Lịch sử", "NamCongNhan":"7/1/2020" }
+, { "DiTich":"Căn cứ Dương Minh Châu", "ViTri":"Phước Ninh, Dương Minh Châu", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"13/9/1999" }
+, { "DiTich":"Căn cứ Tỉnh ủy Tây Ninh tại Bời Lời", "ViTri":"Đôn Thuận, Trảng Bàng", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"26/1/1999" }
+, { "DiTich":"Căn cứ Ban an ninh Trung ương cục miền Nam", "ViTri":"Tân Lập, Tân Biên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"23/12/1995" }
+, { "DiTich":"Tòa thánh Cao Đài", "ViTri":"Long Thành Bắc, Hòa Thành", "LoaiDiTich":"Lịch sử kiến trúc tôn giáo", "NamCongNhan":"xx" }
+, { "DiTich":"Núi Bà Đen", "ViTri":"Thạnh Tân, Tp. Tây Ninh", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"21/01/1989" }
+, { "DiTich":"Địa điểm Chiến thắng Junction City", "ViTri":"Tt. Tân Châu, Tân Châu", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"12/11/2013" }
+, { "DiTich":"Địa điểm Vành đai diệt Mỹ Trảng Lớn", "ViTri":"Tt. Châu Thành, Châu Thành", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2013" }
+, { "DiTich":"Địa điểm thành lập cơ sở Đảng Cộng sản đầu tiên tỉnh Tây Ninh", "ViTri":"Long Vĩnh, Châu Thành", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2013" }
 , { "DiTich":"Nhà tù Côn Đảo", "ViTri":"Côn Đảo", "LoaiDiTich":"Lịch sử cách mạng đặc biệt", "NamCongNhan":"10/5/2012" }
+, { "DiTich":"Bạch Dinh", "ViTri":"P.1, Tp.Vũng Tàu", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"04/08/1992" }
+, { "DiTich":"Trận địa pháo cổ và Hầm thủy lôi Núi Lớn", "ViTri":"P.5, Tp.Vũng Tàu", "LoaiDiTich":"Lịch sử", "NamCongNhan":"04/08/1992" }
+, { "DiTich":"Nhà má Tám Nhung, nhà 42/11", "ViTri":"P.6, Tp.Vũng Tàu", "LoaiDiTich":"Lịch sử cách mạng", "NamCongNhan":"14/12/1989" }
+, { "DiTich":"Trụ sở Ủy ban Việt Minh tại Vũng Tàu", "ViTri":"P.1, Tp.Vũng Tàu", "LoaiDiTich":"Lịch sử cách mạng", "NamCongNhan":"25/03/1991" }
+, { "DiTich":""Nhà cao cẳng" số 18 Lê Lợi", "ViTri":"P.1, Tp.Vũng Tàu", "LoaiDiTich":"Lịch sử cách mạng", "NamCongNhan":"03/08/1991" }
+, { "DiTich":"Nhà số 86 Phan Chu Trinh", "ViTri":"P.2, Tp.Vũng Tàu", "LoaiDiTich":"Lịch sử cách mạng", "NamCongNhan":"04/08/1992" }
+, { "DiTich":"Đồn nhà máy nước", "ViTri":"P.9, Tp.Vũng Tàu", "LoaiDiTich":"Lịch sử cách mạng", "NamCongNhan":"04/08/1992" }
+, { "DiTich":"Nhà ông Trương Quang Vinh số 18/5", "ViTri":"P.7, Tp.Vũng Tàu", "LoaiDiTich":"Lịch sử cách mạng", "NamCongNhan":"25/03/1991" }
+, { "DiTich":"Khu di tích Đình Thắng Tam (đình Thắng Tam, Lăng Cá Ông, Miếu Bà)", "ViTri":"Thắng Tam, Tp.Vũng Tàu", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"25/03/1991" }
+, { "DiTich":"Chùa Linh Sơn (Linh sơn Cổ tự)", "ViTri":"P.2 Tp.Vũng Tàu", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"03/08/1991" }
+, { "DiTich":"Thích Ca Phật Đài", "ViTri":"P.5, Tp.Vũng Tàu", "LoaiDiTich":"Lịch sử văn hóa danh thắng", "NamCongNhan":"14/12/1989" }
+, { "DiTich":"Chùa Phước Lâm (Phước Lâm Tự)", "ViTri":"P.6, Tp.Vũng Tàu", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"04/08/1992" }
+, { "DiTich":"Nhà Lớn Long Sơn (đền Ông Trần)", "ViTri":"Long Sơn, Tp.Vũng Tàu", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"03/08/1991" }
+, { "DiTich":"Niết Bàn Tịnh Xá", "ViTri":"P.2, Tp.Vũng Tàu", "LoaiDiTich":"Lịch sử văn hóa nghệ thuật", "NamCongNhan":"14/12/1989" }
+, { "DiTich":"Ăng-ten parabol viba Núi Lớn", "ViTri":"P.5, Tp.Vũng Tàu", "LoaiDiTich":"Lịch sử", "NamCongNhan":"23/07/1993" }
+, { "DiTich":"Trận địa pháo cổ trên núi Tao Phùng (Núi Nhỏ)", "ViTri":"P2, Tp.Vũng Tàu", "LoaiDiTich":"Lịch sử", "NamCongNhan":"18/01/1993" }
+, { "DiTich":"Cầu Đá Vũng Tàu", "ViTri":"P2, Tp.Vũng Tàu", "LoaiDiTich":"Lịch sử", "NamCongNhan":"20/07/1994" }
+, { "DiTich":"Nhà Tròn Bà Rịa", "ViTri":"Phước Hiệp, Tp.Bà Rịa", "LoaiDiTich":"Lịch sử cách mạng", "NamCongNhan":"05/06/1987" }
+, { "DiTich":"Địa đạo Long Phước", "ViTri":"Long Phước, Tp.Bà Rịa", "LoaiDiTich":"Lịch sử cách mạng", "NamCongNhan":"09/01/1990" }
+, { "DiTich":"Khu Hang Dơi va Chùa Diệu Linh (Căn cứ Núi Dinh)", "ViTri":"Kim Dinh, Tp.Bà Rịa", "LoaiDiTich":"Lịch sử cách mạng", "NamCongNhan":"16/12/1993" }
+, { "DiTich":"Căn cứ Núi Dinh", "ViTri":"Tân Hải, Tân Thành", "LoaiDiTich":"Lịch sử cách mạng", "NamCongNhan":"16/12/1993" }
+, { "DiTich":"Địa đạo Hắc Dịch", "ViTri":"Hắc Dịch,... Tân Thành", "LoaiDiTich":"Lịch sử cách mạng", "NamCongNhan":"19/01/2001" }
+, { "DiTich":"Chiến thắng Bình Giã (chi khu quân sự Đức Thạnh, ngã ba Bình Giã, ngã ba Sông Cầu, ngã ba Quảng Giáo)", "ViTri":"Bình Giã,... Châu Đức", "LoaiDiTich":"Lịch sử cách mạng", "NamCongNhan":"15/10/1994" }
+, { "DiTich":"Địa đạo Kim Long", "ViTri":"Kim Long, Châu Đức", "LoaiDiTich":"Lịch sử cách mạng", "NamCongNhan":"20/07/1994" }
+, { "DiTich":"Bến Lộc An (Đường Hồ Chí Minh trên biển)", "ViTri":"Phước Thuận, Xuyên Mộc", "LoaiDiTich":"Lịch sử cách mạng", "NamCongNhan":"20/04/1995" }
+, { "DiTich":"Nhà lưu niệm và tượng đài anh hùng Võ Thị Sáu", "ViTri":"Tt. Đất Đỏ, Đất Đỏ", "LoaiDiTich":"Lịch sử cách mạng", "NamCongNhan":"06/12/1989" }
+, { "DiTich":"Căn cứ Minh Đạm", "ViTri":"Phước Hải, Đất Đỏ", "LoaiDiTich":"Lịch sử cách mạng", "NamCongNhan":"18/01/1993" }
+, { "DiTich":"Dinh Cô", "ViTri":"Tt. Long Hải, Long Điền", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"16/01/1995" }
+, { "DiTich":"Chùa Long Bàn", "ViTri":"Tt. Long Điền, Long Điền", "LoaiDiTich":"Lịch sử văn hóa kiến trúc", "NamCongNhan":"19/04/1991" }
 , { "DiTich":"Tòa Đại sứ quán Mỹ Nay là Tổng lãnh sự quán Hoa Kỳ", "ViTri":"Quận 1", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1976" }
+, { "DiTich":"Dinh Độc Lập", "ViTri":"Quận 1", "LoaiDiTich":"Lịch sử kiến trúc đặc biệt", "NamCongNhan":"1976" }
+, { "DiTich":"Nơi thành lập Kỳ bộ Việt Nam Thanh niên cách mạng đồng chí Hội - năm 1928", "ViTri":"Quận 1", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1988" }
+, { "DiTich":"Nơi thành lập An Nam Cộng sản Đảng năm 1929", "ViTri":"Quận 1", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1988" }
+, { "DiTich":"Trụ sở báo Dân Chúng", "ViTri":"Quận 1", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1988" }
+, { "DiTich":"Địa điểm lưu niệm Chủ tịch Tôn Đức Thắng tại khu vực Ba Son", "ViTri":"Quận 1", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2016" }
+, { "DiTich":"Điện Ngọc Hoàng", "ViTri":"Quận 1", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1994" }
+, { "DiTich":"Miếu Thiên Hậu (Quảng Triệu hội quán)", "ViTri":"Quận 1", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1998" }
+, { "DiTich":"Trụ sở Tòa án nhân dân Thành phố Hồ Chí Minh", "ViTri":"Quận 1", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"2012" }
+, { "DiTich":"Bảo tàng Lịch sử Thành phố Hồ Chí Minh", "ViTri":"Quận 1", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"2012" }
+, { "DiTich":"Bảo tàng Thành phố Hồ Chí Minh", "ViTri":"Quận 1", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"2012" }
+, { "DiTich":"Nhà hát Thành phố Hồ Chí Minh", "ViTri":"Quận 1", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"2012" }
+, { "DiTich":"Cơ sở Ban Tuyên huấn Xứ ủy Nam bộ", "ViTri":"Quận 3", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1988" }
+, { "DiTich":"Cơ sở giấu vũ khí của Biệt động Thành đánh dinh Độc Lập", "ViTri":"Quận 3", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1988" }
+, { "DiTich":"Sở Chỉ huy tiền phương Phân khu 6 trong chiến dịch Mậu Thân 1968", "ViTri":"Quận 3", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1988" }
+, { "DiTich":"Khu trại giam bệnh viện Chợ Quán - nơi đồng chí Trần Phú hy sinh", "ViTri":"Quận 5", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1988" }
+, { "DiTich":"Nơi đồng chí Nguyễn Tất Thành ở trước khi ra đi tìm đường cứu nước", "ViTri":"Quận 5", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1988" }
+, { "DiTich":"Hội quán Nghĩa Nhuận", "ViTri":"Quận 5", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1993" }
+, { "DiTich":"Hội quán Tuệ Thành (Chùa Bà)", "ViTri":"Quận 5", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1993" }
+, { "DiTich":"Hội quán Nghĩa An (Miếu Quan Đế hay Chùa Ông)", "ViTri":"Quận 5", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1993" }
+, { "DiTich":"Đình Minh Hương Gia Thạnh", "ViTri":"Quận 5", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1993" }
+, { "DiTich":"Miếu Nhị Phủ (Chùa Ông Bổn)", "ViTri":"Quận 5", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1998" }
+, { "DiTich":"Nhà thờ tổ thợ bạc (Lệ Châu hội quán)", "ViTri":"Quận 5", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1998" }
+, { "DiTich":"Hội quán Quỳnh Phủ", "ViTri":"Quận 5", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"2001" }
+, { "DiTich":"Hội quán Hà Chương", "ViTri":"Quận 5", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"2001" }
+, { "DiTich":"Hội quán Ôn Lăng", "ViTri":"Quận 5", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"2002" }
+, { "DiTich":"Hầm bí mật in tài liệu Ban Tuyên huấn Hoa vận thời kỳ chống Mỹ cứu nước", "ViTri":"Quận 6", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1998" }
+, { "DiTich":"Đình Bình Đông", "ViTri":"Quận 8", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1997" }
+, { "DiTich":"Lò gốm cổ Hưng Lợi", "ViTri":"Quận 8", "LoaiDiTich":"Khảo cổ", "NamCongNhan":"1998" }
+, { "DiTich":"Bót Dây Thép", "ViTri":"Quận 9", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1993" }
+, { "DiTich":"Đình Phong Phú", "ViTri":"Quận 9", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1993" }
+, { "DiTich":"Chùa Hội Sơn", "ViTri":"Quận 9", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1993" }
+, { "DiTich":"Chùa Phước Tường", "ViTri":"Quận 9", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1993" }
+, { "DiTich":"Cơ sở in ấn của Hội Ủng hộ Vệ quốc đoàn", "ViTri":"Quận 10", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1988" }
+, { "DiTich":"Hầm bí mật chứa vũ khí thời kháng chiến chống Mỹ", "ViTri":"Quận 10", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1988" }
+, { "DiTich":"Đình Chí Hoà", "ViTri":"Quận 10", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1996" }
+, { "DiTich":"Chùa Phụng Sơn", "ViTri":"Quận 11", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1988" }
+, { "DiTich":"Chùa Giác Viên", "ViTri":"Quận 11", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1993" }
+, { "DiTich":"Lăng Lê Văn Duyệt", "ViTri":"Bình Thạnh", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1988" }
+, { "DiTich":"Đình Bình Hòa", "ViTri":"Bình Thạnh", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1993" }
+, { "DiTich":"Tịnh xá Ngọc Phương", "ViTri":"Gò Vấp", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1994" }
+, { "DiTich":"Đình Thông Tây Hội", "ViTri":"Gò Vấp", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1998" }
+, { "DiTich":"Chùa sắc tứ Trường Thọ", "ViTri":"Gò Vấp", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"2000" }
+, { "DiTich":"Trụ sở Phái đoàn liên lạc của Bộ Tổng tư lệnh Quân đội Nhân dân Việt Nam cạnh Phân ban Quốc tế giám sát và kiểm soát đình chiến tại Sài Gòn (1955-1958)", "ViTri":"Phú Nhuận", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1988" }
+, { "DiTich":"Lăng Võ Di Nguy", "ViTri":"Phú Nhuận", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1993" }
+, { "DiTich":"Đình Phú Nhuận", "ViTri":"Phú Nhuận", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1997" }
+, { "DiTich":"Lăng Trương Tấn Bửu", "ViTri":"Phú Nhuận", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"2004" }
+, { "DiTich":"Mộ Phan Châu Trinh", "ViTri":"Tân Bình", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1994" }
+, { "DiTich":"Địa đạo Phú Thọ Hòa", "ViTri":"Tân Bình", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1996" }
+, { "DiTich":"Chùa Giác Lâm", "ViTri":"Tân Bình", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"1988" }
+, { "DiTich":"Trại Davis", "ViTri":"P.12, Tân Bình", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2017" }
+, { "DiTich":"Đình Trường Thọ", "ViTri":"Thủ Đức", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"2002" }
+, { "DiTich":"Đình Xuân Hiệp", "ViTri":"Thủ Đức", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"2004" }
+, { "DiTich":"Giồng Cá Vồ", "ViTri":"Cần Giờ", "LoaiDiTich":"Khảo cổ", "NamCongNhan":"2000" }
+, { "DiTich":"Khu địa đạo Củ Chi", "ViTri":"Củ Chi", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1979" }
+, { "DiTich":"Địa đạo Bến Đình", "ViTri":"Củ Chi", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2004" }
+, { "DiTich":"Căn cứ Rừng Sác", "ViTri":"Cần Giờ", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2004" }
+, { "DiTich":"Địa điểm Dinh Quận Hóc Môn", "ViTri":"Hóc Môn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1993" }
+, { "DiTich":"Ngã ba Giồng", "ViTri":"Hóc Môn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2002" }
 , { "DiTich":"Chùa Bửu Lâm", "ViTri":"P.3, Tp. Mỹ Tho", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1999" }
+, { "DiTich":"Chùa Vĩnh Tràng", "ViTri":"Mỹ Phong, Tp. Mỹ Tho", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1984" }
+, { "DiTich":"Đình Điều Hòa", "ViTri":"P.2, Tp. Mỹ Tho", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2009" }
+, { "DiTich":"Chiến thắng Cổ Cò", "ViTri":"An Thái Đông, Cái Bè", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2001" }
+, { "DiTich":"Chiến thắng Ấp Bắc (2/1/1963)", "ViTri":"Tân Phú, Cai Lậy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1993" }
+, { "DiTich":"Đình Long Trung", "ViTri":"Long Trung, Cai Lậy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1999" }
+, { "DiTich":"Lăng Tứ Kiệt", "ViTri":"Tt. Cai Lậy, Cai Lậy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1999" }
+, { "DiTich":"Chiến thắng Giồng Dứa", "ViTri":"Long Định, Châu Thành", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2003" }
+, { "DiTich":"Khu di tích chiến thắng Rạch Gầm – Xoài Mút", "ViTri":"Kim Sơn, Châu Thành", "LoaiDiTich":"Lịch sử văn hóa đặc biệt", "NamCongNhan":"1993 2014" }
+, { "DiTich":"Di tích Thảm sát Chợ Giữa 1940", "ViTri":"Vĩnh Kim, Châu Thành", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2003" }
+, { "DiTich":"Đình Long Hưng", "ViTri":"Long Hưng, Châu Thành", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1995" }
+, { "DiTich":"Di chỉ Gò Thành", "ViTri":"Tân Thuận Bình, Chợ Gạo", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"12/12/1994" }
+, { "DiTich":"Mộ và đền thờ Thủ Khoa Huân", "ViTri":"Hòa Tịnh, Chợ Gạo", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1987" }
+, { "DiTich":"Lăng Trương Định", "ViTri":"Gia Thuận, Gò Công", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2004" }
+, { "DiTich":"Lăng Hoàng gia", "ViTri":"Long Hưng, Tx. Gò Công", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2/12/1992" }
+, { "DiTich":"Đình Đồng Thạnh", "ViTri":"Đồng Thạnh, Gò Công Tây", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2008" }
+, { "DiTich":"Chiến lũy Pháo Đài", "ViTri":"Phú Tân, Tân Phú Đông", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1987" }
+, { "DiTich":"Bến đò Phú Mỹ", "ViTri":"Phú Mỹ, Tân Phước", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1994" }
 , { "DiTich":"Nhà trăm cột", "ViTri":"Long Hựu Đông, Cần Đước", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1997" }
+, { "DiTich":"Chùa Phước Lâm", "ViTri":"Tân Lân, Cần Đước", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2001" }
+, { "DiTich":"Chùa Thới Bình", "ViTri":"Phước Lại, Cần Giuộc", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"22/2/1997" }
+, { "DiTich":"Chùa Tôn Thạnh", "ViTri":"Mỹ Lộc, Cần Giuộc", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"27/11/1997" }
+, { "DiTich":"Di tích khảo cổ Rạch Núi", "ViTri":"Đông Thạnh, Cần Giuộc", "LoaiDiTich":"Lịch sử khảo cổ", "NamCongNhan":"11/6/1999" }
+, { "DiTich":"Nhà cổ Thanh Phú Long", "ViTri":"Thanh Phú Long, Châu Thành", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2007" }
+, { "DiTich":"Ngã tư Đức Hòa", "ViTri":"Tt. Đức Hòa, Đức Hòa", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"05/9/1989" }
+, { "DiTich":"Căn cứ Bình Thành", "ViTri":"Bình Thành, Đức Huệ", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1998" }
+, { "DiTich":"Di tích Vàm Nhựt Tảo", "ViTri":"An Nhựt Tân, Tân Trụ", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"28/06/1996" }
+, { "DiTich":"Khu lưu niệm Luật sư Nguyễn Hữu Thọ", "ViTri":"Tt. Bến Lức, Bến Lức", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"2015" }
+, { "DiTich":"Đồn Long Khốt", "ViTri":"Thái Bình Trung, Vĩnh Hưng", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"17/5/2019" }
 , { "DiTich":"Gò Tháp", "ViTri":"Tân Kiều & Mỹ Hòa, Tháp Mười", "LoaiDiTich":"Lịch sử khảo cổ đặc biệt", "NamCongNhan":"27/9/2012" }
+, { "DiTich":"Căn cứ kháng chiến Tỉnh ủy Kiến Phong (Xẻo Quít)", "ViTri":"Mỹ Long, Mỹ Hiệp, Cao Lãnh", "LoaiDiTich":"Lịch sử", "NamCongNhan":"09/04/1992" }
+, { "DiTich":"Khu di tích Nguyễn Sinh Sắc", "ViTri":"P.4, Tp. Cao Lãnh", "LoaiDiTich":"Lịch sử", "NamCongNhan":"09/04/1992" }
+, { "DiTich":"Chiến thắng Giồng Thị Đam - Gò Quản Cung", "ViTri":"An Phước, Tân Hồng", "LoaiDiTich":"Lịch sử", "NamCongNhan":"19/01/2004" }
+, { "DiTich":"Địa điểm Cơ quan Giao bưu Thông tin vô tuyến điện Nam bộ", "ViTri":"Phú Cường, Tam Nông", "LoaiDiTich":"Lịch sử", "NamCongNhan":"03/08/2007" }
+, { "DiTich":"Chùa Kiến An Cung", "ViTri":"P.2, Tx. Sa Đéc", "LoaiDiTich":"Lịch sử kiến trúc", "NamCongNhan":"27/04/1990" }
+, { "DiTich":"Nhà ông Huỳnh Cẩm Thuận", "ViTri":"P.2, Tx. Sa Đéc", "LoaiDiTich":"Lịch sử kiến trúc", "NamCongNhan":"18/12/2009" }
+, { "DiTich":"Đình Phú Hựu", "ViTri":"Tt. Cái Tàu Hạ, Châu Thành", "LoaiDiTich":"Lịch sử kiến trúc", "NamCongNhan":"18/12/2009" }
+, { "DiTich":"Đình Tân Phú Trung", "ViTri":"Tân Phú Trung, Châu Thành", "LoaiDiTich":"Lịch sử kiến trúc", "NamCongNhan":"06/06/2012" }
+, { "DiTich":"Chùa Bửu Hưng", "ViTri":"Long Thắng, Lai Vung", "LoaiDiTich":"Lịch sử kiến trúc", "NamCongNhan":"03/08/2007" }
+, { "DiTich":"Đình Định Yên", "ViTri":"Định Yên, Lấp Vò", "LoaiDiTich":"Lịch sử kiến trúc", "NamCongNhan":"06/06/2012" }
+, { "DiTich":"Đền thờ Trần Văn Năng", "ViTri":"Tân Thạnh, Thanh Bình", "LoaiDiTich":"Lịch sử", "NamCongNhan":"19/01/2004" }
+, { "DiTich":"Vụ Thảm sát Bình Thành", "ViTri":"Tt. Thanh Bình, Thanh Bình", "LoaiDiTich":"Lịch sử", "NamCongNhan":"19/01/2004" }
+, { "DiTich":"Đình Long Khánh", "ViTri":"Long Khánh A, Hồng Ngự", "LoaiDiTich":"Lịch sử kiến trúc", "NamCongNhan":"18/12/2009" }
+, { "DiTich":"Địa điểm tập kết ra Bắc năm 1954 tại Cao Lãnh", "ViTri":"Phường 6, tp Cao Lãnh", "LoaiDiTich":"Di tích lịch sử", "NamCongNhan":"2023" }
 , { "DiTich":"Di tích Óc Eo-Ba Thê", "ViTri":"Óc Eo, Thoại Sơn", "LoaiDiTich":"Lịch sử khảo cổ đặc biệt", "NamCongNhan":"2012" }
+, { "DiTich":"Thánh đường Mubarak, ấp Châu Giang", "ViTri":"Châu Phong, Tx. Tân Châu", "LoaiDiTich":"Văn hóa nghệ thuật", "NamCongNhan":"12/12/1986" }
+, { "DiTich":"Núi Sam", "ViTri":"Núi Sam, Tx. Châu Đốc", "LoaiDiTich":"Danh thắng", "NamCongNhan":"10/07/1980" }
+, { "DiTich":"Khu chứng tích tội ác của bọn diệt chủng Pôn Pốt", "ViTri":"Tt. Ba Chúc, Tri Tôn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"10/7/1980" }
+, { "DiTich":"Gò Tháp An Lợi", "ViTri":"Châu Lăng, Tri Tôn", "LoaiDiTich":"Lịch sử", "NamCongNhan":"26/02/2008" }
+, { "DiTich":"Đình Vĩnh Ngươn", "ViTri":"Vĩnh Nguơn, Tx. Châu Đốc", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"02/06/2011" }
+, { "DiTich":"Đền thờ Quản cơ Trần Văn Thành", "ViTri":"Thạnh Mỹ Tây, Châu Phú", "LoaiDiTich":"Lịch sử", "NamCongNhan":"12/12/1986" }
+, { "DiTich":"Cột Dây Thép", "ViTri":"Long Điền A, Chợ Mới", "LoaiDiTich":"Lịch sử", "NamCongNhan":"09/01/1990" }
+, { "DiTich":"Chùa Ông Bắc", "ViTri":"Mỹ Long, Long Xuyên", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"15/06/1987" }
+, { "DiTich":"Chùa Hòa Thạnh", "ViTri":"Nhơn Hưng, Tịnh Biên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"04/08/1992" }
+, { "DiTich":"Chùa Giồng Thành", "ViTri":"Long Sơn, Tx. Tân Châu", "LoaiDiTich":"Lịch sử", "NamCongNhan":"12/12/1986" }
+, { "DiTich":"Chùa Bà Lê (Phước Hội Tự)", "ViTri":"Hội An, Chợ Mới", "LoaiDiTich":"Lịch sử", "NamCongNhan":"12/12/1986" }
+, { "DiTich":"Căn cứ Ô Tà Sóc", "ViTri":"Lương Phi, Tri Tôn", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"28/12/2001" }
+, { "DiTich":"Đình Đa Phước", "ViTri":"Đa Phước, An Phú", "LoaiDiTich":"Lịch sử", "NamCongNhan":"12/02/1999" }
+, { "DiTich":"Lăng Thoại Ngọc Hầu", "ViTri":"Núi Sam, Châu Đốc", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1997" }
 , { "DiTich":"Nhà Bảo tàng Bến Tre", "ViTri":"Phường 3, Tp. Bến Tre", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Đình An Hội và chùa Viên Minh", "ViTri":"Phường 2, Tp. Bến Tre", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Chùa Viên Giác", "ViTri":"Phường 5, Tp. Bến Tre", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Tòa thánh Cao đài Ban chỉnh", "ViTri":"Phường 6, Tp. Bến Tre", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Đình Phú Lễ", "ViTri":"Phú Lễ, Ba Tri", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"" }
+, { "DiTich":"Mộ và khu tưởng niệm Nguyễn Đình Chiểu", "ViTri":"An Đức, Ba Tri", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"2016" }
+, { "DiTich":"Mộ nhà giáo Võ Trường Toản", "ViTri":"Bảo Thạnh, Ba Tri", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Khu mộ Phan Thanh Giản", "ViTri":"Bảo Thạnh, Ba Tri", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Khu lưu niệm Đốc binh Phan Ngọc Tòng", "ViTri":"An Hiệp, Ba Tri", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Nhà thờ Cái Bông", "ViTri":"An Phú Trung, Ba Tri", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Đình Tân Hưng và mộ ông Huỳnh Văn Thiệu", "ViTri":"Châu Hưng, Bình Đại", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Các trận đánh tại ngã tư Thạnh Tân", "ViTri":"Thạnh Phước, Bình Đại", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Đình Tân Thạch", "ViTri":"Tân Thạch, Châu Thành", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"" }
+, { "DiTich":"Tòa thánh Cao đài Tiên Thiên", "ViTri":"Tiên Thủy, Châu Thành", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"" }
+, { "DiTich":"Chùa cổ Hội Tôn", "ViTri":"Quới Sơn, Châu Thành", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Nhà bia Trương Vĩnh Ký", "ViTri":"Vĩnh Thành, Chợ Lách", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Nhà thờ cổ Cái Mơn", "ViTri":"Vĩnh Thành, Chợ Lách", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Đình Bình Hòa", "ViTri":"Bình Hòa, Giồng Trôm", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"" }
+, { "DiTich":"Nhà ông Nguyễn Văn Trác", "ViTri":"Hưng Lễ, Giồng Trôm", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Các Chứng tích về cuộc thảm sát 286 người vô tội do thực dân Pháp tiến hành năm 1947", "ViTri":"Phong Nẫm, Giồng Trôm", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Đền thờ Lãnh binh Nguyễn Ngọc Thăng", "ViTri":"Mỹ Thạnh, Giồng Trôm", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Đền thờ nhà thơ Phan Văn Trị", "ViTri":"Thạnh Phú Đông, Giồng Trôm", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Khu tưởng niệm nữ tướng Nguyễn Thị Định", "ViTri":"Lương Hòa, Giồng Trôm", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Đền thờ trung tướng Đồng Văn Cống", "ViTri":"Tân Hào, Giồng Trôm", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Căn cứ Quân khu ủy Sài Gòn – Gia Định", "ViTri":"Tân Phú Tây, Mỏ Cày Bắc", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Đình Tân Ngãi", "ViTri":"Thạnh Ngãi, Mỏ Cày Bắc", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Cuộc thảm sát 129 người dân vô tội của Mỹ–Ngụy", "ViTri":"Tân Thanh Tây, Mỏ Cày Bắc", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Đồng khởi Bến Tre", "ViTri":"Định Thủy, Mỏ Cày Nam", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"2016" }
+, { "DiTich":"Chùa Tuyên Linh", "ViTri":"Minh Đức, Mỏ Cày Nam", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1994" }
+, { "DiTich":"Đình Rắn", "ViTri":"Định Thủy, Mỏ Cày Nam", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Đầu cầu tiếp nhận vũ khí Bắc – Nam", "ViTri":"Thạnh Phong, Thạnh Phú", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Nhà cổ Huỳnh Phủ (Hương Liêm) và khu mộ", "ViTri":"Đại Điền, Thạnh Phú", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Lăng thờ cá Ông", "ViTri":"Bình Đại & Thạnh Phú", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Nơi ở và hoạt động của Đại tá Phạm Ngọc Thảo", "ViTri":"P.3, Tp. Bến Tre", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2015" }
 , { "DiTich":"Văn Thánh Miếu Vĩnh Long", "ViTri":"P.4, Tp. Vĩnh Long", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"25/3/1991" }
+, { "DiTich":"Chùa Tiên Châu", "ViTri":"An Bình, Long Hồ", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"12/12/1994" }
+, { "DiTich":"Đình Long Thanh (Long Thanh Miếu Vũ)", "ViTri":"P.5, Tp. Vĩnh Long", "LoaiDiTich":"Lịch sử", "NamCongNhan":"25/3/1991" }
+, { "DiTich":"Công Thần Miếu Vĩnh Long", "ViTri":"P.5, Tp. Vĩnh Long", "LoaiDiTich":"Lịch sử", "NamCongNhan":"31/08/1998" }
+, { "DiTich":"Chùa Phước Hậu", "ViTri":"Phước Hậu, Long Hồ", "LoaiDiTich":"Lịch sử", "NamCongNhan":"xx" }
+, { "DiTich":"Thánh Tịnh Ngọc Sơn Quang", "ViTri":"Tân An Hội, Mang Thít", "LoaiDiTich":"Lịch sử", "NamCongNhan":"xx" }
+, { "DiTich":"Đình Tân Hoa", "ViTri":"Tân Hòa, Tp. Vĩnh Long", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1998" }
 , { "DiTich":"Địa điểm Chiến thắng Chi khu Ngã Năm", "ViTri":"P. 1, TX. Ngã Năm", "LoaiDiTich":"Lịch sử - Cách mạng", "NamCongNhan":"23/8/2004" }
+, { "DiTich":"Miếu Bà Chúa Xứ Mỹ Đông", "ViTri":"Mỹ Quới, TX. Ngã Năm", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2003" }
+, { "DiTich":"Đình Hòa Tú", "ViTri":"Hòa Tú I, Mỹ Xuyên", "LoaiDiTich":"Lịch sử - Cách mạng", "NamCongNhan":"16/6/1992" }
+, { "DiTich":"Đền thờ Bác Hồ", "ViTri":"An Thạnh Đông, Cù Lao Dung", "LoaiDiTich":"Lịch sử - Văn hóa", "NamCongNhan":"28/12/2001" }
+, { "DiTich":"Trường Taberd", "ViTri":"P. 6, TP. Sóc Trăng", "LoaiDiTich":"Lịch sử - Văn hóa", "NamCongNhan":"16/6/1992" }
+, { "DiTich":"Chùa Kh'leang", "ViTri":"P. 6, TP. Sóc Trăng", "LoaiDiTich":"Kiến trúc - Nghệ thuật", "NamCongNhan":"27/4/1990" }
+, { "DiTich":"Chùa Dơi", "ViTri":"P. 3, TP. Sóc Trăng", "LoaiDiTich":"Kiến trúc - Nghệ thuật", "NamCongNhan":"12/2/1999" }
+, { "DiTich":"Khu căn cứ Tỉnh ủy", "ViTri":"Mỹ Phước , Mỹ Tú", "LoaiDiTich":"Lịch sử - Cách mạng", "NamCongNhan":"11/6/1992" }
 , { "DiTich":"Đình Bình Thủy", "ViTri":"Bình Thủy, Bình Thủy", "LoaiDiTich":"Lịch sử kiến trúc", "NamCongNhan":"" }
+, { "DiTich":"Chùa Long Quang (Cần Thơ)", "ViTri":"Long Hòa, Bình Thủy", "LoaiDiTich":"Lịch sử kiến trúc", "NamCongNhan":"21/6/1993" }
+, { "DiTich":"Nhà thờ họ Dương", "ViTri":"Bình Thủy, Bình Thủy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Cơ quan đặc ủy An Nam Cộng sản Đảng 1929-1930", "ViTri":"Bùi Hữu Nghĩa, Bình Thủy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Chùa Nam Nhã", "ViTri":"Bùi Hữu Nghĩa, Bình Thủy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"25/1/1991" }
+, { "DiTich":"Mộ thủ khoa Bùi Hữu Nghĩa", "ViTri":"Bùi Hữu Nghĩa, Bình Thủy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"25/1/1994" }
+, { "DiTich":"Chùa Hội Linh (Cần Thơ) (Hội Linh cổ tự)", "ViTri":"Bùi Hữu Nghĩa, Bình Thủy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"1993" }
+, { "DiTich":"Chùa Ông", "ViTri":"Tân An, Ninh Kiều", "LoaiDiTich":"Lịch sử kiến trúc", "NamCongNhan":"1993" }
+, { "DiTich":"Khám lớn Cần Thơ", "ViTri":"Tân An, Ninh Kiều", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"28/6/1996" }
+, { "DiTich":"Mộ nhà thơ Phan Văn Trị", "ViTri":"Nhơn Ái, Phong Điền", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
 , { "DiTich":"Khu di tích Chiến thắng Tầm Vu", "ViTri":"Thạnh Xuân, Châu Thành A", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"25/1/1991" }
+, { "DiTich":"Chiến thắng Chương Thiện", "ViTri":"Vĩnh Viễn, Long Mỹ", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"2013" }
+, { "DiTich":"Đền thờ Bác Hồ", "ViTri":"Lương Tâm, Long Mỹ", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Ủy ban Liên hợp Đình chiến Nam Bộ", "ViTri":"Hiệp Thành, Tx. Ngã Bảy", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Căn cứ Tỉnh ủy Cần Thơ", "ViTri":"Phương Bình, Phụng Hiệp", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Khu trù mật Vị Thanh - Hỏa Lựu", "ViTri":"P.1, Tp. Vị Thanh", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Chiến thắng Vàm Cái Sình", "ViTri":"P.7, Tp. Vị Thanh", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
 , { "DiTich":"Địa điểm Bờ Lũy – Chùa Lò Gạch", "ViTri":"Lương Hòa, Châu Thành", "LoaiDiTich":"Khảo cổ", "NamCongNhan":"2018" }
+, { "DiTich":"Đền thờ Chủ tịch Hồ Chí Minh, Ấp Vĩnh Hội", "ViTri":"Long Đức, Tp. Trà Vinh", "LoaiDiTich":"Lịch sử", "NamCongNhan":"05/9/1989" }
+, { "DiTich":"Lưu Cừ II", "ViTri":"Lưu Nghiệp Anh, Trà Cú", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"09/01/1990" }
+, { "DiTich":"Ao Bà Om", "ViTri":"phường 8, Tp. Trà Vinh", "LoaiDiTich":"Lịch sử", "NamCongNhan":"20/7/1994" }
+, { "DiTich":"Chùa Âng", "ViTri":"phường 8, Tp. Trà Vinh", "LoaiDiTich":"Văn hóa kiến trúc tôn giáo", "NamCongNhan":"20/7/1994" }
+, { "DiTich":"Chùa Giác Linh (Chùa Dơi)", "ViTri":"Mỹ Long Bắc, Cầu Ngang", "LoaiDiTich":"Lịch sử", "NamCongNhan":"24/01/1998" }
+, { "DiTich":"Bến tiếp nhận vũ khí Cồn Tàu", "ViTri":"Trường Long Hòa, Duyên Hải", "LoaiDiTich":"Lịch sử", "NamCongNhan":"19/02/2004" }
+, { "DiTich":"Phước Minh Cung (Chùa Ông)", "ViTri":"phường 2, Tp. Trà Vinh", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"16/11/2005" }
+, { "DiTich":"Chùa Bodhicuàmani Ấp Sóc", "ViTri":"Huyền Hội, Càng Long", "LoaiDiTich":"Lịch sử", "NamCongNhan":"03/3/2009" }
+, { "DiTich":"Chùa Bodhisalaraja (Kom Pong)", "ViTri":"phường 1, Tp. Trà Vinh", "LoaiDiTich":"Lịch sử", "NamCongNhan":"23/3/2010" }
+, { "DiTich":"Chùa Pysey Vararam (Chùa Ba Si)", "ViTri":"Phương Thạnh, Càng Long", "LoaiDiTich":"Lịch sử", "NamCongNhan":"18/7/2012" }
+, { "DiTich":"Chùa Teakhinasakor Tà Lôn (Cái Cối)", "ViTri":"Long Vĩnh, Duyên Hải", "LoaiDiTich":"Lịch sử", "NamCongNhan":"18/4/2013" }
 , { "DiTich":"Chùa Cù Là", "ViTri":"Tt. Minh Lương, Châu Thành", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Chùa Tổng Quản", "ViTri":"Thới Quản, Gò Quao", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Núi Đá Dựng", "ViTri":"Mỹ Đức, Tx. Hà Tiên", "LoaiDiTich":"Danh thắng", "NamCongNhan":"" }
+, { "DiTich":"Bình San", "ViTri":"Bình San, Tx. Hà Tiên", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Thạch Động", "ViTri":"Mỹ Đức, Tx. Hà Tiên", "LoaiDiTich":"Danh thắng", "NamCongNhan":"" }
+, { "DiTich":"Mũi Nai", "ViTri":"Mỹ Đức, Tx. Hà Tiên", "LoaiDiTich":"Danh thắng", "NamCongNhan":"" }
+, { "DiTich":"Nhà tù Hà Tiên", "ViTri":"Đông Hồ, Tx. Hà Tiên", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Lăng Mạc Cửu", "ViTri":"Bình San, Tx. Hà Tiên", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Chùa Sóc Xoài", "ViTri":"Tt. Sóc Sơn, Hòn Đất", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Hòn Đất (Ba Hòn: Hòn Đất, Hòn Me và Hòn Quéo)", "ViTri":"Thổ Sơn, Hòn Đất", "LoaiDiTich":"Danh thắng", "NamCongNhan":"" }
+, { "DiTich":"Núi Mo So", "ViTri":"Bình An, Kiên Lương", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Nhà lao Cây Dừa (Nhà tù Phú Quốc)", "ViTri":"Tx. An Thới, Phú Quốc", "LoaiDiTich":"Lịch sử đặc biệt", "NamCongNhan":"2014" }
+, { "DiTich":"Chùa Tam Bảo", "ViTri":"Vĩnh Lạc, Tp. Rạch Giá", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"22/3/1988" }
+, { "DiTich":"Chùa Quan Đế", "ViTri":"Vĩnh Thanh Vân, Tp. Rạch Giá", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Đình thờ Nguyễn Trung Trực", "ViTri":"Vĩnh Thanh, Tp. Rạch Giá", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"22/3/1988" }
+, { "DiTich":"Chùa Phật Lớn", "ViTri":"Vĩnh Quang, Tp. Rạch Giá", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"28/12/2001" }
+, { "DiTich":"Đình Vĩnh Hòa", "ViTri":"Vĩnh Thanh Vân, Tp. Rạch Giá", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Nhà Bảo tàng Kiên Giang", "ViTri":"Vĩnh Thanh Vân, Tp. Rạch Giá", "LoaiDiTich":"Lịch sử", "NamCongNhan":"" }
+, { "DiTich":"Chùa Láng Cát", "ViTri":"Vĩnh Lạc, Tp. Rạch Giá", "LoaiDiTich":"Lịch sử văn hóa", "NamCongNhan":"" }
+, { "DiTich":"Vườn quốc gia U Minh Thượng", "ViTri":"An Minh Bắc, U Minh Thượng", "LoaiDiTich":"Danh thắng", "NamCongNhan":"2002" }
 , { "DiTich":"Đồng Nọc Nạng", "ViTri":"Phong Thạnh A, TX. Giá Rai", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1991" }
+, { "DiTich":"Tháp Vĩnh Hưng", "ViTri":"Vĩnh Hưng A, H. Vĩnh Lợi", "LoaiDiTich":"Kiến trúc", "NamCongNhan":"1992" }
+, { "DiTich":"Đền thờ Chủ tịch Hồ Chí Minh (Bạc Liêu)", "ViTri":"Châu Thới, H. Vĩnh Lợi", "LoaiDiTich":"Lịch sử", "NamCongNhan":"1998" }
+, { "DiTich":"Đình An Trạch", "ViTri":"Phường 5, TP. Bạc Liêu", "LoaiDiTich":"Kiến trúc", "NamCongNhan":"2000" }
+, { "DiTich":"Thành Hoàng Cổ Miếu (Chùa Minh)", "ViTri":"Phường 3, TP. Bạc Liêu", "LoaiDiTich":"Kiến trúc", "NamCongNhan":"2000" }
+, { "DiTich":"Phước Đức Cổ Miếu (Chùa Bang)", "ViTri":"Phường 3, TP. Bạc Liêu", "LoaiDiTich":"Kiến trúc", "NamCongNhan":"2000" }
+, { "DiTich":"Phước Đức Cổ Miếu (Miếu Ông Bổn)", "ViTri":"Phường 8, TP. Bạc Liêu", "LoaiDiTich":"Kiến trúc", "NamCongNhan":"2005" }
+, { "DiTich":"Chùa Kro Pum Mean Chey Kos Thum (chùa Cỏ Thum)", "ViTri":"Ninh Thạnh Lợi, H. Hồng Dân", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2006" }
+, { "DiTich":"Căn cứ Cái Chanh", "ViTri":"Ninh Thạnh Lợi, H. Hồng Dân", "LoaiDiTich":"Quốc gia đặc biệt", "NamCongNhan":"2020" }
+, { "DiTich":"Địa điểm trận Giồng Bốm (1946)", "ViTri":"Phong Thạnh Tây, TX. Giá Rai", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2021" }
 , { "DiTich":"Chùa Phật Tổ (Quan Âm Cổ Tự)", "ViTri":"Thành phố Cà Mau", "LoaiDiTich":"Văn hóa kiến trúc", "NamCongNhan":"2016" }
+, { "DiTich":"Đình Tân Hưng", "ViTri":"Thành phố Cà Mau", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2016" }
+, { "DiTich":"Nhà Dây Thép", "ViTri":"Thành phố Cà Mau", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2016" }
+, { "DiTich":"Hồng Anh Thư Quán", "ViTri":"Thành phố Cà Mau", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2016" }
+, { "DiTich":"Bến Vàm Lũng (Đường Hồ Chí Minh trên biển)", "ViTri":"Tân An, Ngọc Hiển", "LoaiDiTich":"Lịch sử cách mạng", "NamCongNhan":"10/11/2010" }
+, { "DiTich":"Quần đảo Hòn Khoai: Hải Đăng, Bãi lớn, Bãi nhỏ", "ViTri":"Đất Mũi, Ngọc Hiển", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2016" }
+, { "DiTich":"Chùa Cao Dân", "ViTri":"Tân Lộc, Thới Bình", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2018" }
+, { "DiTich":"Sở Giáo dục Nam Bộ", "ViTri":"Nguyễn Phích, U Minh", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2017" }
+, { "DiTich":"Địa điểm chứng tích tội ác Mỹ - Ngụy ở Biệt khu Hải Yến - Bình Hưng", "ViTri":"Tân Hải, Phú Tân", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2016" }
+, { "DiTich":"Các địa điểm thuộc Xứ ủy Nam Bộ - Trung ương Cục miền Nam (1949-1955)", "ViTri":"Trần Văn Thời", "LoaiDiTich":"Lịch sử cách mạng", "NamCongNhan":"10/11/2010" }
+, { "DiTich":"Địa điểm Chiến thắng Đầm Dơi - Cái Nước - Chà Là (1963)", "ViTri":"Trần Phán, Đầm Dơi", "LoaiDiTich":"Lịch sử", "NamCongNhan":"2016" }
 ]

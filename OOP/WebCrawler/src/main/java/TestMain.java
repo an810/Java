@@ -46,16 +46,12 @@ public class TestMain
         {
             throw new RuntimeException(e);
         }
-//        System.out.println(doc);
-        Elements cacDiTich = doc.select("table.wikitable tbody");
+        Elements cacDiTich = doc.select("table.wikitable tr");
         System.out.println(cacDiTich);
         for (Element element : cacDiTich)
         {
-            Elements sups = cacDiTich.select("sup");
-            for (Element sup : sups)
-            {
-                sup.remove();
-            }
+            Elements sups = element.select("sup");
+            sups.remove();
 
             String diTich;
             String viTri;
@@ -63,16 +59,16 @@ public class TestMain
             String namCongNhan;
 
             Elements diTichAttributes = element.select("td");
-//            if (diTichAttributes.size() != 30)
-//            {
-//                continue;
-//            }
-
+            if (diTichAttributes.size() != 5) {
+                continue;
+            }
             diTich = diTichAttributes.get(0).text();
             viTri = diTichAttributes.get(1).text();
             loaiDiTich = diTichAttributes.get(2).text();
             namCongNhan = diTichAttributes.get(3).text();
             diTichList.add(new DiTich(diTich, viTri, loaiDiTich, namCongNhan));
+
+
         }
 
         return diTichList;
