@@ -34,7 +34,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "release/lab04",
     "jdk.selected.JAVA_MODULE": "openjdk-19",
     "last_opened_file_path": "D:/Code/GitHub/Java/OOP Lab/Week_3",
     "node.js.detected.package.eslint": "true",
@@ -54,6 +54,7 @@
       <updated>1683990026238</updated>
       <workItem from="1683990027229" duration="17000" />
       <workItem from="1683990491277" duration="2072000" />
+      <workItem from="1685029784735" duration="36000" />
     </task>
     <servers />
   </component>

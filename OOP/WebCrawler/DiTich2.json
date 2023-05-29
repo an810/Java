@@ -1,0 +1,769 @@
+[
+{ 
+"DiTich":"Khu trung tâm Hoàng thành Thăng Long - Hà Nội", 
+"ViTri":"Quận Ba Đình, thành phố Hà Nội", 
+"LoaiDiTich":"Di tích lịch sử, khảo cổ", 
+"NamCongNhan":"Được UNESCO công nhận là Di sản văn hóa thế giới năm 2010" }
+, 
+{ 
+"DiTich":"Vườn quốc gia Phong Nha - Kẻ Bàng", 
+"ViTri":"Huyện Bố Trạch và huyện Minh Hóa, tỉnh Quảng Bình",
+"LoaiDiTich":"Di tích lịch sử, danh lam thắng cảnh", 
+"NamCongNhan":"Được UNESCO công nhận là Di sản thiên nhiên thế giới năm 2003." }
+, 
+{ 
+"DiTich":"Chiến trường Điện Biên Phủ", 
+"ViTri":"Thành phố Điện Biên Phủ, huyện Điện Biên và huyện Tuần Giáo, tỉnh Điện Biên", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Quần thể di tích Cố đô Huế", 
+"ViTri":"Thành phố Huế, thị xã Hương Thủy, thị xã Hương Trà, huyện Phú Vang, huyện Phú Lộc, tỉnh Thừa Thiên Huế", 
+"LoaiDiTich":"Di tích lịch sử, kiến trúc nghệ thuật", 
+"NamCongNhan":"Được UNESCO công nhận là Di sản văn hóa thế giới năm 1993" }
+, 
+{ 
+"DiTich":"Khu lưu niệm Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch", 
+"ViTri":"Quận Ba Đình, thành phố Hà Nội", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Dinh Độc Lập", 
+"ViTri":"Quận 1, Thành phố Hồ Chí Minh", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Đền Hùng", 
+"ViTri":"Thành phố Việt Trì, huyện Lâm Thao, huyện Phù Ninh, tỉnh Phú Thọ", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Đô thị cổ Hội An", 
+"ViTri":"Thành phố Hội An, tỉnh Quảng Nam", 
+"LoaiDiTich":"Di tích kiến trúc nghệ thuật", 
+"NamCongNhan":"Được UNESCO công nhận là Di sản văn hóa thế giới năm 1999" }
+, 
+{ 
+"DiTich":"Khu đền tháp Mỹ Sơn", 
+"ViTri":"Huyện Duy Xuyên, tỉnh Quảng Nam", 
+"LoaiDiTich":"Di tích kiến trúc nghệ thuật", 
+"NamCongNhan":"Được UNESCO công nhận là Di sản văn hóa thế giới năm 1999" }
+, 
+{ 
+"DiTich":"Vịnh Hạ Long", 
+"ViTri":"Thành phố Hạ Long, thành phố Cẩm Phả, huyện Vân Đồn, tỉnh Quảng Ninh", 
+"LoaiDiTich":"Danh lam thắng cảnh", 
+"NamCongNhan":"Được UNESCO công nhận là Di sản thiên nhiên thế giới năm 1994" }
+, 
+{ 
+"DiTich":"Cố đô Hoa Lư", 
+"ViTri":"Huyện Hoa Lư, tỉnh Ninh Bình", 
+"LoaiDiTich":"Di tích lịch sử, kiến trúc nghệ thuật", 
+"NamCongNhan":"Nằm trong Quần thể danh thắng Tràng An, Di sản văn hóa và thiên nhiên thế giới năm 2014" }
+, 
+{ 
+"DiTich":"Khu lưu niệm Chủ tịch Tôn Đức Thắng tại Mỹ Hòa Hưng", 
+"ViTri":"Thành phố Long Xuyên, tỉnh An Giang", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Căn cứ Trung ương cục miền Nam", 
+"ViTri":"Huyện Tân Biên, tỉnh Tây Ninh", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Nhà tù Côn Đảo", 
+"ViTri":"Huyện Côn Đảo, tỉnh Bà Rịa – Vũng Tàu", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Những địa điểm Khởi nghĩa Yên Thế", 
+"ViTri":"Huyện Yên Thế, huyện Việt Yên, huyện Tân Yên và huyện Yên Dũng, tỉnh Bắc Giang", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Pác Bó", 
+"ViTri":"Huyện Hà Quảng, tỉnh Cao Bằng", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Chiến khu Tân Trào", 
+"ViTri":"Huyện Sơn Dương và huyện Yên Sơn, tỉnh Tuyên Quang", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Thành nhà Hồ", 
+"ViTri":"Huyện Vĩnh Lộc, tỉnh Thanh Hóa", 
+"LoaiDiTich":"Di tích lịch sử, kiến trúc nghệ thuật, khảo cổ", 
+"NamCongNhan":"Được UNESCO công nhận là Di sản văn hóa thế giới năm 2011" }
+, 
+{ 
+"DiTich":"Tràng An - Tam Cốc - Bích Động", 
+"ViTri":"Thành phố Ninh Bình, huyện Hoa Lư, huyện Gia Viễn, huyện Nho Quan, tỉnh Ninh Bình", 
+"LoaiDiTich":"Danh lam thắng cảnh", 
+"NamCongNhan":"Nằm trong Quần thể danh thắng Tràng An, Di sản văn hóa và thiên nhiên thế giới năm 2014" }
+, 
+{ 
+"DiTich":"Văn Miếu - Quốc Tử Giám", 
+"ViTri":"Quận Ba Đình và quận Đống Đa, thành phố Hà Nội", 
+"LoaiDiTich":"Di tích lịch sử, kiến trúc nghệ thuật", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Khu lưu niệm Chủ tịch Hồ Chí Minh tại Kim Liên", 
+"ViTri":"Huyện Nam Đàn, tỉnh Nghệ An", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"An toàn khu (ATK) Định Hóa", 
+"ViTri":"Huyện Định Hóa, tỉnh Thái Nguyên", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Côn Sơn - Kiếp Bạc", 
+"ViTri":"Thành phố Chí Linh, tỉnh Hải Dương", 
+"LoaiDiTich":"Di tích lịch sử, kiến trúc nghệ thuật", 
+"NamCongNhan":"Dự kiến đề cử Quần thể di tích và danh thắng Yên Tử làm Di sản văn hóa thế giới của UNESCO" }
+, 
+{ 
+"DiTich":"Cổ Loa", 
+"ViTri":"Huyện Đông Anh, thành phố Hà Nội", 
+"LoaiDiTich":"Di tích lịch sử, kiến trúc nghệ thuật, khảo cổ", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Đền Trần và Chùa Phổ Minh", 
+"ViTri":"Thành phố Nam Định, tỉnh Nam Định ,", 
+"LoaiDiTich":"Di tích lịch sử, kiến trúc nghệ thuật", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Bạch Đằng", 
+"ViTri":"Thị xã Quảng Yên, thành phố Uông Bí, tỉnh Quảng Ninh", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"Dự kiến đề cử Quần thể di tích và danh thắng Yên Tử làm Di sản văn hóa thế giới của UNESCO" }
+, 
+{ 
+"DiTich":"Yên Tử", 
+"ViTri":"Thành phố Uông Bí, thị xã Đông Triều, tỉnh Quảng Ninh", 
+"LoaiDiTich":"Di tích lịch sử, danh lam thắng cảnh", 
+"NamCongNhan":"Dự kiến đề cử Quần thể di tích và danh thắng Yên Tử làm Di sản văn hóa thế giới của UNESCO" }
+, 
+{ 
+"DiTich":"Lam Kinh", 
+"ViTri":"Huyện Thọ Xuân và huyện Ngọc Lặc, tỉnh Thanh Hóa", 
+"LoaiDiTich":"Di tích lịch sử, kiến trúc nghệ thuật", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Khu lưu niệm Nguyễn Du", 
+"ViTri":"Huyện Nghi Xuân, tỉnh Hà Tĩnh", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Chùa Keo", 
+"ViTri":"Huyện Vũ Thư, tỉnh Thái Bình", 
+"LoaiDiTich":"Di tích kiến trúc nghệ thuật", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Óc Eo – Ba Thê", 
+"ViTri":"Huyện Thoại Sơn, tỉnh An Giang", 
+"LoaiDiTich":"Di tích kiến trúc nghệ thuật, khảo cổ", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Gò Tháp", 
+"ViTri":"Huyện Tháp Mười, tỉnh Đồng Tháp", 
+"LoaiDiTich":"Di tích kiến trúc nghệ thuật, khảo cổ", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Hồ Ba Bể", 
+"ViTri":"Huyện Ba Bể, tỉnh Bắc Kạn", 
+"LoaiDiTich":"Danh lam thắng cảnh", 
+"NamCongNhan":"Dự kiến đề cử Di sản thiên nhiên thế giới của UNESCO" }
+, 
+{ 
+"DiTich":"Vườn quốc gia Cát Tiên", 
+"ViTri":"Tỉnh Đồng Nai, tỉnh Bình Phước, tỉnh Lâm Đồng", 
+"LoaiDiTich":"Danh lam thắng cảnh", 
+"NamCongNhan":"Dự kiến đề cử Di sản thiên nhiên thế giới" }
+, 
+{ 
+"DiTich":"Đường Trường Sơn - Đường Hồ Chí Minh", 
+"ViTri":"Tỉnh Nghệ An, tỉnh Hà Tĩnh, tỉnh Quảng Bình, tỉnh Quảng Trị, tỉnh Thừa Thiên Huế, tỉnh Quảng Nam, tỉnh Kon Tum, tỉnh Gia Lai, tỉnh Đắk Lắk, tỉnh Đắk Nông, tỉnh Bình Phước", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Đền Hai Bà Trưng", 
+"ViTri":"Huyện Mê Linh, thành phố Hà Nội", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Đền Hát Môn", 
+"ViTri":"Huyện Phúc Thọ, thành phố Hà Nội", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Khu di tích nhà Trần tại Đông Triều", 
+"ViTri":"Thị xã Đông Triều, tỉnh Quảng Ninh", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Rừng Trần Hưng Đạo", 
+"ViTri":"Huyện Nguyên Bình, tỉnh Cao Bằng", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Đôi bờ Hiền Lương - Bến Hải", 
+"ViTri":"Huyện Gio Linh và huyện Vĩnh Linh, tỉnh Quảng Trị", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Thành cổ Quảng Trị và những địa điểm lưu niệm sự kiện 81 ngày đêm năm 1972", 
+"ViTri":"Thị xã Quảng Trị, huyện Triệu Phong và huyện Hải Lăng, tỉnh Quảng Trị", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Chiến thắng Chương Thiện", 
+"ViTri":"Thành phố Vị Thanh và huyện Long Mỹ, tỉnh Hậu Giang", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Đền Phù Đổng", 
+"ViTri":"Huyện Gia Lâm, thành phố Hà Nội", 
+"LoaiDiTich":"Di tích lịch sử, kiến trúc nghệ thuật", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Hồ Hoàn Kiếm và Đền Ngọc Sơn", 
+"ViTri":"Quận Hoàn Kiếm, thành phố Hà Nội", 
+"LoaiDiTich":"Di tích lịch sử, danh lam thắng cảnh", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Đình Tây Đằng", 
+"ViTri":"Huyện Ba Vì, thành phố Hà Nội", 
+"LoaiDiTich":"Di tích kiến trúc nghệ thuật", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Chùa Bút Tháp", 
+"ViTri":"Huyện Thuận Thành, tỉnh Bắc Ninh", 
+"LoaiDiTich":"Di tích kiến trúc nghệ thuật", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Chùa Dâu", 
+"ViTri":"Huyện Thuận Thành, tỉnh Bắc Ninh", 
+"LoaiDiTich":"Di tích kiến trúc nghệ thuật", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Quần đảo Cát Bà", 
+"ViTri":"Huyện Cát Hải, thành phố Hải Phòng", 
+"LoaiDiTich":"Danh lam thắng cảnh", 
+"NamCongNhan":"Dự kiến đề cử Di sản thiên nhiên thế giới" }
+, 
+{ 
+"DiTich":"Khu lăng mộ và đền thờ các vị vua triều Lý", 
+"ViTri":"Thị xã Từ Sơn, tỉnh Bắc Ninh", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Khu lăng mộ và đền thờ các vị vua triều Trần", 
+"ViTri":"Huyện Hưng Hà, tỉnh Thái Bình", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Khu đền thờ Tây Sơn Tam Kiệt", 
+"ViTri":"Huyện Tây Sơn, tỉnh Bình Định", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Địa điểm Chiến thắng Rạch Gầm - Xoài Mút", 
+"ViTri":"Huyện Châu Thành, tỉnh Tiền Giang", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Nhà tù Sơn La", 
+"ViTri":"Thành phố Sơn La, tỉnh Sơn La", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Nhà tù Phú Quốc", 
+"ViTri":"Thành phố Phú Quốc, tỉnh Kiên Giang", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Địa đạo Vĩnh Mốc và hệ thống làng hầm Vĩnh Linh", 
+"ViTri":"Huyện Vĩnh Linh, tỉnh Quảng Trị", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Khu di tích Bà Triệu", 
+"ViTri":"Huyện Hậu Lộc, tỉnh Thanh Hóa", 
+"LoaiDiTich":"Di tích lịch sử, kiến trúc nghệ thuật", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Chùa Thầy và khu núi đá Sài Sơn, Hoàng Xá, Phượng Cách", 
+"ViTri":"Huyện Quốc Oai, thành phố Hà Nội", 
+"LoaiDiTich":"Di tích lịch sử, kiến trúc nghệ thuật", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Chùa Tây Phương", 
+"ViTri":"Huyện Thạch Thất, thành phố Hà Nội", 
+"LoaiDiTich":"Di tích kiến trúc nghệ thuật", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Chùa Phật Tích", 
+"ViTri":"Huyện Tiên Du, tỉnh Bắc Ninh", 
+"LoaiDiTich":"Di tích lịch sử, kiến trúc nghệ thuật", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Đền Sóc", 
+"ViTri":"Huyện Sóc Sơn, thành phố Hà Nội", 
+"LoaiDiTich":"Di tích kiến trúc nghệ thuật", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Khu di tích Phố Hiến", 
+"ViTri":"Thành phố Hưng Yên, tỉnh Hưng Yên", 
+"LoaiDiTich":"Di tích lịch sử, kiến trúc nghệ thuật", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Cát Tiên", 
+"ViTri":"Huyện Cát Tiên, tỉnh Lâm Đồng", 
+"LoaiDiTich":"Di tích khảo cố", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Đền thờ Nguyễn Bỉnh Khiêm", 
+"ViTri":"Huyện Vĩnh Bảo, thành phố Hải Phòng", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Đền Trần Thương", 
+"ViTri":"Huyện Lý Nhân, tỉnh Hà Nam", 
+"LoaiDiTich":"Di tích lịch sử, kiến trúc nghệ thuật", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Tháp Bình Sơn", 
+"ViTri":"Huyện Sông Lô, tỉnh Vĩnh Phúc", 
+"LoaiDiTich":"Di tích kiến trúc nghệ thuật", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Tây Thiên - Tam Đảo", 
+"ViTri":"Huyện Tam Đảo, tỉnh Vĩnh Phúc", 
+"LoaiDiTich":"Di tích lịch sử, danh lam thắng cảnh", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Căn cứ Bộ chỉ huy Quân giải phóng miền Nam Việt Nam", 
+"ViTri":"Huyện Lộc Ninh, tỉnh Bình Phước", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Chùa Vĩnh Nghiêm", 
+"ViTri":"Huyện Yên Dũng, tỉnh Bắc Giang", 
+"LoaiDiTich":"Di tích lịch sử, kiến trúc nghệ thuật", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Địa đạo Củ Chi", 
+"ViTri":"Huyện Củ Chi, Thành phố Hồ Chí Minh", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Tháp Chăm Dương Long", 
+"ViTri":"Huyện Tây Sơn, tỉnh Bình Định", 
+"LoaiDiTich":"Di tích kiến trúc nghệ thuật", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Hang Con Moong và các di tích phụ cận", 
+"ViTri":"Huyện Thạch Thành, tỉnh Thanh Hóa", 
+"LoaiDiTich":"Di tích khảo cổ", 
+"NamCongNhan":"Dự kiến đề cử Di sản văn hóa thế giới" }
+, 
+{ 
+"DiTich":"Mộ cự thạch Hàng Gòn", 
+"ViTri":"Thành phố Long Khánh, tỉnh Đồng Nai", 
+"LoaiDiTich":"Di tích khảo cổ", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Khởi nghĩa Bắc Sơn", 
+"ViTri":"Huyện Bắc Sơn, tỉnh Lạng Sơn", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Địa điểm diễn ra Đại hội Đại biểu toàn quốc lần thứ II của Đảng", 
+"ViTri":"Huyện Chiêm Hóa, tỉnh Tuyên Quang", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"An toàn khu (ATK) Chợ Đồn", 
+"ViTri":"Huyện Chợ Đồn, tỉnh Bắc Kạn", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Chùa Bổ Đà", 
+"ViTri":"Huyện Việt Yên, tỉnh Bắc Giang", 
+"LoaiDiTich":"Di tích lịch sử, kiến trúc nghệ thuật", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Quần thể An Phụ - Kính Chủ - Nhẫm Dương", 
+"ViTri":"Thị xã Kinh Môn, tỉnh Hải Dương", 
+"LoaiDiTich":"Di tích lịch sử, danh lam thắng cảnh", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Chùa Keo Hành Thiện gồm Chùa Keo trong và Chùa Keo ngoài", 
+"ViTri":"Huyện Xuân Trường, tỉnh Nam Định", 
+"LoaiDiTich":"Di tích kiến trúc nghệ thuật", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Khu lưu niệm Phan Bội Châu tại Nam Đàn", 
+"ViTri":"Huyện Nam Đàn, tỉnh Nghệ An", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Phật viện Đồng Dương", 
+"ViTri":"Huyện Thăng Bình, tỉnh Quảng Nam", 
+"LoaiDiTich":"Di tích khảo cổ", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Địa điểm Chiến thắng Đăk Tô-Tân Cảnh", 
+"ViTri":"Huyện Đăk Tô, tỉnh Kon Tum", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Tháp Hòa Lai", 
+"ViTri":"Huyện Thuận Bắc, tỉnh Ninh Thuận", 
+"LoaiDiTich":"Di tích kiến trúc nghệ thuật, khảo cổ", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Tháp Po Klong Garai", 
+"ViTri":"Thành phố Phan Rang – Tháp Chàm, tỉnh Ninh Thuận", 
+"LoaiDiTich":"Di tích kiến trúc nghệ thuật", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Đồng Khởi Bến Tre", 
+"ViTri":"Huyện Mỏ Cày Nam, tỉnh Bến Tre", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Mộ và Khu lưu niệm Nguyễn Đình Chiểu", 
+"ViTri":"Huyện Ba Tri, tỉnh Bến Tre", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Đền Cửa Ông", 
+"ViTri":"Thành phố Cẩm Phả và huyện Vân Đồn, tỉnh Quảng Ninh", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Văn miếu Mao Điền", 
+"ViTri":"Huyện Cẩm Giàng, tỉnh Hải Dương", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Địa điểm khởi nghĩa Ba Tơ", 
+"ViTri":"Huyện Ba Tơ, tỉnh Quảng Ngãi", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Địa điểm Chiến thắng Biên giới năm 1950", 
+"ViTri":"Huyện Thạch An, tỉnh Cao Bằng", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Chùa Đọi Sơn", 
+"ViTri":"Thị xã Duy Tiên, tỉnh Hà Nam", 
+"LoaiDiTich":"Di tích lịch sử, kiến trúc nghệ thuật", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Đền Xưa - Chùa Giám - Đền Bia", 
+"ViTri":"Huyện Cẩm Giàng, tỉnh Hải Dương", 
+"LoaiDiTich":"Di tích lịch sử, kiến trúc nghệ thuật", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Thành Điện Hải", 
+"ViTri":"Quận Hải Châu, thành phố Đà Nẵng", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Quần thể Hương Sơn (Chùa Hương)", 
+"ViTri":"Huyện Mỹ Đức, thành phố Hà Nội", 
+"LoaiDiTich":"Di tích lịch sử, danh lam thắng cảnh", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Đình Hoành Sơn", 
+"ViTri":"Huyện Nam Đàn, tỉnh Nghệ An", 
+"LoaiDiTich":"Di tích kiến trúc nghệ thuật", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Đình Chèm", 
+"ViTri":"Quận Bắc Từ Liêm, thành phố Hà Nội", 
+"LoaiDiTich":"Di tích kiến trúc nghệ thuật", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Tháp Nhạn", 
+"ViTri":"Thành phố Tuy Hòa, tỉnh Phú Yên", 
+"LoaiDiTich":"Di tích kiến trúc nghệ thuật", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Chùa Thái Lạc", 
+"ViTri":"Huyện Văn Lâm, tỉnh Hưng Yên", 
+"LoaiDiTich":"Di tích kiến trúc nghệ thuật", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Đền thờ Lê Hoàn", 
+"ViTri":"Huyện Thọ Xuân, tỉnh Thanh Hóa", 
+"LoaiDiTich":"Di tích kiến trúc nghệ thuật", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Đình Tường Phiêu", 
+"ViTri":"Huyện Phúc Thọ, thành phố Hà Nội", 
+"LoaiDiTich":"Di tích kiến trúc nghệ thuật", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Đình Thổ Tang", 
+"ViTri":"Huyện Vĩnh Tường, tỉnh Vĩnh Phúc", 
+"LoaiDiTich":"Di tích kiến trúc nghệ thuật", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Đình So", 
+"ViTri":"Huyện Quốc Oai, thành phố Hà Nội", 
+"LoaiDiTich":"Di tích kiến trúc nghệ thuật", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Gò Đống Đa", 
+"ViTri":"Quận Đống Đa, thành phố Hà Nội", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Nhà đày Buôn Ma Thuột", 
+"ViTri":"Thành phố Buôn Ma Thuột, tỉnh Đắk Lắk", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Ngũ Hành Sơn", 
+"ViTri":"Quận Ngũ Hành Sơn, thành phố Đà Nẵng", 
+"LoaiDiTich":"Danh lam thắng cảnh", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Khu bảo tồn thiên nhiên Na Hang – Lâm Bình", 
+"ViTri":"Huyện Na Hang và huyện Lâm Bình, tỉnh Tuyên Quang", 
+"LoaiDiTich":"Danh lam thắng cảnh", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Chi Lăng", 
+"ViTri":"Huyện Chi Lăng, tỉnh Lạng Sơn", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Địa điểm Chiến thắng Xương Giang", 
+"ViTri":"Thành phố Bắc Giang, tỉnh Bắc Giang", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Núi Non Nước", 
+"ViTri":"Thành phố Ninh Bình, tỉnh Ninh Bình", 
+"LoaiDiTich":"Di tích lịch sử, danh lam thắng cảnh", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Sầm Sơn", 
+"ViTri":"Thành phố Sầm Sơn, tỉnh Thanh Hóa", 
+"LoaiDiTich":"Di tích lịch sử, danh lam thắng cảnh", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Ruộng bậc thang Mù Cang Chải", 
+"ViTri":"Huyện Mù Cang Chải, tỉnh Yên Bái", 
+"LoaiDiTich":"Danh lam thắng cảnh", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Đình Đại Phùng", 
+"ViTri":"Huyện Đan Phượng, thành phố Hà Nội", 
+"LoaiDiTich":"Di tích kiến trúc nghệ thuật", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Đền - Chùa - Đình Hai Bà Trưng", 
+"ViTri":"Quận Hai Bà Trưng, thành phố Hà Nội", 
+"LoaiDiTich":"Di tích kiến trúc nghệ thuật", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Hệ thống di tích lưu niệm Chủ tịch Hồ Chí Minh tại Thừa Thiên Huế", 
+"ViTri":"Thành phố Huế, tỉnh Thừa Thiên Huế", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"An toàn khu II Hiệp Hòa", 
+"ViTri":"Huyện Hiệp Hòa, tỉnh Bắc Giang", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Căn cứ Cái Chanh", 
+"ViTri":"Huyện Hồng Dân, tỉnh Bạc Liêu", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Đền An Xá", 
+"ViTri":"Huyện Tiên Lữ, tỉnh Hưng Yên", 
+"LoaiDiTich":"Di tích kiến trúc nghệ thuật", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Đình Hạ Hiệp", 
+"ViTri":"Huyện Phúc Thọ, thành phố Hà Nội", 
+"LoaiDiTich":"Di tích kiến trúc nghệ thuật", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Lăng mộ và Đền thờ Nguyễn Xí", 
+"ViTri":"Huyện Nghi Lộc, tỉnh Nghệ An", 
+"LoaiDiTich":"Di tích lịch sử, kiến trúc nghệ thuật", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Gành Đá Đĩa", 
+"ViTri":"Huyện Tuy An, tỉnh Phú Yên", 
+"LoaiDiTich":"Danh lam thắng cảnh", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Quần thể di tích Tây Sơn Thượng Đạo", 
+"ViTri":"Thị xã An Khê, huyện Đak Pơ, huyện Kbang và huyện Kông Chro, tỉnh Gia Lai", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Khu lưu niệm Chủ tịch Hồ Chí Minh trên đảo Cô Tô", 
+"ViTri":"Huyện Cô Tô, tỉnh Quảng Ninh", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Khu di tích lịch sử cách mạng Việt Nam - Lào", 
+"ViTri":"Huyện Yên Châu, tỉnh Sơn La", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Thăng Long tứ trấn", 
+"ViTri":"Quận Ba Đình, quận Hoàn Kiếm và quận Đống Đa, thành phố Hà Nội", 
+"LoaiDiTich":"Di tích lịch sử, kiến trúc nghệ thuật", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Rộc Tưng – Gò Đá", 
+"ViTri":"Thị xã An Khê, tỉnh Gia Lai", 
+"LoaiDiTich":"Di tích khảo cổ", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Văn hóa Sa Huỳnh", 
+"ViTri":"Thị xã Đức Phổ, tỉnh Quảng Ngãi", 
+"LoaiDiTich":"Di tích khảo cổ", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Cụm đình Hương Canh", 
+"ViTri":"Huyện Bình Xuyên, tỉnh Vĩnh Phúc", 
+"LoaiDiTich":"Di tích kiến trúc nghệ thuật", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Đền thờ Vua Mai Hắc Đế", 
+"ViTri":"Huyện Nam Đàn, tỉnh Nghệ An", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+, 
+{ 
+"DiTich":"Địa điểm Chiến thắng Ấp Bắc", 
+"ViTri":"Thị xã Cai Lậy, tỉnh Tiền Giang", 
+"LoaiDiTich":"Di tích lịch sử", 
+"NamCongNhan":"" }
+]
