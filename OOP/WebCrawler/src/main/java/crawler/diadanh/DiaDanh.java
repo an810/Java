@@ -1,3 +1,5 @@
+package crawler.diadanh;
+
 import java.util.Set;
 
 public class DiaDanh {

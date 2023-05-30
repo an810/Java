@@ -1,3 +1,6 @@
+package crawler.diadanh;
+
+import crawler.diadanh.DiaDanh;
 import org.jsoup.*;
 import org.jsoup.nodes.*;
 import org.jsoup.select.*;
