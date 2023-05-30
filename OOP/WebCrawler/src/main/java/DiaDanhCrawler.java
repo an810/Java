@@ -40,7 +40,7 @@ public class DiaDanhCrawler {
                     .get();
 
             // Collect data
-            ArrayList<String> nhanVatLienQuan = new ArrayList<>();
+            Set<String> nhanVatLienQuan = new HashSet<>();
             DiaDanh diaDanh = new DiaDanh();
             // Get title
             Element titleElement = doc.selectFirst("h2");
@@ -49,16 +49,19 @@ public class DiaDanhCrawler {
             }
 
             // Get description
-            StringBuffer desBuffer = new StringBuffer();
+//            StringBuffer desBuffer = new StringBuffer();
             Elements desElements = doc.select("div.com-content-article__body > p");
             for(Element element : desElements) {
-                desBuffer.append(element.text());
-                desBuffer.append("\n");
+                String text = element.text();
+                if (text.length() > 50) {
+                    diaDanh.setDescription(text);
+                    break;
+                }
             }
-            diaDanh.setDescription(String.valueOf(desBuffer));
+//            diaDanh.setDescription(String.valueOf(desBuffer));
 
             // Relative person
-            Elements refElements = doc.select("a[href*=/nhan-vat/]");
+            Elements refElements = desElements.select("a[href*=/nhan-vat/]");
             for (Element refElement : refElements) {
                 String name = refElement.text();
                 nhanVatLienQuan.add(name);

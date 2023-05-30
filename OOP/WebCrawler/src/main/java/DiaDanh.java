@@ -1,9 +1,9 @@
-import java.util.ArrayList;
+import java.util.Set;
 
 public class DiaDanh {
     private String tenDiaDanh;
     private String description;
-    private ArrayList<String> nhanVatLienQuan;
+    private Set<String> nhanVatLienQuan;
 
     public DiaDanh() {
 
@@ -31,11 +31,11 @@ public class DiaDanh {
         this.description = description;
     }
 
-    public ArrayList<String> getNhanVatLienQuan() {
+    public Set<String> getNhanVatLienQuan() {
         return nhanVatLienQuan;
     }
 
-    public void setNhanVatLienQuan(ArrayList<String> nhanVatLienQuan) {
+    public void setNhanVatLienQuan(Set<String> nhanVatLienQuan) {
         this.nhanVatLienQuan = nhanVatLienQuan;
     }
 
