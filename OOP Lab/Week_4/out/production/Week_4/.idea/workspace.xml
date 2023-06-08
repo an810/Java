@@ -1,53 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="263cbdea-5b19-4110-ab02-f21e33f0e9cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/hust/soict/globalict/aims/Aims.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hust/soict/globalict/aims/cart/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hust/soict/globalict/aims/media/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hust/soict/globalict/aims/media/CompactDisc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hust/soict/globalict/aims/media/DigitalVideoDisc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hust/soict/globalict/aims/media/Disc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hust/soict/globalict/aims/media/Media.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hust/soict/globalict/aims/media/MediaComparatorByCostTitle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hust/soict/globalict/aims/media/MediaComparatorByTitleCost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hust/soict/globalict/aims/media/Playable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hust/soict/globalict/aims/media/Track.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hust/soict/globalict/aims/store/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hust/soict/globalict/test/cart/CartTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hust/soict/globalict/test/disc/TestingPassingParameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hust/soict/globalict/test/store/StoreTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design/AimsClassDiagram.asta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design/AimsClassDiagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Requirement/AimsUseCaseDiagram.asta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Requirement/AimsUseCaseDiagram.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AimsProject/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AimsProject/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AimsProject/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AimsProject/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AimsProject/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AimsProject/AimsProject.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AimsProject/Design/AimsClassDiagram.asta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AimsProject/Design/AimsClassDiagram.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AimsProject/Requirement/AimsUseCaseDiagram.asta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AimsProject/Requirement/AimsUseCaseDiagram.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/aims/Aims.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/aims/cart/Cart.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/aims/media/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/aims/media/CompactDisc.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/aims/media/DigitalVideoDisc.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/aims/media/Disc.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/aims/media/Media.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/aims/media/MediaComparatorByCostTitle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/aims/media/MediaComparatorByTitleCost.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/aims/media/Playable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/aims/media/Track.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/aims/store/Store.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/test/cart/CartTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/test/disc/TestingPassingParameter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/test/store/StoreTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Week_4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/answer.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hust/soict/globalict/aims/Aims.java" beforeDir="false" afterPath="$PROJECT_DIR$/hust/soict/globalict/aims/Aims.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hust/soict/globalict/aims/cart/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/hust/soict/globalict/aims/cart/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hust/soict/globalict/aims/store/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/hust/soict/globalict/aims/store/Store.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +38,10 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "topic/aims-project/add-media-class",
     "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -92,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686231626420</updated>
-      <workItem from="1686231627419" duration="113000" />
+      <workItem from="1686231627419" duration="3359000" />
     </task>
     <servers />
   </component>

@@ -8,7 +8,7 @@ public class DigitalVideoDisc extends Disc implements Playable{
     @Override
     public String toString()
     {
-        return  "DVD - " + this.getTitle() + " - " + this.getCategory() + " - " + this.getDirector()
+        return  this.getId() + " - " + this.getTitle() + " - " + this.getCategory() + " - " + this.getDirector()
                 + " - " + this.getLength() + ": " + this.getCost() + "$";
     }
 

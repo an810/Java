@@ -5,14 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="263cbdea-5b19-4110-ab02-f21e33f0e9cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Design/AimsClassDiagram.asta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design/AimsClassDiagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Requirement/AimsUseCaseDiagram.asta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Requirement/AimsUseCaseDiagram.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hust/soict/globalict/aims/Aims.java" beforeDir="false" afterPath="$PROJECT_DIR$/hust/soict/globalict/aims/Aims.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hust/soict/globalict/aims/cart/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/hust/soict/globalict/aims/cart/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hust/soict/globalict/aims/media/DigitalVideoDisc.java" beforeDir="false" afterPath="$PROJECT_DIR$/hust/soict/globalict/aims/media/DigitalVideoDisc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hust/soict/globalict/aims/media/Media.java" beforeDir="false" afterPath="$PROJECT_DIR$/hust/soict/globalict/aims/media/Media.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hust/soict/globalict/aims/store/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/hust/soict/globalict/aims/store/Store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hust/soict/globalict/test/cart/CartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/hust/soict/globalict/test/cart/CartTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_4/hust/soict/globalict/aims/Aims.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_4/hust/soict/globalict/aims/Aims.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_4/hust/soict/globalict/aims/cart/Cart.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_4/hust/soict/globalict/aims/cart/Cart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_4/hust/soict/globalict/aims/media/DigitalVideoDisc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_4/hust/soict/globalict/aims/media/DigitalVideoDisc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_4/hust/soict/globalict/aims/media/Media.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_4/hust/soict/globalict/aims/media/Media.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_4/hust/soict/globalict/aims/store/Store.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_4/hust/soict/globalict/aims/store/Store.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week_4/hust/soict/globalict/test/cart/CartTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_4/hust/soict/globalict/test/cart/CartTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +49,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
+    "project.structure.proportion": "0.12315273",
     "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
@@ -53,6 +59,17 @@
       <recent name="D:\Code\GitHub\Java\OOP Lab\Week_4" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="19" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="hust.soict.globalict.aims.Aims" />
+      <module name="Week_4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686231626420</updated>
-      <workItem from="1686231627419" duration="3359000" />
+      <workItem from="1686231627419" duration="10440000" />
     </task>
     <servers />
   </component>
@@ -70,5 +87,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hust/soict/globalict/aims/cart/Cart.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hust/soict/globalict/aims/cart/Cart.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

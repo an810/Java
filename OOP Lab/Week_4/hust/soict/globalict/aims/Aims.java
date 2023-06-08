@@ -18,7 +18,7 @@ public class Aims {
         int choice;
         do {
             showMenu();
-            choice = scanner.nextInt();
+            choice = scanner.nextInt();scanner.nextLine();
             switch (choice) {
                 case 1:
                     store.showStore();
@@ -65,9 +65,10 @@ public class Aims {
         int choice;
         do {
             storeMenu();
-            choice = scanner.nextInt();
+            choice = scanner.nextInt();scanner.nextLine();
             switch (choice) {
                 case 1:
+                    store.showStore();
                     seeMediaDetails();
                     break;
                 case 2:
@@ -100,44 +101,52 @@ public class Aims {
     }
 
     public static void seeMediaDetails() {
-        int choice;
-        do {
-            mediaDetailsMenu();
-            choice = scanner.nextInt();
-            switch (choice) {
-                case 1:
-                    addMediaToCart();
-                    storeMenu();
-                    break;
-                case 2:
-                    playMedia();
-                    storeMenu();
-                    break;
-                case 0:
-                    storeMenu();
-                    break;
-                default:
-                    System.out.println("Invalid choice");
-            }
-        } while (choice != 0);
-    }
-
-    public static void addMediaToCart() {
-        System.out.println("Please enter the title of the media");
-        String title = scanner.nextLine();
+        System.out.println("Please enter the title of the media: ");
+        String title = scanner.nextLine().trim();
         Media media = store.searchMediaByTitle(title);
         if (media == null) {
             System.out.println("Not found");
         } else {
+            int choice;
+            do {
+                System.out.println(media);
+                mediaDetailsMenu();
+                choice = scanner.nextInt();
+                scanner.nextLine();
+                switch (choice) {
+                    case 1:
+                        addMediaToCart();
+                        cart.showCart();
+                        break;
+                    case 2:
+                        playMedia();
+                        break;
+                    case 0:
+                        storeMenu();
+                        break;
+                    default:
+                        System.out.println("Invalid choice");
+                }
+            } while (choice != 0);
+        }
+    }
+
+    public static void addMediaToCart() {
+        System.out.println("Please enter the title of the media: ");
+        String title = scanner.nextLine().trim();
+        Media media = cart.searchMediaByTitle(title);
+        if (media == null) {
             cart.addMedia(media);
+        } else {
+            System.out.println("Media is already in cart");
         }
     }
 
     public static void playMedia() {
         System.out.println("Please enter the title of the media");
-        String title = scanner.nextLine();
+        String title = scanner.nextLine().trim();
         Media media = store.searchMediaByTitle(title);
-        if (!(media instanceof Book)) {
+        if (media instanceof Book) {
             System.out.println("Cannot play this media");
         }
         if (media instanceof DigitalVideoDisc) {
@@ -171,7 +180,7 @@ public class Aims {
         int choice;
         do {
             updateStoreMenu();
-            choice = scanner.nextInt();
+            choice = scanner.nextInt();scanner.nextLine();
             switch (choice) {
                 case 1:
                     addMediaToStore();
@@ -198,7 +207,7 @@ public class Aims {
             System.out.println("3. Add CD");
             System.out.println("0. Back");
             System.out.println("--------------------------------");
-            choice = scanner.nextInt();
+            choice = scanner.nextInt();scanner.nextLine();
             switch(choice) {
                 case 1:
                     store.addBook();
@@ -228,17 +237,17 @@ public class Aims {
             System.out.println("2. Remove by Title");
             System.out.println("0. Back");
             System.out.println("--------------------------------");
-            choice = scanner.nextInt();
+            choice = scanner.nextInt();scanner.nextLine();
             switch (choice) {
                 case 1:
                     System.out.println("Enter id: ");
-                    int id = scanner.nextInt();
+                    int id = scanner.nextInt();scanner.nextLine();
                     Media removeId = store.searchMediaById(id);
                     store.removeMedia(removeId);
                     break;
                 case 2:
                     System.out.println("Enter title: ");
-                    String title = scanner.nextLine();
+                    String title = scanner.next();
                     Media removeTitle = store.searchMediaByTitle(title);
                     store.removeMedia(removeTitle);
                     break;
@@ -263,7 +272,7 @@ public class Aims {
             System.out.println("0. Back");
             System.out.println("--------------------------------");
             System.out.println("Please choose a number: 0-1-2-3-4-5");
-            choice = scanner.nextInt();
+            choice = scanner.nextInt();scanner.nextLine();
             switch (choice) {
                 case 1:
                     filterMediaInCart();
@@ -299,20 +308,28 @@ public class Aims {
             System.out.println("2. Filter by Title");
             System.out.println("0. Back");
             System.out.println("--------------------------------");
-            choice = scanner.nextInt();
+            choice = scanner.nextInt();scanner.nextLine();
             switch (choice) {
                 case 1:
                     System.out.println("Enter id:");
-                    int id = scanner.nextInt();
+                    int id = scanner.nextInt();scanner.nextLine();
                     Media filterId = cart.searchMediaById(id);
-                    System.out.println(filterId.toString());
+                    if (filterId == null) {
+                        System.out.println("Not found");
+                    } else {
+                        System.out.println(filterId.toString());
+                    }
                     break;
                 case 2:
                     System.out.println("Enter title:");
-                    String title = scanner.nextLine();
+                    String title = scanner.nextLine().trim();
                     ArrayList<Media> mediaArrayList = cart.filterMediaByTitle(title);
-                    for(Media media : mediaArrayList) {
-                        System.out.println(media.toString());
+                    if (mediaArrayList.isEmpty()) {
+                        System.out.println("Not found");
+                    } else {
+                        for(Media media : mediaArrayList) {
+                            System.out.println(media.toString());
+                        }
                     }
                     break;
                 case 0:
@@ -333,7 +350,7 @@ public class Aims {
             System.out.println("2. Sort by Title");
             System.out.println("0. Back");
             System.out.println("--------------------------------");
-            choice = scanner.nextInt();
+            choice = scanner.nextInt();scanner.nextLine();
             switch (choice) {
                 case 1:
                     cart.sortByCostTitle();
@@ -361,17 +378,17 @@ public class Aims {
             System.out.println("2. Remove by Title");
             System.out.println("0. Back");
             System.out.println("--------------------------------");
-            choice = scanner.nextInt();
+            choice = scanner.nextInt();scanner.nextLine();
             switch (choice) {
                 case 1:
                     System.out.println("Enter id: ");
-                    int id = scanner.nextInt();
+                    int id = scanner.nextInt();scanner.nextLine();
                     Media removeId = cart.searchMediaById(id);
                     cart.removeMedia(removeId);
                     break;
                 case 2:
                     System.out.println("Enter title: ");
-                    String title = scanner.nextLine();
+                    String title = scanner.nextLine().trim();
                     Media removeTitle = cart.searchMediaByTitle(title);
                     cart.removeMedia(removeTitle);
                     break;

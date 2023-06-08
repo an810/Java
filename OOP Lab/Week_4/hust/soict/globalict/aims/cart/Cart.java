@@ -9,7 +9,7 @@ import java.util.List;
 public class Cart {
     public static final int MAX_NUMBERS_ORDERED = 20;
     private int qtyOrdered = 0;
-    private ArrayList<Media> itemsOrdered = new ArrayList<>();
+    private final ArrayList<Media> itemsOrdered = new ArrayList<>();
     private float totalCost = 0;
 
     public float totalCost() {
@@ -25,7 +25,7 @@ public class Cart {
             if (itemsOrdered.contains(media)) {
                 System.out.println("The media exists already");
             } else {
-                this.itemsOrdered.add(media); qtyOrdered++;
+                itemsOrdered.add(media); qtyOrdered++;
                 System.out.println("The media has been added");
             }
         } else {
@@ -36,7 +36,7 @@ public class Cart {
 
     public void removeMedia(Media media) {
         if (itemsOrdered.contains(media)) {
-            this.itemsOrdered.remove(media); qtyOrdered--;
+            itemsOrdered.remove(media); qtyOrdered--;
             System.out.println("The media has been removed");
         } else {
             System.out.println("The media does not exist");
@@ -72,7 +72,7 @@ public class Cart {
         System.out.println("***********************CART***********************");
         System.out.println("Ordered Items:");
         for (int i = 0; i < qtyOrdered; i++) {
-            System.out.println("ID: " + (i+1) + " - " + itemsOrdered.get(i).toString());
+            System.out.println("ID: " + itemsOrdered.get(i).toString());
         }
         this.totalCost = totalCost();
         System.out.println("Total cost: " + this.totalCost);
