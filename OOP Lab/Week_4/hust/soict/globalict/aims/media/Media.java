@@ -54,7 +54,7 @@ public abstract class Media {
 
     @Override
     public boolean equals(Object o) {
-        if (o instanceof Media) {
+        if (!(o instanceof Media)) {
             return false;
         }
         Media obj = (Media) o;
@@ -65,4 +65,6 @@ public abstract class Media {
     public String toString() {
         return this.id + " - " + this.title + " - " + this.category + " - " + this.cost + "$\n";
     }
+
+
 }

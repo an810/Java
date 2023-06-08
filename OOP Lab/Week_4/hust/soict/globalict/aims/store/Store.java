@@ -33,6 +33,14 @@ public class Store {
             System.out.println("The media does not exist");
         }
     }
+
+    public Media searchMediaByTitle(String title) {
+        for (Media media : itemsInStore) {
+            if (media.getTitle().equals(title))
+                return media;
+        }
+        return null;
+    }
     public void showStore() {
         System.out.println("***********************STORE**********************");
         System.out.println("Items in store:");

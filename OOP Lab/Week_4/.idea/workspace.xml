@@ -1,46 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-<<<<<<< Updated upstream
-    <list default="true" id="b8023dcb-1d8f-4c9a-84a5-606e24c5320b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Week_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week_3/.idea/workspace.xml" afterDir="false" />
-=======
-    <list default="true" id="d6d41449-ca98-413b-864a-fb573a1ac3ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AimsProject/AimsProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/aims/media/CompactDisc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/aims/media/Disc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/aims/media/MediaComparatorByCostTitle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/aims/media/MediaComparatorByTitleCost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/aims/media/Playable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/aims/media/Track.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_4.iml" afterDir="false" />
+    <list default="true" id="263cbdea-5b19-4110-ab02-f21e33f0e9cd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/hust/soict/globalict/aims/Aims.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hust/soict/globalict/aims/cart/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hust/soict/globalict/aims/media/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hust/soict/globalict/aims/media/CompactDisc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hust/soict/globalict/aims/media/DigitalVideoDisc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hust/soict/globalict/aims/media/Disc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hust/soict/globalict/aims/media/Media.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hust/soict/globalict/aims/media/MediaComparatorByCostTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hust/soict/globalict/aims/media/MediaComparatorByTitleCost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hust/soict/globalict/aims/media/Playable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hust/soict/globalict/aims/media/Track.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hust/soict/globalict/aims/store/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hust/soict/globalict/test/cart/CartTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hust/soict/globalict/test/disc/TestingPassingParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hust/soict/globalict/test/store/StoreTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
->>>>>>> Stashed changes
+      <change beforePath="$PROJECT_DIR$/AimsProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/AimsProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/Design/AimsClassDiagram.asta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/Design/AimsClassDiagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/Requirement/AimsUseCaseDiagram.asta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/Requirement/AimsUseCaseDiagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/aims/Aims.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/aims/cart/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/aims/media/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/aims/media/CompactDisc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/aims/media/DigitalVideoDisc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/aims/media/Disc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/aims/media/Media.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/aims/media/MediaComparatorByCostTitle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/aims/media/MediaComparatorByTitleCost.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/aims/media/Playable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/aims/media/Track.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/aims/store/Store.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/test/cart/CartTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/test/disc/TestingPassingParameter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/hust/soict/globalict/test/store/StoreTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Week_4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="2QrhFI2ox2tq6AczGCeneVpXOry" />
+  <component name="ProjectId" id="2QvQYuBk0eOw4pacGYiDduqcvRn" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -50,41 +67,39 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "release/lab04",
-<<<<<<< Updated upstream
-    "last_opened_file_path": "D:/Code/GitHub/HistoryCrawler",
-=======
->>>>>>> Stashed changes
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
+    "git-widget-placeholder": "topic/aims-project/add-media-class",
+    "ignore.virus.scanning.warn.message": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Code\GitHub\Java\OOP Lab\Week_4" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d6d41449-ca98-413b-864a-fb573a1ac3ed" name="Changes" comment="" />
-      <created>1686117503004</created>
+      <changelist id="263cbdea-5b19-4110-ab02-f21e33f0e9cd" name="Changes" comment="" />
+      <created>1686231626420</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-<<<<<<< Updated upstream
-      <updated>1685029820956</updated>
-      <workItem from="1685029821953" duration="3295000" />
-=======
-      <updated>1686117503004</updated>
-      <workItem from="1686117504400" duration="27314000" />
->>>>>>> Stashed changes
+      <updated>1686231626420</updated>
+      <workItem from="1686231627419" duration="113000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

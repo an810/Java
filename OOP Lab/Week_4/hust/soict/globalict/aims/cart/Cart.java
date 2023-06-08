@@ -24,7 +24,6 @@ public class Cart {
         if (qtyOrdered < MAX_NUMBERS_ORDERED) {
             if (itemsOrdered.contains(media)) {
                 System.out.println("The media exists already");
-                return;
             } else {
                 this.itemsOrdered.add(media); qtyOrdered++;
                 System.out.println("The media has been added");
@@ -39,7 +38,6 @@ public class Cart {
         if (itemsOrdered.contains(media)) {
             this.itemsOrdered.remove(media); qtyOrdered--;
             System.out.println("The media has been removed");
-            return;
         } else {
             System.out.println("The media does not exist");
         }
