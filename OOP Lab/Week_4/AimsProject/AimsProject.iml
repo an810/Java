@@ -3,11 +3,7 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-<<<<<<< Updated upstream
-=======
-      <sourceFolder url="file://$MODULE_DIR$/AimsProject" isTestSource="false" />
->>>>>>> Stashed changes
-      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" packagePrefix="Week_3.AimsProject" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
