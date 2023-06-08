@@ -43,6 +43,31 @@ public class Cart {
         }
     }
 
+    public Media searchMediaById(int id) {
+        for (Media media : itemsOrdered) {
+            if (media.getId() == id)
+                return media;
+        }
+        return null;
+    }
+    public Media searchMediaByTitle(String title) {
+        for (Media media : itemsOrdered) {
+            if (media.getTitle().equals(title))
+                return media;
+        }
+        return null;
+    }
+
+    public ArrayList<Media> filterMediaByTitle(String title) {
+        ArrayList<Media> mediaArrayList = new ArrayList<>();
+        for (Media media : itemsOrdered) {
+            if (media.getTitle().contains(title)) {
+                mediaArrayList.add(media);
+            }
+
+        }
+        return mediaArrayList;
+    }
     public void showCart() {
         System.out.println("***********************CART***********************");
         System.out.println("Ordered Items:");
@@ -52,19 +77,6 @@ public class Cart {
         this.totalCost = totalCost();
         System.out.println("Total cost: " + this.totalCost);
         System.out.println("**************************************************");
-    }
-
-    public void searchID(int id)
-    {
-        for (int i = 0; i < qtyOrdered; i++)
-        {
-            if (itemsOrdered.get(i).getId() == id)
-            {
-                System.out.println(itemsOrdered.get(i).toString());
-                return;
-            }
-        }
-        System.out.println("Not found");
     }
 
     public void sortByTitleCost() {

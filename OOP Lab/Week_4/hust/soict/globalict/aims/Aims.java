@@ -7,6 +7,7 @@ import hust.soict.globalict.aims.media.DigitalVideoDisc;
 import hust.soict.globalict.aims.media.Media;
 import hust.soict.globalict.aims.store.Store;
 
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Aims {
@@ -99,40 +100,37 @@ public class Aims {
     }
 
     public static void seeMediaDetails() {
-        System.out.println("Please enter the title of the media");
-        String title = scanner.nextLine();
-        Media media = store.searchMediaByTitle(title);
-        if (media != null) {
-            int choice;
-            do {
-                mediaDetailsMenu();
-                choice = scanner.nextInt();
-                switch (choice) {
-                    case 1:
-                        cart.addMedia(media);
-                        storeMenu();
-                        break;
-                    case 2:
-                        playMedia();
-                        storeMenu();
-                        break;
-                    case 0:
-                        storeMenu();
-                        break;
-                    default:
-                        System.out.println("Invalid choice");
-                }
-            } while (choice != 0);
-        } else {
-            System.out.println("The media is not found");
-        }
+        int choice;
+        do {
+            mediaDetailsMenu();
+            choice = scanner.nextInt();
+            switch (choice) {
+                case 1:
+                    addMediaToCart();
+                    storeMenu();
+                    break;
+                case 2:
+                    playMedia();
+                    storeMenu();
+                    break;
+                case 0:
+                    storeMenu();
+                    break;
+                default:
+                    System.out.println("Invalid choice");
+            }
+        } while (choice != 0);
     }
 
     public static void addMediaToCart() {
         System.out.println("Please enter the title of the media");
         String title = scanner.nextLine();
         Media media = store.searchMediaByTitle(title);
-        cart.addMedia(media);
+        if (media == null) {
+            System.out.println("Not found");
+        } else {
+            cart.addMedia(media);
+        }
     }
 
     public static void playMedia() {
@@ -176,7 +174,11 @@ public class Aims {
             choice = scanner.nextInt();
             switch (choice) {
                 case 1:
+                    addMediaToStore();
+                    break;
                 case 2:
+                    removeMediaFromStore();
+                    break;
                 case 0:
                     showMenu();
                     break;
@@ -185,18 +187,203 @@ public class Aims {
             }
         } while (choice != 0);
     }
-    public static void cartMenu() {
-        System.out.println("Options: ");
-        System.out.println("--------------------------------");
-        System.out.println("1. Filter medias in cart");
-        System.out.println("2. Sort medias in cart");
-        System.out.println("3. Remove media from cart");
-        System.out.println("4. Play a media");
-        System.out.println("5. Place order");
-        System.out.println("0. Back");
-        System.out.println("--------------------------------");
-        System.out.println("Please choose a number: 0-1-2-3-4-5");
+
+    public static void addMediaToStore() {
+        int choice;
+        do {
+            System.out.println("Add Media to Store: ");
+            System.out.println("--------------------------------");
+            System.out.println("1. Add book");
+            System.out.println("2. Add DVD");
+            System.out.println("3. Add CD");
+            System.out.println("0. Back");
+            System.out.println("--------------------------------");
+            choice = scanner.nextInt();
+            switch(choice) {
+                case 1:
+                    store.addBook();
+                    break;
+                case 2:
+                    store.addDvd();
+                    break;
+                case 3:
+                    store.addCd();
+                    break;
+                case 0:
+                    updateStoreMenu();
+                    break;
+                default:
+                    System.out.println("Invalid choice");
+            }
+        } while(choice != 0);
     }
+
+    public static void removeMediaFromStore() {
+        int choice;
+        do {
+            store.showStore();
+            System.out.println("Remove from store: ");
+            System.out.println("--------------------------------");
+            System.out.println("1. Remove by ID");
+            System.out.println("2. Remove by Title");
+            System.out.println("0. Back");
+            System.out.println("--------------------------------");
+            choice = scanner.nextInt();
+            switch (choice) {
+                case 1:
+                    System.out.println("Enter id: ");
+                    int id = scanner.nextInt();
+                    Media removeId = store.searchMediaById(id);
+                    store.removeMedia(removeId);
+                    break;
+                case 2:
+                    System.out.println("Enter title: ");
+                    String title = scanner.nextLine();
+                    Media removeTitle = store.searchMediaByTitle(title);
+                    store.removeMedia(removeTitle);
+                    break;
+                case 0:
+                    updateStoreMenu();
+                    break;
+                default:
+                    System.out.println("Invalid choice");
+            }
+        } while(choice != 0);
+    }
+    public static void cartMenu() {
+        int choice;
+        do {
+            System.out.println("Options: ");
+            System.out.println("--------------------------------");
+            System.out.println("1. Filter medias in cart");
+            System.out.println("2. Sort medias in cart");
+            System.out.println("3. Remove media from cart");
+            System.out.println("4. Play a media");
+            System.out.println("5. Place order");
+            System.out.println("0. Back");
+            System.out.println("--------------------------------");
+            System.out.println("Please choose a number: 0-1-2-3-4-5");
+            choice = scanner.nextInt();
+            switch (choice) {
+                case 1:
+                    filterMediaInCart();
+                    break;
+                case 2:
+                    sortMediaInCart();
+                    break;
+                case 3:
+                    removeMediaFromCart();
+                    break;
+                case 4:
+                    playMedia();
+                    break;
+                case 5:
+                    cart.placeOrder();
+                    break;
+                case 0:
+                    showMenu();
+                    break;
+                default:
+                    System.out.println("Invalid choice");
+            }
+        } while (choice != 0);
+    }
+
+    public static void filterMediaInCart(){
+        int choice;
+        do {
+            store.showStore();
+            System.out.println("Filter medias in cart: ");
+            System.out.println("--------------------------------");
+            System.out.println("1. Filter by ID");
+            System.out.println("2. Filter by Title");
+            System.out.println("0. Back");
+            System.out.println("--------------------------------");
+            choice = scanner.nextInt();
+            switch (choice) {
+                case 1:
+                    System.out.println("Enter id:");
+                    int id = scanner.nextInt();
+                    Media filterId = cart.searchMediaById(id);
+                    System.out.println(filterId.toString());
+                    break;
+                case 2:
+                    System.out.println("Enter title:");
+                    String title = scanner.nextLine();
+                    ArrayList<Media> mediaArrayList = cart.filterMediaByTitle(title);
+                    for(Media media : mediaArrayList) {
+                        System.out.println(media.toString());
+                    }
+                    break;
+                case 0:
+                    cartMenu();
+                    break;
+                default:
+                    System.out.println("Invalid choice");
+            }
+        } while(choice != 0);
+    }
+    public static void sortMediaInCart() {
+        int choice;
+        do {
+            store.showStore();
+            System.out.println("Sort medias in cart: ");
+            System.out.println("--------------------------------");
+            System.out.println("1. Sort by Cost");
+            System.out.println("2. Sort by Title");
+            System.out.println("0. Back");
+            System.out.println("--------------------------------");
+            choice = scanner.nextInt();
+            switch (choice) {
+                case 1:
+                    cart.sortByCostTitle();
+                    cart.showCart();
+                    break;
+                case 2:
+                    cart.sortByTitleCost();
+                    cart.showCart();
+                    break;
+                case 0:
+                    cartMenu();
+                    break;
+                default:
+                    System.out.println("Invalid choice");
+            }
+        } while(choice != 0);
+    }
+    public static void removeMediaFromCart() {
+        int choice;
+        do {
+            store.showStore();
+            System.out.println("Remove from cart: ");
+            System.out.println("--------------------------------");
+            System.out.println("1. Remove by ID");
+            System.out.println("2. Remove by Title");
+            System.out.println("0. Back");
+            System.out.println("--------------------------------");
+            choice = scanner.nextInt();
+            switch (choice) {
+                case 1:
+                    System.out.println("Enter id: ");
+                    int id = scanner.nextInt();
+                    Media removeId = cart.searchMediaById(id);
+                    cart.removeMedia(removeId);
+                    break;
+                case 2:
+                    System.out.println("Enter title: ");
+                    String title = scanner.nextLine();
+                    Media removeTitle = cart.searchMediaByTitle(title);
+                    cart.removeMedia(removeTitle);
+                    break;
+                case 0:
+                    cartMenu();
+                    break;
+                default:
+                    System.out.println("Invalid choice");
+            }
+        } while(choice != 0);
+    }
+
 
 
 }
