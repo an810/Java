@@ -1,0 +1,27 @@
+1. Which classes are aggregates of other classes? Checking all constructors of whole classes if they 
+initialize for their parts?
+-> CompactDisc, Cart, Store, Aims
+2. When overriding the equals() method of the Object class, you will have to cast the Object 
+parameter obj to the type of Object that you are dealing with. For example, in the Media class, you 
+must cast the Object obj to a Media, and then check the equality of the two objects’ attributes as the 
+above requirements (i.e. title for Media; title and length for Track). If the passing object is 
+not an instance of Media, what happens?
+-> If object is not instance of Media, the downcasting will be runtime error. 
+3. What class should implement the Comparable interface?
+-> Media
+4. In those classes, how should you implement the compareTo() method be to reflect the ordering that we 
+want?
+-> @Override
+    public int compare(Media media1, Media media2) {
+        int result = Float.compare(media1.getCost(), media2.getCost());
+        if (result == 0) {
+            return media1.getTitle().compareTo(media2.getTitle());
+        }
+        return result;
+    }
+5. Can we have two ordering rules of the item (by title then cost and by cost then title) if we use this 
+Comparable interface approach?
+-> Collections.sort(media, Comparator.comparing(Media::getCost).thenComparing(Media::getTitle));
+6. Suppose the DVDs has a different ordering rule from the other media types, that is by title, then decreasing 
+length, then cost. How would you modify your code to allow this?
+-> Collections.sort(dvd, Comparator.comparing(DigitalVideoDisc::getTitle).thenComparing(DigitalVideoDisc::getLength)).thenComparing(DigitalVideoDisc::getCost));

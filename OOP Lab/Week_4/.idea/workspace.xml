@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="263cbdea-5b19-4110-ab02-f21e33f0e9cd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/answer.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hust/soict/globalict/aims/Aims.java" beforeDir="false" afterPath="$PROJECT_DIR$/hust/soict/globalict/aims/Aims.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hust/soict/globalict/aims/cart/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/hust/soict/globalict/aims/cart/Cart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hust/soict/globalict/test/cart/CartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/hust/soict/globalict/test/cart/CartTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Week_4/hust/soict/globalict/aims/Aims.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_4/hust/soict/globalict/aims/Aims.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Week_4/hust/soict/globalict/aims/cart/Cart.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week_4/hust/soict/globalict/aims/cart/Cart.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +14,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../.." value="topic/aims-project/add-media-class" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="2QvQYuBk0eOw4pacGYiDduqcvRn" />
@@ -34,8 +35,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "topic/aims-project/add-media-class",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Code/GitHub/Java/OOP Lab/Week_4",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -71,6 +73,8 @@
       <option name="presentableId" value="Default" />
       <updated>1686231626420</updated>
       <workItem from="1686231627419" duration="12435000" />
+      <workItem from="1686295715106" duration="70000" />
+      <workItem from="1686295795372" duration="26000" />
     </task>
     <servers />
   </component>
