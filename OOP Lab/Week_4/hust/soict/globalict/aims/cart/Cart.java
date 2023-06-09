@@ -71,8 +71,11 @@ public class Cart {
     public void showCart() {
         System.out.println("***********************CART***********************");
         System.out.println("Ordered Items:");
-        for (int i = 0; i < qtyOrdered; i++) {
-            System.out.println("ID: " + itemsOrdered.get(i).toString());
+//        for (int i = 0; i < qtyOrdered; i++) {
+//            System.out.println("ID: " + itemsOrdered.get(i).toString());
+//        }
+        for (Media media : itemsOrdered) {
+            System.out.println("ID: " + media.toString());
         }
         this.totalCost = totalCost();
         System.out.println("Total cost: " + this.totalCost);
@@ -88,7 +91,7 @@ public class Cart {
 
     public void placeOrder() {
         System.out.println("--------------------------------");
-        System.out.println("Thanks for ");
+        System.out.println("Thanks for choosing our store");
         System.out.println("--------------------------------");
     }
 }

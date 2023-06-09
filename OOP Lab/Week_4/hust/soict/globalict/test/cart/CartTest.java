@@ -9,8 +9,17 @@ public class CartTest {
     public static void main(String[] args) {
         // Create a new cart
         Cart cart = new Cart();
-        Media media = new Book("An", "truyen", 12);
-        cart.addMedia(media);
+        Media media1 = new Book("An", "truyen", 12);
+        Media media2 = new DigitalVideoDisc("spider", "phim", "mv", 120,12);
+        Media media3 = new Book("Anh", "truyen", 102);
+
+        cart.addMedia(media1);
+        cart.addMedia(media2);
+        cart.addMedia(media3);
+
+        cart.sortByTitleCost();
+        cart.showCart();
+        cart.sortByCostTitle();
         cart.showCart();
     }
 }

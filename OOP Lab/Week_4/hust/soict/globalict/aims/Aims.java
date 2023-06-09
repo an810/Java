@@ -82,7 +82,6 @@ public class Aims {
                     cartMenu();
                     break;
                 case 0:
-                    showMenu();
                     break;
                 default:
                     System.out.println("Invalid choice");
@@ -122,7 +121,6 @@ public class Aims {
                         playMedia();
                         break;
                     case 0:
-                        storeMenu();
                         break;
                     default:
                         System.out.println("Invalid choice");
@@ -136,7 +134,7 @@ public class Aims {
         String title = scanner.nextLine().trim();
         Media media = cart.searchMediaByTitle(title);
         if (media == null) {
-            cart.addMedia(media);
+            cart.addMedia(store.searchMediaByTitle(title));
         } else {
             System.out.println("Media is already in cart");
         }
@@ -189,7 +187,6 @@ public class Aims {
                     removeMediaFromStore();
                     break;
                 case 0:
-                    showMenu();
                     break;
                 default:
                     System.out.println("Invalid choice");
@@ -219,7 +216,6 @@ public class Aims {
                     store.addCd();
                     break;
                 case 0:
-                    updateStoreMenu();
                     break;
                 default:
                     System.out.println("Invalid choice");
@@ -252,7 +248,6 @@ public class Aims {
                     store.removeMedia(removeTitle);
                     break;
                 case 0:
-                    updateStoreMenu();
                     break;
                 default:
                     System.out.println("Invalid choice");
@@ -290,7 +285,6 @@ public class Aims {
                     cart.placeOrder();
                     break;
                 case 0:
-                    showMenu();
                     break;
                 default:
                     System.out.println("Invalid choice");
@@ -301,7 +295,7 @@ public class Aims {
     public static void filterMediaInCart(){
         int choice;
         do {
-            store.showStore();
+            cart.showCart();
             System.out.println("Filter medias in cart: ");
             System.out.println("--------------------------------");
             System.out.println("1. Filter by ID");
@@ -333,7 +327,6 @@ public class Aims {
                     }
                     break;
                 case 0:
-                    cartMenu();
                     break;
                 default:
                     System.out.println("Invalid choice");
@@ -343,7 +336,7 @@ public class Aims {
     public static void sortMediaInCart() {
         int choice;
         do {
-            store.showStore();
+            cart.showCart();
             System.out.println("Sort medias in cart: ");
             System.out.println("--------------------------------");
             System.out.println("1. Sort by Cost");
@@ -361,7 +354,6 @@ public class Aims {
                     cart.showCart();
                     break;
                 case 0:
-                    cartMenu();
                     break;
                 default:
                     System.out.println("Invalid choice");
@@ -371,7 +363,7 @@ public class Aims {
     public static void removeMediaFromCart() {
         int choice;
         do {
-            store.showStore();
+            cart.showCart();
             System.out.println("Remove from cart: ");
             System.out.println("--------------------------------");
             System.out.println("1. Remove by ID");
@@ -393,7 +385,6 @@ public class Aims {
                     cart.removeMedia(removeTitle);
                     break;
                 case 0:
-                    cartMenu();
                     break;
                 default:
                     System.out.println("Invalid choice");
