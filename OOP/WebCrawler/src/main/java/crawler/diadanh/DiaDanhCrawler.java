@@ -9,6 +9,8 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.*;
 
+import static crawler.UrlDecode.getCodeFromUrl;
+
 public class DiaDanhCrawler {
     public static void main(String[] args) throws IOException {
         // Home page
@@ -50,7 +52,7 @@ public class DiaDanhCrawler {
             if (titleElement != null) {
                 diaDanh.setTenDiaDanh(titleElement.text());
             }
-
+            diaDanh.setCode(getCodeFromUrl(completeUrl));
             // Get description
 //            StringBuffer desBuffer = new StringBuffer();
             Elements desElements = doc.select("div.com-content-article__body > p");

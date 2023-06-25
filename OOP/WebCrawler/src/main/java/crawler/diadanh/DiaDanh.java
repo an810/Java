@@ -4,6 +4,7 @@ import java.util.Set;
 
 public class DiaDanh {
     private String tenDiaDanh;
+    private String code;
     private String description;
     private Set<String> nhanVatLienQuan;
 
@@ -25,6 +26,14 @@ public class DiaDanh {
         this.tenDiaDanh = tenDiaDanh;
     }
 
+    public String getCode() {
+        return code;
+    }
+
+    public void setCode(String code) {
+        this.code = code;
+    }
+
     public String getDescription() {
         return description;
     }
@@ -44,6 +53,7 @@ public class DiaDanh {
     @Override
     public String toString() {
         return "\n{ \"Dia danh\":\"" + this.tenDiaDanh + "\", "
+                + "\n\"code\":\"" + this.code + "\", "
                 + "\n\"Mieu ta\":\"" + this.description + "\", "
                 + "\n\"Nhan vat lien quan\":\"" + this.nhanVatLienQuan + "\" }" + "\n";
     }

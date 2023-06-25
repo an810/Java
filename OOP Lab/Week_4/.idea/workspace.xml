@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="263cbdea-5b19-4110-ab02-f21e33f0e9cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/answer.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="263cbdea-5b19-4110-ab02-f21e33f0e9cd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +32,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "release/lab04",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "D:/Code/GitHub/Java/OOP Lab/Week_4",
     "node.js.detected.package.eslint": "true",
@@ -75,6 +72,7 @@
       <workItem from="1686231627419" duration="12435000" />
       <workItem from="1686295715106" duration="70000" />
       <workItem from="1686295795372" duration="26000" />
+      <workItem from="1686296496221" duration="338000" />
     </task>
     <servers />
   </component>
