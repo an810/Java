@@ -21,7 +21,7 @@ public class AddCDToStoreScreen extends JFrame implements AddItemToStoreScreen {
     public AddCDToStoreScreen(Store store)
     {
         Container cp = getContentPane();
-        cp.setLayout(new GridLayout(8, 2));
+        cp.setLayout(new GridLayout(9, 2));
 
         tfTitle = new JTextField(10);
         cp.add(new JLabel("Title: "));
@@ -73,11 +73,11 @@ public class AddCDToStoreScreen extends JFrame implements AddItemToStoreScreen {
         });
 
 
-        buttonPanel.setLayout(new GridLayout(1, 2)); // Set the layout to 1 row and 2 columns
-        buttonPanel.add(submitButton); // Add the button to the buttonPanel
+        buttonPanel.setLayout(new GridLayout(1, 2));
+        buttonPanel.add(submitButton);
 
-        cp.add(new JLabel()); // Add an empty label to occupy the first column
-        cp.add(buttonPanel); // Add the buttonPanel to the container
+        cp.add(new JLabel());
+        cp.add(buttonPanel);
 
         setTitle("Add CD");
         setSize(300, 200);

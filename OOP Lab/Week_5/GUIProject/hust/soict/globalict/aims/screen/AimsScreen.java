@@ -2,7 +2,7 @@ package hust.soict.globalict.aims.screen;
 
 import hust.soict.globalict.aims.cart.Cart;
 import hust.soict.globalict.aims.media.Book;
-import hust.soict.globalict.aims.media.CompactDisc;
+
 import hust.soict.globalict.aims.media.DigitalVideoDisc;
 import hust.soict.globalict.aims.media.Track;
 import hust.soict.globalict.aims.store.Store;
@@ -21,8 +21,6 @@ public class AimsScreen {
         ArrayList<Track> tracks = new ArrayList<>();
         tracks.add(track);
 
-//        CompactDisc cd = new CompactDisc("Java Core I", "Coding", (float) 30.00, 2
-//                , "None", "Tran Anh", tracks);
 
         Book book = new Book("C Programming", "Coding", (float) 20.00);
         book.addAuthor("Tran Anh");
@@ -30,7 +28,7 @@ public class AimsScreen {
         book.addAuthor("Mai Duc An");
 
         store.addMedia(dvd);
-//        store.addMedia(cd);
+
         store.addMedia(book);
 
         new StoreScreen(store, cart);

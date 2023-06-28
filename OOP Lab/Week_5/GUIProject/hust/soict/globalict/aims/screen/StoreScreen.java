@@ -4,17 +4,15 @@ import hust.soict.globalict.aims.cart.Cart;
 import hust.soict.globalict.aims.media.Media;
 import javax.swing.*;
 import hust.soict.globalict.aims.store.Store;
-import javafx.event.ActionEvent;
 
 import java.awt.*;
-import java.awt.event.ActionListener;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 import java.util.ArrayList;
 
 public class StoreScreen extends JFrame {
-    private Store store;
-    private Cart cart;
+    private final Store store;
+    private final Cart cart;
     private JPanel centerPanel;
 
     public StoreScreen(Store store, Cart cart) {
@@ -24,7 +22,8 @@ public class StoreScreen extends JFrame {
         cp.setLayout(new BorderLayout());
 
         cp.add(createNorth(), BorderLayout.NORTH);
-        cp.add(createCenter(), BorderLayout.CENTER);
+        this.centerPanel = createCenter();
+        cp.add(centerPanel, BorderLayout.CENTER);
 
         setVisible(true);
         setTitle("Store");
@@ -99,11 +98,11 @@ public class StoreScreen extends JFrame {
 
         menu.add(smUpdateStore);
         menu.add(new JMenuItem("View Store"));
+
         JMenuItem viewCartBtn = new JMenuItem("View Cart");
         viewCartBtn.addActionListener(e -> {
-            CartScreen cartScreen = new CartScreen(cart, store);
+            new CartScreen(cart, store);
         });
-        menu.add(viewCartBtn);
 
         menu.add(viewCartBtn);
 
@@ -122,14 +121,17 @@ public class StoreScreen extends JFrame {
         title.setFont(new Font(title.getFont().getName(), Font.PLAIN, 50));
         title.setForeground(Color.CYAN);
 
-        JButton cart = new JButton("View cart");
-        cart.setPreferredSize(new Dimension(100, 50));
-        cart.setMaximumSize(new Dimension(100, 50));
+        JButton btnCart = new JButton("View cart");
+        btnCart.addActionListener(e -> {
+            new CartScreen(cart, store);
+        });
+        btnCart.setPreferredSize(new Dimension(100, 50));
+        btnCart.setMaximumSize(new Dimension(100, 50));
 
         header.add(Box.createRigidArea(new Dimension(10, 10)));
         header.add(title);
         header.add(Box.createHorizontalGlue());
-        header.add(cart);
+        header.add(btnCart);
         header.add(Box.createRigidArea(new Dimension(10, 10)));
 
         return header;

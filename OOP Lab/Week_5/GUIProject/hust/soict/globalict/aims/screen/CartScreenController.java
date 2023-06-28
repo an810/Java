@@ -1,6 +1,5 @@
 package hust.soict.globalict.aims.screen;
 import hust.soict.globalict.aims.cart.Cart;
-import hust.soict.globalict.aims.exception.PlayerException;
 import hust.soict.globalict.aims.media.Media;
 import hust.soict.globalict.aims.media.Playable;
 import hust.soict.globalict.aims.store.Store;
@@ -21,8 +20,8 @@ import javafx.stage.Window;
 import javax.swing.*;
 import java.awt.*;
 public class CartScreenController {
-    private Cart cart;
-    private Store store;
+    private final Cart cart;
+    private final Store store;
     @FXML
     private Button btnPlay;
     @FXML
@@ -31,10 +30,6 @@ public class CartScreenController {
     private TextField tfFilter;
     @FXML
     private Label total;
-    @FXML
-    private RadioButton radioBtnFilterId;
-    @FXML
-    private RadioButton radioBtnFilterTitle;
 
     @FXML
     private TableView<Media> tblMedia;
@@ -62,12 +57,9 @@ public class CartScreenController {
         btnRemove.setVisible(false);
 
         tblMedia.getSelectionModel().selectedItemProperty().addListener(
-                new ChangeListener<Media>() {
-                    @Override
-                    public void changed(ObservableValue<? extends Media> observable, Media oldValue, Media newValue) {
-                        if (newValue != null) {
-                            updateButtonBar(newValue);
-                        }
+                (observable, oldValue, newValue) -> {
+                    if (newValue != null) {
+                        updateButtonBar(newValue);
                     }
                 }
         );
@@ -88,11 +80,7 @@ public class CartScreenController {
 
     void updateButtonBar(Media media) {
         btnRemove.setVisible(true);
-        if (media instanceof Playable) {
-            btnPlay.setVisible(true);
-        } else {
-            btnPlay.setVisible(false);
-        }
+        btnPlay.setVisible(media instanceof Playable);
     }
     @FXML
     void btnRemovePressed(ActionEvent event) {
@@ -104,7 +92,7 @@ public class CartScreenController {
     }
 
     @FXML
-    void btnPlayPressed(ActionEvent event) throws PlayerException {
+    void btnPlayPressed(ActionEvent event) {
 //        Media media = tblMedia.getSelectionModel().getSelectedItem();
 
         JDialog playDialog = new JDialog();
@@ -134,7 +122,7 @@ public class CartScreenController {
         label.setFont(new Font("Arial", Font.PLAIN, 16));
 
         playDialog.add(label);
-        playDialog.setSize(100, 100);
+        playDialog.setSize(300, 120);
         playDialog.setLocationRelativeTo(null); // Center the dialog on the screen
         playDialog.setVisible(true);
     }

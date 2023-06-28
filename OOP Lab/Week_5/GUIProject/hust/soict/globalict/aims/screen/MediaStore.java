@@ -17,6 +17,7 @@ public class MediaStore extends JPanel {
         this.cart = cart;
     }
     public MediaStore(Media media, Cart cart) {
+        setCart(cart);
         this.media = media;
         ButtonListioner listioner = new ButtonListioner();
         this.setLayout(new BoxLayout(this, BoxLayout.Y_AXIS));
@@ -50,7 +51,7 @@ public class MediaStore extends JPanel {
         this.setBorder(BorderFactory.createLineBorder(Color.BLACK));
     }
 
-    private class ButtonListioner implements ActionListener {
+    private class ButtonListioner implements ActionListener  {
         @Override
         public void actionPerformed(ActionEvent e) {
             String s = e.getActionCommand();
