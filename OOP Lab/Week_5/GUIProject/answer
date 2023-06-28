@@ -1,0 +1,4 @@
+14.	Update the Aims class
+If the necessary updates are not made to the Aims class to handle exceptions generated during the execution of the play() methods,
+an error will occur indicating that the exception is unhandled. This error will not only disrupt the functioning of the Media class,
+but it will also impact other classes that depend on the play() method.

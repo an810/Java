@@ -17,18 +17,12 @@ public class AimsScreen {
         DigitalVideoDisc dvd = new DigitalVideoDisc("The Lion King", "Animation"
                 , "Roger Allers", 87, 19.95f);
 
-        Track track = new Track("Haha", 3);
-        ArrayList<Track> tracks = new ArrayList<>();
-        tracks.add(track);
 
-
-        Book book = new Book("C Programming", "Coding", (float) 20.00);
-        book.addAuthor("Tran Anh");
-        book.addAuthor("Do Hong Hai");
+        Book book = new Book("Doraemon", "Comics", (float) 12.00);
         book.addAuthor("Mai Duc An");
 
-        store.addMedia(dvd);
 
+        store.addMedia(dvd);
         store.addMedia(book);
 
         new StoreScreen(store, cart);
