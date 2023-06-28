@@ -56,7 +56,7 @@
             </TableView>
             <ButtonBar prefHeight="40.0" prefWidth="200.0">
               <buttons>
-                <Button fx:id="btnPlay" mnemonicParsing="false" text="Play" />
+                <Button fx:id="btnPlay" mnemonicParsing="false" onAction="#btnPlayPressed" text="Play" />
                   <Button fx:id="btnRemove" mnemonicParsing="false" onAction="#btnRemovePressed" text="Remove" />
               </buttons>
                <VBox.margin>
@@ -74,17 +74,17 @@
          <children>
             <MenuBar>
               <menus>
-                <Menu fx:id="Options" mnemonicParsing="false">
+                <Menu fx:id="Options" mnemonicParsing="false" text="Options">
                   <items>
-                        <Menu mnemonicParsing="false" text="Unspecified Menu">
+                        <Menu mnemonicParsing="false" text="Update Store">
                           <items>
-                          <MenuItem mnemonicParsing="false" text="Close" />
-                            <MenuItem mnemonicParsing="false" text="Action 1" />
-                              <MenuItem mnemonicParsing="false" text="Unspecified Action" />
+                          <MenuItem mnemonicParsing="false" text="Add Book" />
+                            <MenuItem mnemonicParsing="false" text="Add CD" />
+                              <MenuItem mnemonicParsing="false" text="Add DVD" />
                           </items>
                         </Menu>
-                        <MenuItem mnemonicParsing="false" text="Unspecified Action" />
-                        <MenuItem mnemonicParsing="false" text="Unspecified Action" />
+                        <MenuItem mnemonicParsing="false" text="View Store" onAction="#btnViewStorePressed" />
+                        <MenuItem mnemonicParsing="false" text="View Cart" />
                   </items>
                 </Menu>
               </menus>
@@ -105,14 +105,14 @@
                         <Font size="24.0" />
                      </font>
                   </Label>
-                  <Label text="0$" textFill="AQUA">
+                  <Label fx:id="total" text="0$" textFill="AQUA">
                      <font>
                         <Font size="24.0" />
                      </font>
                   </Label>
                </children>
             </HBox>
-            <Button mnemonicParsing="false" style="-fx-background-color: red;" text="Place Order" textFill="WHITE">
+            <Button  mnemonicParsing="false" onAction="#btnPlaceOrderPressed" style="-fx-background-color: red;" text="Place Order" textFill="WHITE">
                <font>
                   <Font size="24.0" />
                </font>

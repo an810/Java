@@ -114,19 +114,11 @@ public class Cart {
     public void play(Media media) throws PlayerException {
         if (media instanceof DigitalVideoDisc) {
             DigitalVideoDisc disc = (DigitalVideoDisc) media;
-            if(disc.getLength() < 0) {
-                System.out.println("Cannot play this disc");
-            } else {
-                disc.play();
-            }
+            disc.play();
         }
         if (media instanceof CompactDisc) {
             CompactDisc disc = (CompactDisc) media;
-            if (disc.getLength() < 0) {
-                System.out.println("Cannot play this disc");
-            } else {
-                disc.play();
-            }
+            disc.play();
         }
     }
 }

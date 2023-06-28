@@ -16,7 +16,7 @@ public class MediaStore extends JPanel {
     public void setCart(Cart cart) {
         this.cart = cart;
     }
-    public MediaStore(Media media) {
+    public MediaStore(Media media, Cart cart) {
         this.media = media;
         ButtonListioner listioner = new ButtonListioner();
         this.setLayout(new BoxLayout(this, BoxLayout.Y_AXIS));

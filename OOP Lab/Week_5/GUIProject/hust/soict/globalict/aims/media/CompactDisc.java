@@ -8,11 +8,18 @@ import java.util.Iterator;
 public class CompactDisc extends Disc implements Playable{
     private String arttist;
     private ArrayList<Track> tracks;
+    private Track track;
 
     public CompactDisc(String title, String category, String director, int length, float cost, String arttist) {
         super(title, category, director, length, cost);
         this.arttist = arttist;
     }
+    public CompactDisc(String title, String category, String director, int length, float cost, String arttist,Track track) {
+        super(title, category, director, length, cost);
+        this.arttist = arttist;
+        this.track = track;
+    }
+
 
     public String getArttist() {
         return arttist;
@@ -36,11 +43,12 @@ public class CompactDisc extends Disc implements Playable{
     }
     @Override
     public int getLength() {
-        int sum = 0;
-        for (Track t : tracks) {
-            sum += t.getLength();
-        }
-        return sum;
+//        int sum = 0;
+//        for (Track t : tracks) {
+//            sum += t.getLength();
+//        }
+//        return sum;
+        return track.getLength();
     }
 
     @Override

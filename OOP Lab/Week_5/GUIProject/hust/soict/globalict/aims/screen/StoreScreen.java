@@ -4,15 +4,22 @@ import hust.soict.globalict.aims.cart.Cart;
 import hust.soict.globalict.aims.media.Media;
 import javax.swing.*;
 import hust.soict.globalict.aims.store.Store;
+import javafx.event.ActionEvent;
 
 import java.awt.*;
+import java.awt.event.ActionListener;
+import java.awt.event.WindowAdapter;
+import java.awt.event.WindowEvent;
 import java.util.ArrayList;
 
 public class StoreScreen extends JFrame {
     private Store store;
     private Cart cart;
-    public StoreScreen(Store store) {
+    private JPanel centerPanel;
+
+    public StoreScreen(Store store, Cart cart) {
         this.store = store;
+        this.cart = cart;
         Container cp = getContentPane();
         cp.setLayout(new BorderLayout());
 
@@ -35,13 +42,70 @@ public class StoreScreen extends JFrame {
         JMenu menu = new JMenu("Options");
 
         JMenu smUpdateStore = new JMenu("Update Store");
-        smUpdateStore.add(new JMenu("Add Book"));
-        smUpdateStore.add(new JMenu("Add CD"));
-        smUpdateStore.add(new JMenu("Add DVD"));
+
+        JMenuItem btnAddDVD = new JMenuItem("Add DVD");
+        btnAddDVD.addActionListener(e -> {
+            AddDVDToStoreScreen addDVDToStoreScreen = new AddDVDToStoreScreen(store);
+            addDVDToStoreScreen.addWindowListener(new WindowAdapter() {
+                @Override
+                public void windowClosed(WindowEvent e) {
+                    SwingUtilities.invokeLater(() -> {
+                        getContentPane().remove(centerPanel);
+                        centerPanel = createCenter();
+                        getContentPane().add(centerPanel, BorderLayout.CENTER);
+                        getContentPane().revalidate();
+                        getContentPane().repaint();
+                    });
+                }
+            });
+        });
+        smUpdateStore.add(btnAddDVD);
+
+        JMenuItem btnAddCD = new JMenuItem("Add CD");
+        btnAddCD.addActionListener(e -> {
+            AddCDToStoreScreen addCDToStoreScreen = new AddCDToStoreScreen(store);
+            addCDToStoreScreen.addWindowListener(new WindowAdapter() {
+                @Override
+                public void windowClosed(WindowEvent e) {
+                    SwingUtilities.invokeLater(() -> {
+                        getContentPane().remove(centerPanel);
+                        centerPanel = createCenter();
+                        getContentPane().add(centerPanel, BorderLayout.CENTER);
+                        getContentPane().revalidate();
+                        getContentPane().repaint();
+                    });
+                }
+            });
+        });
+        smUpdateStore.add(btnAddCD);
+
+        JMenuItem btnAddBook = new JMenuItem("Add Book");
+        btnAddBook.addActionListener(e -> {
+            AddBookToStoreScreen addBookToStoreScreen = new AddBookToStoreScreen(store);
+            addBookToStoreScreen.addWindowListener(new WindowAdapter() {
+                @Override
+                public void windowClosed(WindowEvent e) {
+                    SwingUtilities.invokeLater(() -> {
+                        getContentPane().remove(centerPanel);
+                        centerPanel = createCenter();
+                        getContentPane().add(centerPanel, BorderLayout.CENTER);
+                        getContentPane().revalidate();
+                        getContentPane().repaint();
+                    });
+                }
+            });
+        });
+        smUpdateStore.add(btnAddBook);
 
         menu.add(smUpdateStore);
-        menu.add(new JMenuItem("View store"));
-        menu.add(new JMenuItem("View cart"));
+        menu.add(new JMenuItem("View Store"));
+        JMenuItem viewCartBtn = new JMenuItem("View Cart");
+        viewCartBtn.addActionListener(e -> {
+            CartScreen cartScreen = new CartScreen(cart, store);
+        });
+        menu.add(viewCartBtn);
+
+        menu.add(viewCartBtn);
 
         JMenuBar menuBar = new JMenuBar();
         menuBar.setLayout(new FlowLayout(FlowLayout.LEFT));
@@ -76,10 +140,12 @@ public class StoreScreen extends JFrame {
         center.setLayout(new GridLayout(3, 3, 2, 2));
 
         ArrayList<Media> mediaInStore = store.getItemsInStore();
-        for (int i = 0; i < 9; i++) {
-            MediaStore cell = new MediaStore(mediaInStore.get(i));
+        for (Media media : mediaInStore) {
+            MediaStore cell = new MediaStore(media, cart);
             center.add(cell);
         }
         return center;
     }
+
+
 }

@@ -22,6 +22,7 @@ public class PainterController {
 
     @FXML
     void drawingAreaMouseDragged(MouseEvent event) {
+        if (event.getX() <= 0 || event.getY() <= 0) return;
         if (pen) {
             Circle pen = new Circle(event.getX(), event.getY(), 4, Color.BLACK);
             drawingAreaPane.getChildren().add(pen);

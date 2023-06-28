@@ -5,10 +5,14 @@ import java.util.List;
 
 public class Book extends Media {
     private List<String> authors = new ArrayList<String>();
+    private String author;
     public Book(String title, String category, float cost) {
         super(title, category, cost);
     }
-
+    public Book(String title, String category, float cost, String author) {
+        super(title, category, cost);
+        this.author = author;
+    }
     public void addAuthor(String name) {
         if (authors.contains(name)) {
             System.out.println("The author exists already");
