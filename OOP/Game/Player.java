@@ -32,7 +32,7 @@ public abstract class Player {
 
     @Override
     public String toString() {
-        return "Player: " + this.getName() + ", score: " + this.getScore() +"\n";
+        return "Player: " + this.getName() + ", score: " + this.getScore();
     }
 
 }

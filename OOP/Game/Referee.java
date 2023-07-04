@@ -35,6 +35,9 @@ public class Referee {
             int result = dice.roll();
             System.out.println("Dice rolled: " + result);
             players.get(num-1).addScore(result);
+            for (Player player : players) {
+                System.out.println(player.toString());
+            }
             if (players.get(num-1).getScore() == 21) {
                 endGamePlay(players.get(num-1));
                 return;

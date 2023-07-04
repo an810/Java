@@ -13,7 +13,7 @@ public class Main {
                 System.out.println("Please enter number of real players: ");
                 String input = scanner.nextLine();
                 nbRealPlayer = Integer.parseInt(input);
-                if (nbRealPlayer <=0 || nbRealPlayer > Player.MAX_PLAYERS) {
+                if (nbRealPlayer < 0 || nbRealPlayer > Player.MAX_PLAYERS) {
                     throw new IllegalArgumentException();
                 }
                 break;
@@ -33,7 +33,6 @@ public class Main {
                 players.add(new VirtualPlayer(i));
             }
         }
-
         Referee referee = new Referee(players);
         referee.play();
     }
