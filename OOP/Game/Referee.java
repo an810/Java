@@ -1,5 +1,7 @@
+import java.util.InputMismatchException;
 import java.util.List;
 import java.util.Random;
+import java.util.Scanner;
 
 public class Referee {
     private List<Player> players;
@@ -11,20 +13,35 @@ public class Referee {
 
     public void play() {
         while (true) {
-            for (Player player : players) {
-                System.out.println("Player " + player.getName() + "'s turn");
-                Dice dice = new Dice(randomeDice());
-                int result = dice.roll();
-                System.out.println("Dice rolled: " + result);
-                player.addScore(result);
-                if (player.getScore() == 21) {
-                    endGamePlay(player);
-                    return;
+            Scanner scanner = new Scanner(System.in);
+            int num;
+            while (true) {
+                try {
+                    System.out.println("Choose 1 player (1-4): ");
+                    num = scanner.nextInt();
+                    scanner.nextLine();
+                    if (num <= 0 || num > 4) {
+                        throw new IllegalArgumentException();
+                    }
+                    break;
+                } catch (NumberFormatException e) {
+                    System.out.println("The input is not a number. Please enter again!");
+                } catch (IllegalArgumentException e) {
+                    System.out.println("Invalid number. The number must be 1-4");
                 }
-                else if (player.getScore() > 21) {
-                    player.resetScore();
-                    System.out.println("Player " + player.getName() + "'s score is over 21, we have reset your score!");
-                }
+            }
+            System.out.println("Player " + players.get(num-1).getName() + "'s turn");
+            Dice dice = new Dice(randomeDice());
+            int result = dice.roll();
+            System.out.println("Dice rolled: " + result);
+            players.get(num-1).addScore(result);
+            if (players.get(num-1).getScore() == 21) {
+                endGamePlay(players.get(num-1));
+                return;
+            }
+            else if (players.get(num-1).getScore() > 21) {
+                players.get(num-1).resetScore();
+                System.out.println("Player " + players.get(num-1).getName() + "'s score is over 21, we have reset your score!");
             }
         }
     }
